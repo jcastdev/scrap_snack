@@ -8,15 +8,15 @@ on:
         required: false
         default: "dia carrefour coto laanonima"
       categoria:
-        description: "Categorías (snacks almacen galletitas golosinas ...)"
+        description: "Categorias (snacks almacen galletitas golosinas ...)"
         required: false
         default: "snacks"
       max:
-        description: "Máximo de productos por supermercado"
+        description: "Maximo de productos por supermercado"
         required: false
         default: "200"
   schedule:
-    - cron: "0 11 * * *"  # 08:00 ART (UTC-3) todos los días
+    - cron: "0 11 * * *"  # 08:00 ART (UTC-3) todos los dias
 
 jobs:
   scrape:
@@ -82,11 +82,9 @@ jobs:
                   print(f'| {k} | {v} |')
           ")
 
-          **Total: ${PRODUCTOS} productos** — \`resultados/todos_${FECHA}.json\`
+          **Total: ${PRODUCTOS} productos** -- \`resultados/todos_${FECHA}.json\`
           EOF
 
-          # Prepend entry after the first line of last_run.md
-          # Prepend entry after the first line of last_run.md
           head -1 memory/last_run.md > /tmp/last_run_new.md
           cat /tmp/last_run_entry.md >> /tmp/last_run_new.md
           tail -n +2 memory/last_run.md >> /tmp/last_run_new.md
@@ -98,5 +96,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add resultados/ memory/
-          git diff --cached --quiet || git commit -m "results: ${FECHA} — scraper automático"
+          git diff --cached --quiet || git commit -m "results: ${FECHA} -- scraper automatico"
           git push
