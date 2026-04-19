@@ -413,17 +413,19 @@ async def scrape_coto(categorias, marcas, max_productos):
         else {k: v for k, v in cats.items() if not categorias or k in categorias}
     )
 
-    async with httpx.AsyncClient(headers=HEADERS, timeout=30, follow_redirects=True) as client:
+    async with httpx.AsyncClient(headers=HEADERS, timeout=60, follow_redirects=True) as client:
         for tag, term in terminos.items():
             print(f"  [Coto] Buscando: {tag} ...")
             offset = 0
             page_size = 48
             while offset < max_productos:
-                url = (f"{base}/sitios/cdigi/browse"
-                       f"?Ntt={term}&No={offset}&Nrpp={page_size}&format=json")
+                target_url = (f"{base}/sitios/cdigi/browse"
+                              f"?Ntt={term}&No={offset}&Nrpp={page_size}&format=json")
+                url = _scraperapi_url(target_url)
                 try:
                     resp = await client.get(url)
                     if resp.status_code != 200:
+                        print(f"    HTTP {resp.status_code} — saltando.")
                         break
                     rl = _coto_results_list(resp.json())
                     if not rl or not rl.get("records"):
