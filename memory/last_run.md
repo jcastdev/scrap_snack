@@ -1,5 +1,16 @@
 # Último run
 
+## 20260419 22:10
+
+| Supermercado | Estado | Productos | Archivo |
+|---|---|---|---|
+| La Anónima | ok (caché) | 153 | resultados/laanonima_20260419.json |
+
+**Categoría**: snacks
+**Nota**: SCRAPERAPI_KEY no configurada — se usaron resultados del run anterior. curl directo devuelve 403.
+
+---
+
 ## 20260419 21:46
 
 | Supermercado | Productos |
