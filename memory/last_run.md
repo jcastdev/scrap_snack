@@ -1,5 +1,15 @@
 # Último run
 
+## 20260419 18:45
+
+| Supermercado | Estado | Productos | Archivo |
+|---|---|---|---|
+| Supermercados DIA | ok | 193 | resultados/dia_snacks_almacen_20260419.json |
+
+**Categoría solicitada**: `snacks almacen` — subcategorías: galletitas, golosinas, chocolates, caramelos, arroz, fideos, aderezos, azucar, legumbres, aceites
+
+---
+
 ## 20260419 18:23
 
 | Supermercado | Productos |
