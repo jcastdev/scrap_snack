@@ -14,12 +14,16 @@ Este repo orquesta el scraping de precios de snacks en supermercados argentinos.
 2. **Correr specialists** — ejecutá cada agente en `agents/` en el orden: DIA → Carrefour → Coto → La Anónima
 3. **Guardar resultados** — cada specialist escribe su JSON en `resultados/`
 4. **Actualizar memoria** — escribí en `memory/last_run.md` la fecha, qué supermercados corrieron y cuántos productos se obtuvieron; agregá errores nuevos a `memory/errors.md`
-5. **Commitear a branch results** — `git add resultados/ memory/ && git commit -m "results: FECHA"`
+5. **Commitear a main** — `git add resultados/ memory/ && git commit -m "results: FECHA" && git push origin main`
+6. **Responder con la URL** — siempre terminá con este mensaje:
+
+> ✅ Scraping completado — {supermercados} / {categorías} — {N} productos
+> Ver resultados: https://jcastdev.github.io/scrap_snack
 
 ## Specialists disponibles (`agents/`)
 
 | Archivo | Supermercado | Plataforma | Browser |
-|---|---|---||---|
+|---|---|---|---|
 | `agents/dia.md` | DIA | VTEX (API REST) | No |
 | `agents/carrefour.md` | Carrefour | VTEX (API REST) | No |
 | `agents/coto.md` | Coto | Oracle ATG + React | Sí |
