@@ -1,6 +1,6 @@
 ---
 name: webhook-notify
-description: "Envía eventos a Argentive al terminar cada tarea. Usá este skill al final de cualquier rutina para notificar resultados, errores, memoria y resumen de sesión."
+description: "Envía eventos a Argentive al terminar cada tarea. Usá este skill al final de cualquier rutina para notificar resultados, config, memoria y resumen de sesión."
 ---
 
 # Webhook Notify — Argentive
@@ -8,25 +8,43 @@ description: "Envía eventos a Argentive al terminar cada tarea. Usá este skill
 Endpoint: `https://argentive.ai/api/webhook/claude`
 Auth: `Authorization: Bearer $ARGENTIVE_TOKEN`
 
-Enviá **siempre** estos eventos en orden al terminar una rutina:
+Variables de entorno requeridas:
+| Variable | Descripción |
+|---|---|
+| `ARGENTIVE_TOKEN` | Bearer token del usuario |
+| `ARGENTIVE_HUB_ID` | ID del hub en Argentive |
+| `ARGENTIVE_AGENT_ID` | ID del agente/specialist en Argentive |
 
 ---
 
-## 1. Evento: scraping (si corriste el scraper)
+## Eventos disponibles
+
+### 1. config_sync — cuando cambia CLAUDE.md, agents/, skills/ o memory/
+
+Enviá este evento cada vez que modifiques archivos de configuración del repo.
+Argentive usa esto para mantener un espejo de la config de Claude Code.
 
 ```bash
 curl -s -X POST https://argentive.ai/api/webhook/claude \
   -H "Authorization: Bearer $ARGENTIVE_TOKEN" \
   -H "Content-Type: application/json" \
   -d "{
+    \"hub_id\": \"$ARGENTIVE_HUB_ID\",
+    \"agent_id\": \"$ARGENTIVE_AGENT_ID\",
     \"session_id\": \"$(git rev-parse --abbrev-ref HEAD)\",
-    \"event_type\": \"scraping\",
+    \"event_type\": \"config_sync\",
     \"payload\": {
-      \"supermercados\": [\"<SUPERS>\"],
-      \"categorias\": [\"<CATS>\"],
-      \"total\": <N>,
-      \"duracion_seg\": <SEG>,
-      \"productos\": <PRODUCTOS_JSON>,
+      \"claude_md\": \"<CONTENIDO_CLAUDE_MD>\",
+      \"specialists\": [
+        { \"slug\": \"<SLUG>\", \"prompt\": \"<CONTENIDO_AGENT_MD>\" }
+      ],
+      \"skills\": [
+        { \"nombre\": \"<NOMBRE>\", \"contenido\": \"<CONTENIDO_SKILL_MD>\" }
+      ],
+      \"memoria\": {
+        \"last_run\": \"<CONTENIDO_LAST_RUN>\",
+        \"errors\": \"<CONTENIDO_ERRORS>\"
+      },
       \"timestamp\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"
     }
   }"
@@ -34,18 +52,43 @@ curl -s -X POST https://argentive.ai/api/webhook/claude \
 
 ---
 
-## 2. Evento: memory_update (si escribiste memoria)
+### 2. task_result — resultado de cualquier tarea ejecutada
 
 ```bash
 curl -s -X POST https://argentive.ai/api/webhook/claude \
   -H "Authorization: Bearer $ARGENTIVE_TOKEN" \
   -H "Content-Type: application/json" \
   -d "{
+    \"hub_id\": \"$ARGENTIVE_HUB_ID\",
+    \"agent_id\": \"$ARGENTIVE_AGENT_ID\",
+    \"session_id\": \"$(git rev-parse --abbrev-ref HEAD)\",
+    \"event_type\": \"task_result\",
+    \"payload\": {
+      \"tarea\": \"<DESCRIPCION_TAREA>\",
+      \"resultado\": \"<RESULTADO_LIBRE>\",
+      \"datos\": { },
+      \"timestamp\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"
+    }
+  }"
+```
+
+---
+
+### 3. memory_update — cuando se escribe memoria
+
+```bash
+curl -s -X POST https://argentive.ai/api/webhook/claude \
+  -H "Authorization: Bearer $ARGENTIVE_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d "{
+    \"hub_id\": \"$ARGENTIVE_HUB_ID\",
+    \"agent_id\": \"$ARGENTIVE_AGENT_ID\",
     \"session_id\": \"$(git rev-parse --abbrev-ref HEAD)\",
     \"event_type\": \"memory_update\",
     \"payload\": {
+      \"tipo\": \"long_term\",
       \"archivo\": \"<ARCHIVO>\",
-      \"accion\": \"write\",
+      \"contenido\": \"<CONTENIDO>\",
       \"timestamp\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"
     }
   }"
@@ -53,20 +96,20 @@ curl -s -X POST https://argentive.ai/api/webhook/claude \
 
 ---
 
-## 3. Evento: error (si hubo errores)
+### 4. error — cuando algo falla
 
 ```bash
 curl -s -X POST https://argentive.ai/api/webhook/claude \
   -H "Authorization: Bearer $ARGENTIVE_TOKEN" \
   -H "Content-Type: application/json" \
   -d "{
+    \"hub_id\": \"$ARGENTIVE_HUB_ID\",
+    \"agent_id\": \"$ARGENTIVE_AGENT_ID\",
     \"session_id\": \"$(git rev-parse --abbrev-ref HEAD)\",
     \"event_type\": \"error\",
     \"payload\": {
-      \"supermercado\": \"<SUPER>\",
-      \"http_status\": <STATUS>,
       \"mensaje\": \"<MENSAJE>\",
-      \"url\": \"<URL>\",
+      \"contexto\": \"<DONDE_OCURRIO>\",
       \"timestamp\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"
     }
   }"
@@ -74,27 +117,29 @@ curl -s -X POST https://argentive.ai/api/webhook/claude \
 
 ---
 
-## 4. Evento: session_summary (SIEMPRE al final)
+### 5. session_summary — SIEMPRE al final de cada sesión
 
 ```bash
 curl -s -X POST https://argentive.ai/api/webhook/claude \
   -H "Authorization: Bearer $ARGENTIVE_TOKEN" \
   -H "Content-Type: application/json" \
   -d "{
+    \"hub_id\": \"$ARGENTIVE_HUB_ID\",
+    \"agent_id\": \"$ARGENTIVE_AGENT_ID\",
     \"session_id\": \"$(git rev-parse --abbrev-ref HEAD)\",
     \"event_type\": \"session_summary\",
     \"payload\": {
-      \"agentes\": [\"<AGENTES_USADOS>\"],
-      \"sub_agentes\": [],
-      \"tools\": [\"<TOOLS_USADOS>\"],
-      \"mcp\": [\"<MCP_USADOS>\"],
-      \"memoria\": {
-        \"leidas\": [\"<ARCHIVOS_LEIDOS>\"],
-        \"escritas\": [\"<ARCHIVOS_ESCRITOS>\"]
+      \"task_log\": {
+        \"provider\": \"anthropic\",
+        \"model\": \"claude-sonnet-4-6\",
+        \"duration_seg\": <SEG>,
+        \"tools_used\": [\"<TOOLS>\"],
+        \"mcp_servers\": [\"<MCP>\"],
+        \"skills_used\": [\"<SKILLS>\"],
+        \"cost_usd\": <COSTO_ESTIMADO>
       },
-      \"bash_commands\": [\"<COMANDOS_EJECUTADOS>\"],
-      \"duracion_seg\": <SEG>,
       \"estado\": \"completed\",
+      \"resumen\": \"<UNA_LINEA_DE_LO_QUE_HIZO>\",
       \"timestamp\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"
     }
   }"
@@ -102,16 +147,19 @@ curl -s -X POST https://argentive.ai/api/webhook/claude \
 
 ---
 
+## Orden de envío por sesión
+
+```
+1. config_sync     → si modificaste CLAUDE.md, agents/, skills/ o memory/
+2. task_result     → por cada tarea completada
+3. memory_update   → si escribiste memoria
+4. error           → si hubo errores
+5. session_summary → SIEMPRE al final (obligatorio)
+```
+
 ## Reglas
 
-- Enviá los eventos **en orden**: scraping → memory_update → error → session_summary
-- El evento `session_summary` es **obligatorio** — siempre al final, incluso si hubo errores
-- Si el curl falla (non-200), reintentá hasta 3 veces con 2s de espera entre intentos
-- `$ARGENTIVE_TOKEN` viene de las variables de entorno de la rutina — nunca lo hardcodees
-- En `session_summary` listá todos los tools y MCP que realmente usaste en la sesión
-
-## Variables de entorno requeridas
-
-| Variable | Descripción |
-|---|---|
-| `ARGENTIVE_TOKEN` | Bearer token del usuario para autenticar en Argentive |
+- `session_summary` es **obligatorio** — enviarlo siempre, incluso si hubo errores
+- Si el curl falla (non-200), reintentá 3 veces con 2s entre intentos
+- Nunca hardcodees tokens — siempre usar variables de entorno
+- `config_sync` solo cuando realmente cambiaron archivos de config
