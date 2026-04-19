@@ -64,11 +64,7 @@ SUPERS = {
             "leche":       "lacteos-y-frescos/leche",
             "yogur":       "lacteos-y-frescos/yogures",
             "quesos":      "lacteos-y-frescos/quesos",
-            # snacks: las subcategorías de DIA que contienen snacks
-            "snacks": [
-                "almacen/galletitas", "almacen/golosinas", "almacen/chocolates",
-                "almacen/caramelos",
-            ],
+            "snacks":        "almacen/picadas/snacks",
             # Alias generales -> lista de paths a combinar
             "almacen": [
                 "almacen/galletitas", "almacen/golosinas", "almacen/chocolates",
