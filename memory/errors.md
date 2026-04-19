@@ -1,5 +1,12 @@
 # Log de errores
 
+## 20260419 — La Anónima — snacks
+
+- **Código/Tipo**: HTTP 403 (acceso directo desde entorno Claude)
+- **URL**: https://www.laanonima.com.ar
+- **Detalle**: El entorno bloquea requests directas; se ejecutó via GitHub Actions (success).
+- **Acción tomada**: Workflow scraper.yml disparado — completado con éxito.
+
 ## 20260419 — Todos los supermercados
 
 - **Código/Tipo**: HTTP 403 — "Host not in allowlist"
