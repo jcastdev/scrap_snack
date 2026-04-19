@@ -1,5 +1,15 @@
 # Último run
 
+## 20260419 19:00
+
+| Supermercado | Estado | Productos | Archivo | Nota |
+|---|---|---|---|---|
+| Coto | error HTTP 403 | — | — | WAF sandbox bloquea requests externas; ScraperAPI también bloqueado |
+
+**Categoría solicitada**: snacks de almacén (`--categoria almacen`)
+
+---
+
 ## 20260419 18:23
 
 | Supermercado | Productos |
