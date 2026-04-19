@@ -1,6 +1,12 @@
 # Último run
 
-Sin runs previos — primera ejecución.
+## 20260419 17:50
+
+| Supermercado | Estado | Productos | Archivo |
+|---|---|---|---|
+| Coto | error HTTP 403 | — | — |
+
+**Notas**: Coto bloquea completamente este servidor con WAF ("Host not in allowlist"). Ver `memory/errors.md` para detalles.
 
 ---
 
