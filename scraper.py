@@ -17,6 +17,7 @@ Uso:
 import asyncio
 import json
 import argparse
+import os
 import time
 from datetime import datetime
 from collections import Counter
@@ -220,7 +221,7 @@ async def scrape_dia(categorias, marcas, max_productos):
                            f"?ft={marca}&_from={offset}&_to={min(offset+49, max_productos-1)}")
                     try:
                         resp = await client.get(url)
-                        if resp.status_code not in (200, 206):
+                        if resp.status_code != 200:
                             break
                         products = resp.json()
                         if not products:
@@ -258,7 +259,7 @@ async def scrape_dia(categorias, marcas, max_productos):
                                f"?_from={offset}&_to={min(offset+49, max_productos-1)}")
                         try:
                             resp = await client.get(url)
-                            if resp.status_code not in (200, 206):
+                            if resp.status_code != 200:
                                 break
                             products = resp.json()
                             if not products:
@@ -575,8 +576,21 @@ async def main():
             print(f"  Error en {cfg['nombre']}: {e}")
 
     todos = deduplicar(todos)
+
+    # Combinar con resultados previos de otros supers (para runs parciales)
+    fecha_hoy = datetime.now().strftime("%Y%m%d")
+    todos_path = f"resultados/todos_{fecha_hoy}.json"
+    if os.path.exists(todos_path):
+        with open(todos_path, encoding="utf-8") as f:
+            previos = json.load(f)
+        supers_actuales = {p["supermercado"] for p in todos}
+        previos_otros = [p for p in previos if p["supermercado"] not in supers_actuales]
+        todos = deduplicar(previos_otros + todos)
+
     print(f"\n{'='*60}")
     print(f"  TOTAL: {len(todos)} productos | Tiempo: {time.time() - t0:.1f}s")
+    os.makedirs("resultados", exist_ok=True)
+    guardar_json(todos, todos_path)
     guardar_json(todos, args.output)
     counts = Counter(p["supermercado"] for p in todos)
     print("\n  Desglose:")
