@@ -1,5 +1,12 @@
 # Log de errores
 
+## 20260419 — La Anónima — snacks (intento 2)
+
+- **Código/Tipo**: HTTP 403
+- **URL**: https://www.laanonima.com.ar
+- **Detalle**: El entorno bloquea requests directas. Sitio devolvió 403 en pre-verificación.
+- **Acción tomada**: Scraping salteado — no es error crítico. Requiere entorno con acceso a Internet real.
+
 ## 20260419 — La Anónima — snacks
 
 - **Código/Tipo**: HTTP 403 (acceso directo desde entorno Claude)
