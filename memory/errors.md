@@ -1,6 +1,13 @@
 # Log de errores
 
-## 20260419 — Coto
+## 20260419 — Todos los supermercados
+
+- **Código/Tipo**: HTTP 403 — "Host not in allowlist"
+- **URL**: todas (cotodigital.com.ar, cotodigital3.com.ar, diaonline.supermercadosdia.com.ar, carrefour.com.ar)
+- **Detalle**: El entorno de ejecución tiene un WAF/sandbox que bloquea todas las requests HTTP externas. No es un bloqueo del supermercado sino una restricción de red del entorno.
+- **Acción tomada**: scraping saltado — requiere entorno con acceso a Internet (usar GitHub Actions)
+
+## 20260419 — Coto (detalle adicional)
 
 - **Código/Tipo**: HTTP 403 — "Host not in allowlist"
 - **URLs probadas**:
@@ -10,7 +17,7 @@
   - `https://www.coto.com.ar/` (dominio principal)
 - **Detalle**: El servidor Oracle ATG devuelve "Host not in allowlist" para todas las URLs, tanto en acceso directo como vía ScraperAPI (proxy residencial AR). El WAF de Coto bloquea IPs de datacenter sin excepción.
 - **Acción tomada**: 0 productos obtenidos. Requiere proxy residencial o acceso desde IP argentina no-datacenter.
-- **Próximo paso**: Verificar manualmente desde un browser real antes de reintentar. Considerar usar Playwright con IP argentina real o revisar si hay un API público alternativo.
+- **Próximo paso**: Verificar manualmente desde un browser real. Considerar usar Playwright con IP argentina real o revisar si hay un API público alternativo.
 
 <!-- Formato para agregar entradas:
 

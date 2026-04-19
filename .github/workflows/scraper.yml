@@ -85,6 +85,8 @@ jobs:
           **Total: ${PRODUCTOS} productos** — \`resultados/todos_${FECHA}.json\`
           EOF
 
+          # Prepend entry after the first line of last_run.md
+          # Prepend entry after the first line of last_run.md
           head -1 memory/last_run.md > /tmp/last_run_new.md
           cat /tmp/last_run_entry.md >> /tmp/last_run_new.md
           tail -n +2 memory/last_run.md >> /tmp/last_run_new.md
