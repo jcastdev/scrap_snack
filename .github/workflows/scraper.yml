@@ -1,0 +1,100 @@
+name: Scraper Supermercados
+
+on:
+  workflow_dispatch:
+    inputs:
+      super:
+        description: "Supermercados (dia carrefour coto laanonima)"
+        required: false
+        default: "dia carrefour coto laanonima"
+      categoria:
+        description: "Categorías (snacks almacen galletitas golosinas ...)"
+        required: false
+        default: "snacks"
+      max:
+        description: "Máximo de productos por supermercado"
+        required: false
+        default: "200"
+  schedule:
+    - cron: "0 11 * * *"  # 08:00 ART (UTC-3) todos los días
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install httpx beautifulsoup4
+
+      - name: Correr scraper
+        run: |
+          FECHA=$(date +%Y%m%d)
+          SUPER="${{ github.event.inputs.super || 'dia carrefour coto laanonima' }}"
+          CATEGORIA="${{ github.event.inputs.categoria || 'snacks' }}"
+          MAX="${{ github.event.inputs.max || '200' }}"
+
+          python scraper.py \
+            --super $SUPER \
+            --categoria $CATEGORIA \
+            --max $MAX \
+            --output resultados/todos_${FECHA}.json
+
+      - name: Actualizar memoria
+        run: |
+          FECHA=$(date +%Y%m%d)
+          HORA=$(date +%H:%M)
+          PRODUCTOS=$(python3 -c "
+          import json, glob, os
+          fecha = '${FECHA}'
+          archivos = glob.glob(f'resultados/todos_{fecha}.json')
+          if not archivos:
+              print('0')
+          else:
+              data = json.load(open(archivos[0]))
+              print(len(data))
+          ")
+
+          cat > /tmp/last_run_entry.md << EOF
+
+          ## ${FECHA} ${HORA}
+
+          | Supermercado | Productos |
+          |---|---|
+          $(python3 -c "
+          import json, glob
+          from collections import Counter
+          f = glob.glob('resultados/todos_${FECHA}.json')
+          if f:
+              data = json.load(open(f[0]))
+              c = Counter(p['supermercado'] for p in data)
+              for k,v in c.items():
+                  print(f'| {k} | {v} |')
+          ")
+
+          **Total: ${PRODUCTOS} productos** — \`resultados/todos_${FECHA}.json\`
+          EOF
+
+          head -1 memory/last_run.md > /tmp/last_run_new.md
+          cat /tmp/last_run_entry.md >> /tmp/last_run_new.md
+          tail -n +2 memory/last_run.md >> /tmp/last_run_new.md
+          mv /tmp/last_run_new.md memory/last_run.md
+
+      - name: Commit resultados
+        run: |
+          FECHA=$(date +%Y%m%d)
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add resultados/ memory/
+          git diff --cached --quiet || git commit -m "results: ${FECHA} — scraper automático"
+          git push
