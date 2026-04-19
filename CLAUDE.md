@@ -2,7 +2,18 @@
 
 ## Branch de trabajo
 
-Siempre trabajar sobre `main` directamente. No crear branches intermedios ni pull requests.
+**NUNCA crear pull requests. NUNCA.** Aunque el SDK cree una branch temporal (`claude/...`), siempre pusheá directo a `main` con:
+
+```bash
+git fetch origin main
+git checkout main
+git pull origin main
+git checkout -          # volvé a tu branch temporal
+git rebase origin/main  # incorporá los últimos cambios de main
+git push origin HEAD:main
+```
+
+Si hay conflictos en el rebase, resolvelos y continuá (`git rebase --continue`). Nunca abrir un PR.
 
 ## Rol del hub
 
@@ -14,7 +25,13 @@ Este repo orquesta el scraping de precios de snacks en supermercados argentinos.
 2. **Correr specialists** — ejecutá cada agente en `agents/` en el orden: DIA → Carrefour → Coto → La Anónima
 3. **Guardar resultados** — cada specialist escribe su JSON en `resultados/`
 4. **Actualizar memoria** — escribí en `memory/last_run.md` la fecha, qué supermercados corrieron y cuántos productos se obtuvieron; agregá errores nuevos a `memory/errors.md`
-5. **Commitear a main** — `git add resultados/ memory/ && git commit -m "results: FECHA" && git push origin main`
+5. **Commitear a main** — Commiteá en tu branch y pusheá directo a `main` sin PR:
+   ```bash
+   git add resultados/ memory/
+   git commit -m "results: FECHA"
+   git fetch origin main && git rebase origin/main
+   git push origin HEAD:main
+   ```
 6. **Responder con la URL** — siempre terminá con este mensaje:
 
 > ✅ Scraping completado — {supermercados} / {categorías} — {N} productos
