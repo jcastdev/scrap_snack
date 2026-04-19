@@ -1,5 +1,16 @@
 # Último run
 
+## 20260419 19:30
+
+| Supermercado | Estado | Productos | Archivo |
+|---|---|---|---|
+| La Anónima | ok | 153 | resultados/laanonima_20260419.json |
+
+**Categoría**: snacks (`snacks/n2_522`)
+**Nota**: curl directo devuelve 403 (CloudFront/datacenter) — scraper vía ScraperAPI funciona correctamente.
+
+---
+
 ## 20260419 19:00
 
 | Supermercado | Estado | Productos | Archivo |
