@@ -1,0 +1,802 @@
+[
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados Clasicos Dia 120 Gr.",
+    "marca": "DIA",
+    "precio": 1480.0,
+    "precio_lista": 1480.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/palitos-salados-clasicos-dia-120-gr-299409/p",
+    "timestamp": "2026-04-19T19:24:07.754000"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Lays Clásicas X 40 Gr.",
+    "marca": "LAY'S",
+    "precio": 2300.0,
+    "precio_lista": 2300.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/papas-fritas-lays-clasicas-x-40-gr-296645/p",
+    "timestamp": "2026-04-19T19:24:07.754022"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Nachos Sabor A Queso Doritos X 40 Gr.",
+    "marca": "DORITOS",
+    "precio": 2300.0,
+    "precio_lista": 2300.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/nachos-sabor-a-queso-doritos-x-40-gr-261868/p",
+    "timestamp": "2026-04-19T19:24:07.754032"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Nachos Sabor A Queso Doritos X 129 Gr.",
+    "marca": "DORITOS",
+    "precio": 3800.0,
+    "precio_lista": 5400.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/nachos-sabor-a-queso-doritos-x-129-gr-107734/p",
+    "timestamp": "2026-04-19T19:24:07.754042"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados Krachitos 110 Gr.",
+    "marca": "KRACHITOS",
+    "precio": 1665.0,
+    "precio_lista": 1665.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/palitos-salados-krachitos-110-gr-34440/p",
+    "timestamp": "2026-04-19T19:24:07.754062"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Maní Tostado Salado Sin Piel Dia 105 Gr.",
+    "marca": "DIA",
+    "precio": 1120.0,
+    "precio_lista": 1120.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/mani-tostado-salado-sin-piel-dia-105-gr-3441/p",
+    "timestamp": "2026-04-19T19:24:07.754072"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados Cheddar Dia 120 Gr.",
+    "marca": "DIA",
+    "precio": 1890.0,
+    "precio_lista": 1890.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/palitos-salados-cheddar-dia-120-gr-292402/p",
+    "timestamp": "2026-04-19T19:24:07.754081"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Palitos De Jamón Dia 120 Gr.",
+    "marca": "DIA",
+    "precio": 1890.0,
+    "precio_lista": 1890.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/palitos-de-jamon-dia-120-gr-292401/p",
+    "timestamp": "2026-04-19T19:24:07.754093"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Galletitas Pancitos Jamon Horneados Snack Dia 70 Gr.",
+    "marca": "DIA",
+    "precio": 796.0,
+    "precio_lista": 796.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/galletitas-pancitos-jamon-horneados-snack-dia-70-gr-285373/p",
+    "timestamp": "2026-04-19T19:24:07.754101"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Snack Pep Rueditas Pizza 120 Gr.",
+    "marca": "PEP",
+    "precio": 3370.0,
+    "precio_lista": 3370.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/snack-pep-rueditas-pizza-120-gr-273113/p",
+    "timestamp": "2026-04-19T19:24:07.754110"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chizitos De Maíz Pehuamar Maicitos X 125 Gr.",
+    "marca": "PEHUAMAR",
+    "precio": 3600.0,
+    "precio_lista": 3600.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chizitos-de-maiz-pehuamar-maicitos-x-125-gr-273111/p",
+    "timestamp": "2026-04-19T19:24:07.754127"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Tubitos De Harina De Maíz Sabor Queso 3D Mega Queso X 143 Gr.",
+    "marca": "3D",
+    "precio": 5400.0,
+    "precio_lista": 5400.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/tubitos-de-harina-de-maiz-sabor-queso-3d-mega-queso-x-143-gr-273071/p",
+    "timestamp": "2026-04-19T19:24:07.754135"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Maní Salado Sin Piel Dia 105 Gr.",
+    "marca": "DIA",
+    "precio": 1120.0,
+    "precio_lista": 1120.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/mani-salado-sin-piel-dia-105-gr-7125/p",
+    "timestamp": "2026-04-19T19:24:07.754143"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chizitos Krachitos 170 Gr.",
+    "marca": "KRACHITOS",
+    "precio": 3197.0,
+    "precio_lista": 3197.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chizitos-krachitos-170-gr-6944/p",
+    "timestamp": "2026-04-19T19:24:07.754155"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Mani Frito Salado Sin Piel Croppers 45 Gr.",
+    "marca": "CROPPERS",
+    "precio": 625.0,
+    "precio_lista": 625.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/mani-frito-salado-sin-piel-croppers-45-gr-310893/p",
+    "timestamp": "2026-04-19T19:24:07.754163"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Doritos Sabor a Pizza 74 Gr.",
+    "marca": "DORITOS",
+    "precio": 3850.0,
+    "precio_lista": 3850.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/doritos-sabor-a-pizza-74-gr-310695/p",
+    "timestamp": "2026-04-19T19:24:07.754171"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Snacks Ondulados Ket Cheetos 80 Gr.",
+    "marca": "CHEETOS",
+    "precio": 3090.0,
+    "precio_lista": 3850.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/snacks-ondulados-ket-cheetos-80-gr-310555/p",
+    "timestamp": "2026-04-19T19:24:07.754178"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Nachos Sabor Original Tosti 100 Gr.",
+    "marca": "TOSTITOS",
+    "precio": 2700.0,
+    "precio_lista": 3600.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/nachos-sabor-original-tosti-100-gr-309815/p",
+    "timestamp": "2026-04-19T19:24:07.754185"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Palitos Sabor Mostaza Krachitos 110 Gr.",
+    "marca": "KRACHITOS",
+    "precio": 1783.0,
+    "precio_lista": 1783.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/palitos-sabor-mostaza-krachitos-110-gr-309325/p",
+    "timestamp": "2026-04-19T19:24:07.754192"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Nachos Macritas 250 Gr.",
+    "marca": "MACRITAS",
+    "precio": 4780.0,
+    "precio_lista": 4780.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/nachos-macritas-250-gr-309150/p",
+    "timestamp": "2026-04-19T19:24:07.754199"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Doritos Dinamita Picantes Extra Flamin Hot 82 Gr.",
+    "marca": "DORITOS",
+    "precio": 3000.0,
+    "precio_lista": 3000.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/nachos-dinamita-picantes-extra-flamin-hot-82-gr-308803/p",
+    "timestamp": "2026-04-19T19:24:07.754207"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Doritos Dinamita Picantes Flamin Hot 82 Gr.",
+    "marca": "DORITOS",
+    "precio": 3000.0,
+    "precio_lista": 3000.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/nachos-dinamita-picantes-flamin-hot-doritos-82-gr-306655/p",
+    "timestamp": "2026-04-19T19:24:07.754213"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Mani Pelado Y Salado Dia 500 Gr.",
+    "marca": "DIA",
+    "precio": 4990.0,
+    "precio_lista": 4990.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/mani-pelado-y-salado-dia-500-gr-306015/p",
+    "timestamp": "2026-04-19T19:24:07.754218"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Snack Bastonitos Extra Queso Kranchitos 60 Gr.",
+    "marca": "KRACHITOS",
+    "precio": 1685.0,
+    "precio_lista": 1685.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/snack-bastonitos-extra-queso-kranchitos-60-gr-300938/p",
+    "timestamp": "2026-04-19T19:24:07.754223"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Tablitas Semillas Dia 100 Gr.",
+    "marca": "DIA",
+    "precio": 1291.0,
+    "precio_lista": 1291.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/tablitas-semillas-dia-100-gr-289462/p",
+    "timestamp": "2026-04-19T19:24:07.754227"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Batatas Fritas Slices Terra 65 Gr.",
+    "marca": "SLICES TERRA",
+    "precio": 1680.0,
+    "precio_lista": 1680.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/batatas-fritas-slices-terra-65-gr-287787/p",
+    "timestamp": "2026-04-19T19:24:07.754232"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Galletitas Pancitos Pizza Horneados Snack Dia 70 Gr.",
+    "marca": "SIN MARCA",
+    "precio": 796.0,
+    "precio_lista": 796.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/galletitas-pancitos-pizza-horneados-snack-dia-70-gr-285372/p",
+    "timestamp": "2026-04-19T19:24:07.754237"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chizitos De Maíz Sabor A Queso Cheetos Original X 140 Gr.",
+    "marca": "CHEETOS",
+    "precio": 5400.0,
+    "precio_lista": 5400.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chizitos-de-maiz-sabor-a-queso-cheetos-original-x-140-gr-258509/p",
+    "timestamp": "2026-04-19T19:24:07.754245"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Maní Pelado Salado Krachitos 70 Gr.",
+    "marca": "KRACHITOS",
+    "precio": 1405.0,
+    "precio_lista": 1405.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/mani-pelado-salado-krachitos-70-gr-242401/p",
+    "timestamp": "2026-04-19T19:24:07.754249"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Nachos Sabor A Queso Doritos X 200 Gr.",
+    "marca": "DORITOS",
+    "precio": 8800.0,
+    "precio_lista": 8800.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/nachos-sabor-a-queso-doritos-x-200-gr-106494/p",
+    "timestamp": "2026-04-19T19:24:07.754252"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados Sabor Quesp Pep X 84 Gr.",
+    "marca": "PEP",
+    "precio": 2150.0,
+    "precio_lista": 2150.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/palitos-salados-sabor-quesp-pep-x-84-gr-46579/p",
+    "timestamp": "2026-04-19T19:24:07.754256"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Maní Tostado Pelado Sin Sal Dia 105 Gr.",
+    "marca": "DIA",
+    "precio": 1120.0,
+    "precio_lista": 1120.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/mani-tostado-pelado-sin-sal-dia-105-gr-7126/p",
+    "timestamp": "2026-04-19T19:24:07.754259"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Nachos Sab Original Tosti 260 Gr.",
+    "marca": "TOSTITOS",
+    "precio": 6800.0,
+    "precio_lista": 6800.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/nachos-sab-original-tosti-260-gr-309817/p",
+    "timestamp": "2026-04-19T19:24:07.754262"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Snack Intense Queso Takis 85 Gr.",
+    "marca": "TAKIS",
+    "precio": 3115.0,
+    "precio_lista": 3115.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/snack-intense-queso-takis-85-gr-309785/p",
+    "timestamp": "2026-04-19T19:24:07.754265"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Nueces Peladas Dia 100 Gr.",
+    "marca": "DIA",
+    "precio": 4990.0,
+    "precio_lista": 4990.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/nueces-peladas-dia-100-gr-306017/p",
+    "timestamp": "2026-04-19T19:24:07.754268"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados Pehuamar X 165 Gr.",
+    "marca": "PEHUAMAR",
+    "precio": 3500.0,
+    "precio_lista": 3500.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/palitos-salados-pehuamar-x-165-gr-301177/p",
+    "timestamp": "2026-04-19T19:24:07.754271"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Maní Salado Sin Piel Sabor Crema & Cebolla Dia 100 Gr.",
+    "marca": "DIA",
+    "precio": 1301.0,
+    "precio_lista": 1301.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/mani-salado-sin-piel-sabor-crema---cebolla-dia-100-gr-299699/p",
+    "timestamp": "2026-04-19T19:24:07.754274"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Mani Sin Sal Conosur 500 Gr.",
+    "marca": "CONOSUR",
+    "precio": 5290.0,
+    "precio_lista": 5290.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/mani-sin-sal-conosur-500-gr-298808/p",
+    "timestamp": "2026-04-19T19:24:07.754277"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Nachos Sabor A Queso Doritos X 77 Gr.",
+    "marca": "DORITOS",
+    "precio": 3509.0,
+    "precio_lista": 3509.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/nachos-sabor-a-queso-doritos-x-77-gr-296687/p",
+    "timestamp": "2026-04-19T19:24:07.754280"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Maní Japonés Jamón Dia 65 Gr.",
+    "marca": "DIA",
+    "precio": 1950.0,
+    "precio_lista": 1950.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/mani-japones-jamon-dia-65-gr-296591/p",
+    "timestamp": "2026-04-19T19:24:07.754283"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Maní Japonés Pizza Dia 65 Gr.",
+    "marca": "DIA",
+    "precio": 1950.0,
+    "precio_lista": 1950.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/mani-japones-pizza-dia-65-gr-296589/p",
+    "timestamp": "2026-04-19T19:24:07.754286"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Maní Japonés Original Dia 65 Gr.",
+    "marca": "DIA",
+    "precio": 1950.0,
+    "precio_lista": 1950.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/mani-japones-original-dia-65-gr-296588/p",
+    "timestamp": "2026-04-19T19:24:07.754289"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Tablitas Clasicas Dia 100 Gr.",
+    "marca": "DIA",
+    "precio": 1291.0,
+    "precio_lista": 1291.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/tablitas-clasicas-dia-100-gr-289461/p",
+    "timestamp": "2026-04-19T19:24:07.754292"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Galletitas Pancitos Horneados Snack Dia Clasico 70 Gr.",
+    "marca": "SIN MARCA",
+    "precio": 796.0,
+    "precio_lista": 796.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/galletitas-pancitos-horneados-snack-dia-clasico-70-gr-285371/p",
+    "timestamp": "2026-04-19T19:24:07.754294"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados Sabor Panceta Pep X 120 Gr.",
+    "marca": "PEP",
+    "precio": 3370.0,
+    "precio_lista": 3370.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/palitos-salados-sabor-panceta-pep-x-120-gr-273112/p",
+    "timestamp": "2026-04-19T19:24:07.754298"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Palitos Sabor A Queso Pehuamar X 165 Gr.",
+    "marca": "PEHUAMAR",
+    "precio": 3500.0,
+    "precio_lista": 3500.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/palitos-sabor-a-queso-pehuamar-x-165-gr-259398/p",
+    "timestamp": "2026-04-19T19:24:07.754304"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Snack De Arroz Jamon Dia 50 Gr.",
+    "marca": "DIA",
+    "precio": 1301.0,
+    "precio_lista": 1301.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/snack-de-arroz-jamon-dia-50-gr-239496/p",
+    "timestamp": "2026-04-19T19:24:07.754307"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Snacks de Arroz Queso Dia 50 Gr.",
+    "marca": "DIA",
+    "precio": 1301.0,
+    "precio_lista": 1301.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/snacks-de-arroz-queso-dia-50-gr-211585/p",
+    "timestamp": "2026-04-19T19:24:07.754310"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Snack Palitos De Maíz Sabor Queso Dia 140 Gr.",
+    "marca": "DIA",
+    "precio": 2200.0,
+    "precio_lista": 2200.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/snack-palitos-de-maiz-sabor-queso-dia-140-gr-135187/p",
+    "timestamp": "2026-04-19T19:24:07.754313"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Snack Sabor Queso Crema Cheetos 85 Gr.",
+    "marca": "CHEETOS",
+    "precio": 3850.0,
+    "precio_lista": 3850.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/snack-sabor-queso-crema-cheetos-85-gr-24822/p",
+    "timestamp": "2026-04-19T19:24:07.754318"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Mani Crocante Jalapeño Croppers 85 Gr.",
+    "marca": "CROPPERS",
+    "precio": 1775.0,
+    "precio_lista": 1775.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/mani-crocante-jalapeno-croppers-85-gr-310894/p",
+    "timestamp": "2026-04-19T19:24:08.878338"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Snack Original Picante Takis 85 Gr.",
+    "marca": "TAKIS",
+    "precio": 3115.0,
+    "precio_lista": 3115.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/snack-original-picante-takis-85-gr-309791/p",
+    "timestamp": "2026-04-19T19:24:08.878358"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Snack Fuego Picante Takis 85 Gr.",
+    "marca": "TAKIS",
+    "precio": 3115.0,
+    "precio_lista": 3115.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/snack-fuego-picante-takis-85-gr-309786/p",
+    "timestamp": "2026-04-19T19:24:08.878361"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Conos Sabor Barbacoa Krachitos 45 Gr.",
+    "marca": "KRACHITOS",
+    "precio": 1625.0,
+    "precio_lista": 1625.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/conos-sabor-barbacoa-krachitos-45-gr-309324/p",
+    "timestamp": "2026-04-19T19:24:08.878383"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Maíz Frito San Juanita 50 Gr.",
+    "marca": "LA SANJUANITA",
+    "precio": 1490.0,
+    "precio_lista": 1490.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/maiz-frito-san-juanita-50-gr-306430/p",
+    "timestamp": "2026-04-19T19:24:08.878388"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Maní Sin Sal Sabor Panceta Dia 100 Gr.",
+    "marca": "DIA",
+    "precio": 1301.0,
+    "precio_lista": 1301.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/mani-sin-sal-sabor-panceta-dia-100-gr-299673/p",
+    "timestamp": "2026-04-19T19:24:08.878392"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Snacks De Arroz Pizza Dia 50 Gr.",
+    "marca": "DIA",
+    "precio": 1300.0,
+    "precio_lista": 1300.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/snacks-de-arroz-pizza-dia-50-gr-299309/p",
+    "timestamp": "2026-04-19T19:24:08.878395"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Maní Japonés Limon&Pimienta Dia 65 Gr.",
+    "marca": "DIA",
+    "precio": 1950.0,
+    "precio_lista": 1950.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/mani-japones-limon-pimienta-dia-65-gr-296590/p",
+    "timestamp": "2026-04-19T19:24:08.878398"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Mani Frito Salado Pelado Croppers 105 Gr.",
+    "marca": "CROPPERS",
+    "precio": 1335.0,
+    "precio_lista": 1335.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/mani-frito-salado-pelado-croppers-105-gr-13696/p",
+    "timestamp": "2026-04-19T19:24:08.878401"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Maiz Frito Dia 100 Gr.",
+    "marca": "DIA",
+    "precio": 3700.0,
+    "precio_lista": 3700.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/maiz-frito-dia-100-gr-308596/p",
+    "timestamp": "2026-04-19T19:24:08.878404"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Mani Japones Exportadora Conosur 50 Gr.",
+    "marca": "EXPORTADOR",
+    "precio": 990.0,
+    "precio_lista": 990.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/mani-japones-exportadora-conosur-50-gr-301622/p",
+    "timestamp": "2026-04-19T19:24:08.878407"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Maní Con Cascara La Estaca 250 Gr.",
+    "marca": "LA ESTACA",
+    "precio": 2490.0,
+    "precio_lista": 2490.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/mani-con-cascara-la-estaca-250-gr-298632/p",
+    "timestamp": "2026-04-19T19:24:08.878410"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Pizzitos Nikitos Jamón y Queso 100 Gr.",
+    "marca": "NIKITOS",
+    "precio": 1420.0,
+    "precio_lista": 1420.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/pizzitos-nikitos-jamon-y-queso-100-gr-282322/p",
+    "timestamp": "2026-04-19T19:24:08.878412"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Tubitos De Harina De Maíz Sabor Queso 3D Mega Queso X 43 Gr.",
+    "marca": "3D'S",
+    "precio": 2300.0,
+    "precio_lista": 2300.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/tubitos-de-harina-de-maiz-sabor-queso-3d-mega-queso-x-43-gr-276662/p",
+    "timestamp": "2026-04-19T19:24:08.878416"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chizitos De Maíz Sabor A Queso Cheetos Original X 229 Gr.",
+    "marca": "CHEETOS",
+    "precio": 8000.0,
+    "precio_lista": 8000.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chizitos-de-maiz-sabor-a-queso-cheetos-original-x-229-gr-266578/p",
+    "timestamp": "2026-04-19T19:24:08.878420"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Nachos Maiz Blanco Macritas 200 Gr.",
+    "marca": "MACRITAS",
+    "precio": 4780.0,
+    "precio_lista": 4780.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/nachos-maiz-blanco-macritas-200-gr-310311/p",
+    "timestamp": "2026-04-19T19:24:08.878424"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Pep Rueditas Picantes Flamin Hot 71 Gr.",
+    "marca": "PEP",
+    "precio": 2150.0,
+    "precio_lista": 2150.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/pep-rueditas-picantes-flamin-hot-71-gr-308801/p",
+    "timestamp": "2026-04-19T19:24:08.878427"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Mix Semillado The Happy Snack 300 Gr.",
+    "marca": "THE HAPPY SNACK",
+    "precio": 6990.0,
+    "precio_lista": 6990.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/mix-semillado-the-happy-snack-300-gr-306431/p",
+    "timestamp": "2026-04-19T19:24:08.878429"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Ketchup Dia 65 Gr.",
+    "marca": "DIA",
+    "precio": 2350.0,
+    "precio_lista": 2350.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/papas-fritas-ketchup-dia-65-gr-295068/p",
+    "timestamp": "2026-04-19T19:24:08.878432"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Nachos Sweet Chilli Doritos 74 Gr.",
+    "marca": "DORITOS",
+    "precio": 3850.0,
+    "precio_lista": 3850.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/nachos-sweet-chilli-doritos-74-gr-5505/p",
+    "timestamp": "2026-04-19T19:24:08.878435"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Cheetos Queso Crema Cheet 43 Gr..",
+    "marca": "CHEETOS",
+    "precio": 2300.0,
+    "precio_lista": 2300.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/cheetos-queso-crema-cheet-43-gr-76126/p",
+    "timestamp": "2026-04-19T19:24:08.878438"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Nachos Sabor Original  Tosti 160 Gr.",
+    "marca": "TOSTITOS",
+    "precio": 4950.0,
+    "precio_lista": 4950.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/nachos-sabor-original-tosti-160-gr-309816/p",
+    "timestamp": "2026-04-19T19:24:08.878440"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Maní Japonés Dia 150 Gr.",
+    "marca": "DIA",
+    "precio": 1190.0,
+    "precio_lista": 1190.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/mani-japones-dia-150-gr-306016/p",
+    "timestamp": "2026-04-19T19:24:08.878443"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Maní Pelado Pehuamar X 135 Gr.",
+    "marca": "PEHUAMAR",
+    "precio": 2790.0,
+    "precio_lista": 2790.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/mani-pelado-pehuamar-x-135-gr-300811/p",
+    "timestamp": "2026-04-19T19:24:08.878445"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Pistacho 100 Gr.",
+    "marca": "SIN MARCA",
+    "precio": 5490.0,
+    "precio_lista": 5490.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/pistacho-100-gr-285273/p",
+    "timestamp": "2026-04-19T19:24:08.878448"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Maní Salado Pehuamar X 150 Gr.",
+    "marca": "PEHUAMAR",
+    "precio": 2285.0,
+    "precio_lista": 2285.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/mani-salado-pehuamar-x-150-gr-256115/p",
+    "timestamp": "2026-04-19T19:24:08.878450"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Palitos Sabor A Queso Pehuamar X 90 Gr.",
+    "marca": "PEHUAMAR",
+    "precio": 1870.0,
+    "precio_lista": 1870.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/palitos-sabor-a-queso-pehuamar-x-90-gr-251351/p",
+    "timestamp": "2026-04-19T19:24:08.878453"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados Sabor Queso Pep X 120 Gr.",
+    "marca": "PEP",
+    "precio": 2640.0,
+    "precio_lista": 2640.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/palitos-salados-sabor-queso-pep-x-120-gr-40427/p",
+    "timestamp": "2026-04-19T19:24:08.878458"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Mini Burrito Antojitos Churrasquito Mexicano  90 Gr.",
+    "marca": "ANTOJITOS",
+    "precio": 330.0,
+    "precio_lista": 330.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/mini-burrito-antojitos-churrasquito-mexicano-90-gr-292535/p",
+    "timestamp": "2026-04-19T19:24:08.878461"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados Sabor Panceta Pep X 40 Gr.",
+    "marca": "PEP",
+    "precio": 35.75,
+    "precio_lista": 35.75,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/palitos-salados-sabor-panceta-pep-x-40-gr-231620/p",
+    "timestamp": "2026-04-19T19:24:08.878464"
+  }
+]

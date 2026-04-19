@@ -220,7 +220,7 @@ async def scrape_dia(categorias, marcas, max_productos):
                            f"?ft={marca}&_from={offset}&_to={min(offset+49, max_productos-1)}")
                     try:
                         resp = await client.get(url)
-                        if resp.status_code != 200:
+                        if resp.status_code not in (200, 206):
                             break
                         products = resp.json()
                         if not products:
@@ -258,7 +258,7 @@ async def scrape_dia(categorias, marcas, max_productos):
                                f"?_from={offset}&_to={min(offset+49, max_productos-1)}")
                         try:
                             resp = await client.get(url)
-                            if resp.status_code != 200:
+                            if resp.status_code not in (200, 206):
                                 break
                             products = resp.json()
                             if not products:

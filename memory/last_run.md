@@ -1,5 +1,16 @@
 # Último run
 
+## 20260419 19:00
+
+| Supermercado | Estado | Productos | Archivo |
+|---|---|---|---|
+| DIA | ok | 80 | resultados/dia_20260419.json |
+
+**Categoría**: snacks (`almacen/picadas/snacks`)
+**Fix**: API VTEX devuelve HTTP 206 (no 200) — scraper.py actualizado para aceptar ambos.
+
+---
+
 ## 20260419 18:23
 
 | Supermercado | Productos |
