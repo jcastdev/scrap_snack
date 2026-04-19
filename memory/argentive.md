@@ -1,2 +1,2 @@
-hub_id: 
-agent_id: 
+hub_id: 9dd81776-62d8-4641-b065-b98936071bdf
+agent_id: 9dd81776-62d8-4641-b065-b98936071bdf
