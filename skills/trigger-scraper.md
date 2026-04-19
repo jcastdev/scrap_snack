@@ -43,14 +43,34 @@ curl -s -X POST \
 
 Reemplazá `<SUPER>` y `<CATEGORIA>` según el mapeo de arriba.
 
-## Verificar que se disparó
+## Verificar que se disparó y esperar resultado
+
+Verificar el estado del run (repetir hasta que status sea `completed`):
 
 ```bash
 curl -s \
   -H "Authorization: Bearer $GITHUB_TOKEN" \
   -H "Accept: application/vnd.github+json" \
   "https://api.github.com/repos/jcastdev/scrap_snack/actions/runs?per_page=1" \
-  | python3 -c "import sys,json; r=json.load(sys.stdin)['workflow_runs'][0]; print(f\"Estado: {r['status']} | {r['display_title']} | {r['created_at']}\")"
+  | python3 -c "import sys,json; r=json.load(sys.stdin)['workflow_runs'][0]; print(f\"{r['status']}|{r['conclusion']}|{r['created_at']}\")"
+```
+
+## Respuesta final al usuario
+
+Una vez que el workflow completó (`conclusion: success`), respondé siempre con este formato:
+
+```
+✅ Scraping completado — <SUPER> / <CATEGORIA>
+
+Ver resultados: https://jcastdev.github.io/scrap_snack
+
+Los precios ya están actualizados en la web.
+```
+
+Si el workflow falló (`conclusion: failure`):
+```
+❌ El scraping falló. Revisá los logs en:
+https://github.com/jcastdev/scrap_snack/actions
 ```
 
 ## Ejemplos de pedidos y su traducción
