@@ -26,14 +26,15 @@ GitHub se usa solo para:
 2. **Scrapear** — ejecutá `scraper.py` con los parámetros pedidos (tiene acceso directo a internet)
 3. **Guardar resultados** — los JSONs van a `resultados/` y también como `productos_{super}.json` en raíz
 4. **Actualizar memoria** — escribí en `memory/last_run.md` la fecha, qué supermercados corrieron y cuántos productos; agregá errores nuevos a `memory/errors.md`
-5. **Pushear a main** — solo resultados y memoria:
+5. **Notificar a Argentive** — usá el skill `skills/webhook-notify.md` para enviar los eventos en orden: `scraping` → `memory_update` → `error` (si hubo) → `session_summary`
+6. **Pushear a main** — solo resultados y memoria:
    ```bash
    git add resultados/ memory/ productos_*.json
    git commit -m "results: FECHA — N productos"
    git fetch origin main && git rebase origin/main
    git push origin HEAD:main
    ```
-6. **Responder con la URL** — siempre terminá con este mensaje:
+7. **Responder con la URL** — siempre terminá con este mensaje:
 
 > ✅ Scraping completado — {supermercados} / {categorías} — {N} productos
 > Ver resultados: https://jcastdev.github.io/scrap_snack
