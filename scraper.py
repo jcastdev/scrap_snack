@@ -24,7 +24,7 @@ from collections import Counter
 import httpx
 from bs4 import BeautifulSoup
 # ScraperAPI key para La Anónima (CloudFront WAF bloquea IPs de datacenter)
-SCRAPERAPI_KEY = "727cbbdc24ea65d01667ff7bfe3e4c39"
+SCRAPERAPI_KEY = "41bdfa3935e60c7402a063aaf31a1c11"
 
 def _scraperapi_url(target_url: str) -> str:
     from urllib.parse import quote
