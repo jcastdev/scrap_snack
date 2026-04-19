@@ -1,5 +1,14 @@
 # Último run
 
+## 20260419 21:46
+
+| Supermercado | Productos |
+|---|---|
+| Supermercados DIA | 62 |
+| La Anónima | 153 |
+
+**Total: 215 productos** -- `resultados/todos_20260419.json`
+
 ## 20260419 21:41
 
 | Supermercado | Productos |
