@@ -1,5 +1,9 @@
 # Scraping Hub — Supermercados Argentinos
 
+## Branch de trabajo
+
+Siempre trabajar sobre `main` directamente. No crear branches intermedios ni pull requests.
+
 ## Rol del hub
 
 Este repo orquesta el scraping de precios de snacks en supermercados argentinos. El objetivo es correr cada specialist, consolidar los resultados en `resultados/`, y mantener un registro de ejecuciones en `memory/`.
