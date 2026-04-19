@@ -19,7 +19,7 @@ Este repo orquesta el scraping de precios de snacks en supermercados argentinos.
 ## Specialists disponibles (`agents/`)
 
 | Archivo | Supermercado | Plataforma | Browser |
-|---|---|---|---|
+|---|---|---||---|
 | `agents/dia.md` | DIA | VTEX (API REST) | No |
 | `agents/carrefour.md` | Carrefour | VTEX (API REST) | No |
 | `agents/coto.md` | Coto | Oracle ATG + React | Sí |
