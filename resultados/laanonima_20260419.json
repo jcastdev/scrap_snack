@@ -1,5 +1,625 @@
 [
   {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Galletitas Pancitos Jamon Horneados Snack Dia 70 Gr.",
+    "marca": "DIA",
+    "precio": 796.0,
+    "precio_lista": 796.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/galletitas-pancitos-jamon-horneados-snack-dia-70-gr-285373/p",
+    "timestamp": "2026-04-19T18:23:18.597282"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Galletitas Pancitos Pizza Horneados Snack Dia 70 Gr.",
+    "marca": "SIN MARCA",
+    "precio": 796.0,
+    "precio_lista": 796.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/galletitas-pancitos-pizza-horneados-snack-dia-70-gr-285372/p",
+    "timestamp": "2026-04-19T18:23:18.597292"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Galletitas Pancitos Horneados Snack Dia Clasico 70 Gr.",
+    "marca": "SIN MARCA",
+    "precio": 796.0,
+    "precio_lista": 796.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/galletitas-pancitos-horneados-snack-dia-clasico-70-gr-285371/p",
+    "timestamp": "2026-04-19T18:23:18.597295"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Cookies & Cream Hershey's 77 Gr",
+    "marca": "HERSHEY",
+    "precio": 4010.0,
+    "precio_lista": 4010.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-cookies---cream-hershey-s-77-gr-224290/p",
+    "timestamp": "2026-04-19T18:23:18.597298"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Gomitas Frutales Billiken 150 Gr.",
+    "marca": "BILLIKEN",
+    "precio": 1690.0,
+    "precio_lista": 1990.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/gomitas-frutales-billiken-150-gr-285931/p",
+    "timestamp": "2026-04-19T18:23:18.913067"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Milka Con Leche 55 Gr.",
+    "marca": "MILKA",
+    "precio": 3990.0,
+    "precio_lista": 5140.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-milka-con-leche-55-gr-249906/p",
+    "timestamp": "2026-04-19T18:23:18.913077"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chicles Beldent Menta Refrescante 6 Ud.",
+    "marca": "BELDENT",
+    "precio": 1000.0,
+    "precio_lista": 1000.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chicles-beldent-menta-refrescante-6-ud-269580/p",
+    "timestamp": "2026-04-19T18:23:18.913079"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Con Maní Shot 35 Gr.",
+    "marca": "SHOT",
+    "precio": 2540.0,
+    "precio_lista": 2540.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-con-mani-shot-35-gr-110388/p",
+    "timestamp": "2026-04-19T18:23:18.913081"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Milka Chocopause 45 Gr.",
+    "marca": "MILKA",
+    "precio": 2610.0,
+    "precio_lista": 2610.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-milka-chocopause-45-gr-278032/p",
+    "timestamp": "2026-04-19T18:23:18.913084"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chicles Beldent Menta Power 6 Ud.",
+    "marca": "BELDENT",
+    "precio": 1000.0,
+    "precio_lista": 1000.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chicles-beldent-menta-power-6-ud-269579/p",
+    "timestamp": "2026-04-19T18:23:18.913086"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chicles Beldent Tuti Fruti 6 Ud.",
+    "marca": "BELDENT",
+    "precio": 1005.0,
+    "precio_lista": 1005.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chicles-beldent-tuti-fruti-6-ud-270871/p",
+    "timestamp": "2026-04-19T18:23:18.913088"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Milka Con Leche 20 Gr.",
+    "marca": "MILKA",
+    "precio": 1690.0,
+    "precio_lista": 1690.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-milka-con-leche-20-gr-252365/p",
+    "timestamp": "2026-04-19T18:23:18.913090"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Alfajor Milka Simple Mousse 42 Gr.",
+    "marca": "MILKA",
+    "precio": 1420.0,
+    "precio_lista": 1420.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/alfajor-milka-simple-mousse-42-gr-110564/p",
+    "timestamp": "2026-04-19T18:23:18.913092"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Alfajor Milka Triple Mousse 55 Gr.",
+    "marca": "MILKA",
+    "precio": 2000.0,
+    "precio_lista": 2000.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/alfajor-milka-triple-mousse-55-gr-21721/p",
+    "timestamp": "2026-04-19T18:23:18.913094"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Alfajor Triple Milka Dulce De Leche 70 Gr.",
+    "marca": "MILKA",
+    "precio": 2000.0,
+    "precio_lista": 2000.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/alfajor-triple-milka-dulce-de-leche-70-gr-23428/p",
+    "timestamp": "2026-04-19T18:23:18.913096"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Cadbury Relleno Yoghurt Frutilla 29 Gr.",
+    "marca": "CADBURY",
+    "precio": 2580.0,
+    "precio_lista": 2580.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-cadbury-relleno-yoghurt-frutilla-29-gr-21637/p",
+    "timestamp": "2026-04-19T18:23:18.913098"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Alfajor Terrabusi Triple Clásico 70 Gr.",
+    "marca": "TERRABUSI",
+    "precio": 2000.0,
+    "precio_lista": 2000.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/alfajor-terrabusi-triple-clasico-70-gr-23423/p",
+    "timestamp": "2026-04-19T18:23:18.913100"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Alfajor Con Maní Shot Triple 60 Gr.",
+    "marca": "SHOT",
+    "precio": 2000.0,
+    "precio_lista": 2000.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/alfajor-con-mani-shot-triple-60-gr-23431/p",
+    "timestamp": "2026-04-19T18:23:18.913102"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Alfajor Triple Milka Oreo 61 Gr.",
+    "marca": "MILKA",
+    "precio": 2000.0,
+    "precio_lista": 2000.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/alfajor-triple-milka-oreo-61-gr-182539/p",
+    "timestamp": "2026-04-19T18:23:18.913104"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Kinder 4 barras 50 Gr.",
+    "marca": "KINDER",
+    "precio": 2713.5,
+    "precio_lista": 3618.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-kinder-4-barras-50-gr-63129/p",
+    "timestamp": "2026-04-19T18:23:19.266159"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Bueno Kinder 43 Gr.",
+    "marca": "KINDER",
+    "precio": 3150.0,
+    "precio_lista": 3150.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-bueno-kinder-43-gr-37004/p",
+    "timestamp": "2026-04-19T18:23:19.266171"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate con leche DIA 80 Gr.",
+    "marca": "DIA",
+    "precio": 1990.0,
+    "precio_lista": 1990.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-con-leche-dia-80-gr-49329/p",
+    "timestamp": "2026-04-19T18:23:19.266175"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Pascua Nugaton 177 Gr.",
+    "marca": "NUGATON",
+    "precio": 7395.0,
+    "precio_lista": 14790.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-nugaton-177-gr-272607/p",
+    "timestamp": "2026-04-19T18:23:19.266178"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Biznikke Nevado 28 Gr.",
+    "marca": "BIZNIKKE",
+    "precio": 1300.0,
+    "precio_lista": 1508.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-biznikke-nevado-28-gr-110600/p",
+    "timestamp": "2026-04-19T18:23:19.266181"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Pascua Nugaton 91 Gr.",
+    "marca": "BONAFIDE",
+    "precio": 4140.0,
+    "precio_lista": 8280.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-nugaton-91-gr-233514/p",
+    "timestamp": "2026-04-19T18:23:19.266184"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate con Leche y Maní DIA 30 Gr.",
+    "marca": "DIA",
+    "precio": 1090.0,
+    "precio_lista": 1090.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-con-leche-y-mani-dia-30-gr-207410/p",
+    "timestamp": "2026-04-19T18:23:19.266188"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo De Pascua Vizzio 87 Gr.",
+    "marca": "BONAFIDE",
+    "precio": 4325.0,
+    "precio_lista": 8650.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-vizzio-87-gr-233513/p",
+    "timestamp": "2026-04-19T18:23:19.266191"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate con Maní Cofler Block 38 Gr.",
+    "marca": "COFLER",
+    "precio": 2035.0,
+    "precio_lista": 2035.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-con-mani-cofler-block-38-gr-25769/p",
+    "timestamp": "2026-04-19T18:23:19.266195"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate DIA Relleno con Dulce de Leche 80 Gr.",
+    "marca": "DIA",
+    "precio": 1990.0,
+    "precio_lista": 1990.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-dia-relleno-con-dulce-de-leche-80-gr-175800/p",
+    "timestamp": "2026-04-19T18:23:19.266198"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo De Pascua Kinder Con Sorpresa 150 Gr.",
+    "marca": "KINDER",
+    "precio": 15450.0,
+    "precio_lista": 30900.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-kinder-con-sorpresa-150-gr-38307/p",
+    "timestamp": "2026-04-19T18:23:19.266201"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Alfajor DIA Chocolate 55 Gr.",
+    "marca": "DIA",
+    "precio": 756.0,
+    "precio_lista": 756.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/alfajor-dia-chocolate-55-gr-221651/p",
+    "timestamp": "2026-04-19T18:23:19.266204"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Chocolate Kinder Rosa 20 Gr.",
+    "marca": "KINDER",
+    "precio": 2784.0,
+    "precio_lista": 2784.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-chocolate-kinder-rosa-20-gr-162299/p",
+    "timestamp": "2026-04-19T18:23:19.266207"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Bombón De Chocolate Milka Oreo 19 Gr.",
+    "marca": "MILKA",
+    "precio": 720.0,
+    "precio_lista": 720.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/bombon-de-chocolate-milka-oreo-19-gr-272322/p",
+    "timestamp": "2026-04-19T18:23:19.266210"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Pascua Biznikke Blanco 100 Gr.",
+    "marca": "BIZNIKKE",
+    "precio": 4995.0,
+    "precio_lista": 9990.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-biznikke-blanco-100-gr-161724/p",
+    "timestamp": "2026-04-19T18:23:19.266214"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Pascua Bon o bon 55 Gr.",
+    "marca": "BON O BON",
+    "precio": 4125.0,
+    "precio_lista": 8250.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-bon-o-bon-55-gr-6537/p",
+    "timestamp": "2026-04-19T18:23:19.266217"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate con Leche Arcor 25 Gr.",
+    "marca": "ARCOR",
+    "precio": 1393.0,
+    "precio_lista": 1393.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-con-leche-arcor-25-gr-124950/p",
+    "timestamp": "2026-04-19T18:23:19.266220"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Pascua Bon o Bon 20 Gr.",
+    "marca": "BON O BON",
+    "precio": 1150.0,
+    "precio_lista": 2300.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-bon-o-bon-20-gr-65505/p",
+    "timestamp": "2026-04-19T18:23:19.266223"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Chocolate Kinder Niño 20 Gr.",
+    "marca": "KINDER",
+    "precio": 2784.0,
+    "precio_lista": 2784.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-chocolate-kinder-nino-20-gr-37008/p",
+    "timestamp": "2026-04-19T18:23:19.266226"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Pascua Biznikke 100 Gr.",
+    "marca": "BIZNIKKE",
+    "precio": 4995.0,
+    "precio_lista": 9990.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-biznikke-100-gr-89365/p",
+    "timestamp": "2026-04-19T18:23:19.266229"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Pascua Kinder Niñas con Sorpresa 150 Gr.",
+    "marca": "KINDER",
+    "precio": 15450.0,
+    "precio_lista": 30900.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-kinder-ninas-con-sorpresa-150-gr-161527/p",
+    "timestamp": "2026-04-19T18:23:19.266236"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate en barra Aguila para taza 150 Gr.",
+    "marca": "AGUILA",
+    "precio": 7800.0,
+    "precio_lista": 7800.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-en-barra-aguila-para-taza-150-gr-8491/p",
+    "timestamp": "2026-04-19T18:23:19.266239"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Pascua Bon o Bon 110 Gr.",
+    "marca": "BON O BON",
+    "precio": 7000.0,
+    "precio_lista": 14000.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-bon-o-bon-110-gr-2262/p",
+    "timestamp": "2026-04-19T18:23:19.266243"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de pascua Shot 210 Gr.",
+    "marca": "SHOT",
+    "precio": 12500.0,
+    "precio_lista": 25000.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-shot-210-gr-283643/p",
+    "timestamp": "2026-04-19T18:23:19.266249"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Pascuas Chocolate Milka 22 Gr.",
+    "marca": "MILKA",
+    "precio": 1200.0,
+    "precio_lista": 2400.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascuas-chocolate-milka-22-gr-6205/p",
+    "timestamp": "2026-04-19T18:23:19.266252"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo De Pascua De Chocolate Delicious Dia 80 Gr.",
+    "marca": "DELICIOUS",
+    "precio": 3695.0,
+    "precio_lista": 7390.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-de-chocolate-delicious-dia-80-gr-6519/p",
+    "timestamp": "2026-04-19T18:23:19.266255"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Muffin Chocolate X 1 Ud.",
+    "marca": "SIN MARCA",
+    "precio": 1590.0,
+    "precio_lista": 1590.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/muffin-chocolate-x-1-ud-259366/p",
+    "timestamp": "2026-04-19T18:23:19.266261"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Lentejas de Chocolate Dia 80 Gr.",
+    "marca": "DIA",
+    "precio": 835.0,
+    "precio_lista": 2790.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/lentejas-de-chocolate-dia-80-gr-137797/p",
+    "timestamp": "2026-04-19T18:23:19.266271"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Polvo Exquisita Postre de Chocolate 80 Gr.",
+    "marca": "EXQUISITA",
+    "precio": 1206.0,
+    "precio_lista": 1608.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/polvo-exquisita-postre-de-chocolate-80-gr-219163/p",
+    "timestamp": "2026-04-19T18:23:19.266278"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Oblea Kitkat 4 Fingers X 41.5 Gr.",
+    "marca": "KIT KAT",
+    "precio": 2415.0,
+    "precio_lista": 2415.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/oblea-kitkat-4-fingers-x-415-gr-148828/p",
+    "timestamp": "2026-04-19T18:23:19.266282"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Con Almendras Cadbury 72 Gr.",
+    "marca": "COFLER",
+    "precio": 6175.0,
+    "precio_lista": 6175.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-con-almendras-cadbury-72-gr-21658/p",
+    "timestamp": "2026-04-19T18:23:19.266295"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Con Leche Arcor 8 Gr.",
+    "marca": "ARCOR",
+    "precio": 275.0,
+    "precio_lista": 350.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-con-leche-arcor-8-gr-25771/p",
+    "timestamp": "2026-04-19T18:23:19.266298"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo De Pascua Ferrero Rocher Con Avellanas 225 Gr.",
+    "marca": "FERRERO",
+    "precio": 18750.0,
+    "precio_lista": 37500.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-ferrero-rocher-con-avellanas-225-gr-218784/p",
+    "timestamp": "2026-04-19T18:23:19.266301"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate DIA Blanco 80 Gr.",
+    "marca": "DIA",
+    "precio": 1990.0,
+    "precio_lista": 1990.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-dia-blanco-80-gr-70001/p",
+    "timestamp": "2026-04-19T18:23:19.266304"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Tofi Con Dulce De Leche 28 Gr.",
+    "marca": "BON O BON",
+    "precio": 6230.0,
+    "precio_lista": 6230.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-tofi-con-dulce-de-leche-28-gr-25343/p",
+    "timestamp": "2026-04-19T18:23:19.266307"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Pascua de Chocolate Con Maní Delicious Dia 80 Gr.",
+    "marca": "DELICIOUS",
+    "precio": 3695.0,
+    "precio_lista": 7390.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-de-chocolate-con-mani-delicious-dia-80-gr-119274/p",
+    "timestamp": "2026-04-19T18:23:19.266310"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Pascuas Chocolate Blanco Milka Oreo 156 Gr.",
+    "marca": "MILKA",
+    "precio": 110.0,
+    "precio_lista": 110.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascuas-chocolate-blanco-milka-oreo-156-gr-283644/p",
+    "timestamp": "2026-04-19T18:23:19.266314"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Caramelos Halls Menthol 9 Ud.",
+    "marca": "HALLS",
+    "precio": 930.0,
+    "precio_lista": 930.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/caramelos-halls-menthol-9-ud-239309/p",
+    "timestamp": "2026-04-19T18:23:19.454930"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Caramelos Tutti Frutti Flynn Paff 8 Gr.",
+    "marca": "FLYNN PAFF",
+    "precio": 250.0,
+    "precio_lista": 250.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/caramelos-tutti-frutti-flynn-paff-8-gr-300674/p",
+    "timestamp": "2026-04-19T18:23:19.454941"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Caramelos Halls Menta Lyptus 9 Ud.",
+    "marca": "HALLS",
+    "precio": 930.0,
+    "precio_lista": 930.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/caramelos-halls-menta-lyptus-9-ud-308911/p",
+    "timestamp": "2026-04-19T18:23:19.454945"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Caramelos Jelly Beans Mogul 50 Gr.",
+    "marca": "MOGUL",
+    "precio": 1141.0,
+    "precio_lista": 1141.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/caramelos-jelly-beans-mogul-50-gr-22608/p",
+    "timestamp": "2026-04-19T18:23:19.454948"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Caramelo Masticable Sabor Tutti Frutti Lenguetazo 13 Gr.",
+    "marca": "LENGUETAZO",
+    "precio": 413.0,
+    "precio_lista": 413.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/caramelo-masticable-sabor-tutti-frutti-lenguetazo-13-gr-103342/p",
+    "timestamp": "2026-04-19T18:23:19.454951"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Pastillas Menthoplus Cherry 29,4 Gr.",
+    "marca": "MENTHOPLUS",
+    "precio": 710.0,
+    "precio_lista": 710.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/pastillas-menthoplus-cherry-294-gr-24183/p",
+    "timestamp": "2026-04-19T18:23:19.454955"
+  },
+  {
     "supermercado": "La Anónima",
     "categoria": "snacks",
     "nombre": "Palitos Salados sabor Panceta Pep x 84 g.",
@@ -7,7 +627,7 @@
     "precio": 645.0,
     "precio_lista": 2150.0,
     "url": "https://www.laanonima.com.ar/palitos-salados-sabor-panceta-pep-x-84-g/art_2945800/",
-    "timestamp": "2026-04-19T19:37:30.441283"
+    "timestamp": "2026-04-19T19:46:07.984165"
   },
   {
     "supermercado": "La Anónima",
@@ -17,7 +637,7 @@
     "precio": 2250.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mani-pelado-salado-pehuamar-x-75-g/art_3244982/",
-    "timestamp": "2026-04-19T19:37:30.441301"
+    "timestamp": "2026-04-19T19:46:07.984206"
   },
   {
     "supermercado": "La Anónima",
@@ -27,7 +647,7 @@
     "precio": 2700.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mani-japones-de-jamon-maniax-x-95-g/art_3127680/",
-    "timestamp": "2026-04-19T19:37:30.441307"
+    "timestamp": "2026-04-19T19:46:07.984215"
   },
   {
     "supermercado": "La Anónima",
@@ -37,7 +657,7 @@
     "precio": 2700.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mani-japones-salado-maniax-x-95-g/art_3127692/",
-    "timestamp": "2026-04-19T19:37:30.441313"
+    "timestamp": "2026-04-19T19:46:07.984225"
   },
   {
     "supermercado": "La Anónima",
@@ -47,7 +667,7 @@
     "precio": 6650.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/nachos-rounded-tostitos-x-260-g/art_3440187/",
-    "timestamp": "2026-04-19T19:37:30.441317"
+    "timestamp": "2026-04-19T19:46:07.984232"
   },
   {
     "supermercado": "La Anónima",
@@ -57,7 +677,7 @@
     "precio": 2485.0,
     "precio_lista": 3550.0,
     "url": "https://www.laanonima.com.ar/nachos-rounded-tostitos-x-100-g/art_3440163/",
-    "timestamp": "2026-04-19T19:37:30.441327"
+    "timestamp": "2026-04-19T19:46:07.984238"
   },
   {
     "supermercado": "La Anónima",
@@ -67,7 +687,7 @@
     "precio": 3900.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/snack-ondulado-sabor-ketchup-cheetos-x-80-g/art_3470258/",
-    "timestamp": "2026-04-19T19:37:30.441331"
+    "timestamp": "2026-04-19T19:46:07.984245"
   },
   {
     "supermercado": "La Anónima",
@@ -77,7 +697,7 @@
     "precio": 4850.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/nachos-rounded-tostitos-x-160-g/art_3440175/",
-    "timestamp": "2026-04-19T19:37:30.441338"
+    "timestamp": "2026-04-19T19:46:07.984252"
   },
   {
     "supermercado": "La Anónima",
@@ -87,7 +707,7 @@
     "precio": 4753.0,
     "precio_lista": 633846.0,
     "url": "https://www.laanonima.com.ar/papas-fritas-pehuamar-x-230-g/art_3043344/",
-    "timestamp": "2026-04-19T19:37:30.441343"
+    "timestamp": "2026-04-19T19:46:07.984261"
   },
   {
     "supermercado": "La Anónima",
@@ -97,7 +717,7 @@
     "precio": 3950.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-acanaladas-pehuamar-x-135-g/art_3043307/",
-    "timestamp": "2026-04-19T19:37:30.441347"
+    "timestamp": "2026-04-19T19:46:07.984267"
   },
   {
     "supermercado": "La Anónima",
@@ -107,7 +727,7 @@
     "precio": 4436.0,
     "precio_lista": 633856.0,
     "url": "https://www.laanonima.com.ar/papas-fritas-acanaladas-pehuamar-x-230-g/art_2581899/",
-    "timestamp": "2026-04-19T19:37:30.441351"
+    "timestamp": "2026-04-19T19:46:07.984274"
   },
   {
     "supermercado": "La Anónima",
@@ -117,7 +737,7 @@
     "precio": 3950.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-pehuamar-x-135-g/art_3043290/",
-    "timestamp": "2026-04-19T19:37:30.441358"
+    "timestamp": "2026-04-19T19:46:07.984293"
   },
   {
     "supermercado": "La Anónima",
@@ -127,7 +747,7 @@
     "precio": 2750.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-acanaladas-pehuamar-x-90-g/art_3416847/",
-    "timestamp": "2026-04-19T19:37:30.441362"
+    "timestamp": "2026-04-19T19:46:07.984300"
   },
   {
     "supermercado": "La Anónima",
@@ -137,7 +757,7 @@
     "precio": 2750.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-lisas-pehuamar-x-90-g/art_3416860/",
-    "timestamp": "2026-04-19T19:37:30.441366"
+    "timestamp": "2026-04-19T19:46:07.984306"
   },
   {
     "supermercado": "La Anónima",
@@ -147,7 +767,7 @@
     "precio": 3900.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-sabor-a-queso-y-cebolla-lays-x-77-g/art_3043228/",
-    "timestamp": "2026-04-19T19:37:30.441371"
+    "timestamp": "2026-04-19T19:46:07.984313"
   },
   {
     "supermercado": "La Anónima",
@@ -157,7 +777,7 @@
     "precio": 3900.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-sabor-jamon-serrano-lays-x-77-g/art_3043216/",
-    "timestamp": "2026-04-19T19:37:30.441377"
+    "timestamp": "2026-04-19T19:46:07.984319"
   },
   {
     "supermercado": "La Anónima",
@@ -167,7 +787,7 @@
     "precio": 5450.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-lays-clasicas-x-134-g/art_3043198/",
-    "timestamp": "2026-04-19T19:37:30.441382"
+    "timestamp": "2026-04-19T19:46:07.984325"
   },
   {
     "supermercado": "La Anónima",
@@ -177,7 +797,7 @@
     "precio": 3900.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-lays-clasicas-x-85-g/art_3043174/",
-    "timestamp": "2026-04-19T19:37:30.441387"
+    "timestamp": "2026-04-19T19:46:07.984330"
   },
   {
     "supermercado": "La Anónima",
@@ -187,7 +807,7 @@
     "precio": 3900.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-acanaladas-sabor-panceta-lays-x-77-g/art_3367691/",
-    "timestamp": "2026-04-19T19:37:30.441393"
+    "timestamp": "2026-04-19T19:46:07.984335"
   },
   {
     "supermercado": "La Anónima",
@@ -197,7 +817,7 @@
     "precio": 3600.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-lays-ondas-sabor-a-flamin-hot-70-g/art_3043393/",
-    "timestamp": "2026-04-19T19:37:30.441401"
+    "timestamp": "2026-04-19T19:46:07.984339"
   },
   {
     "supermercado": "La Anónima",
@@ -207,7 +827,7 @@
     "precio": 3900.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-sabor-a-ketchup-lays-x-77-g/art_3043277/",
-    "timestamp": "2026-04-19T19:37:30.441407"
+    "timestamp": "2026-04-19T19:46:07.984346"
   },
   {
     "supermercado": "La Anónima",
@@ -217,7 +837,7 @@
     "precio": 3900.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-lays-sabor-a-provoleta-x-77-g/art_3196409/",
-    "timestamp": "2026-04-19T19:37:30.441412"
+    "timestamp": "2026-04-19T19:46:07.984365"
   },
   {
     "supermercado": "La Anónima",
@@ -227,7 +847,7 @@
     "precio": 3800.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-acanaladas-sabor-asado-lays-x-77g/art_3486680/",
-    "timestamp": "2026-04-19T19:37:30.441418"
+    "timestamp": "2026-04-19T19:46:07.984372"
   },
   {
     "supermercado": "La Anónima",
@@ -237,7 +857,7 @@
     "precio": 5635.0,
     "precio_lista": 8050.0,
     "url": "https://www.laanonima.com.ar/chizitos-de-maiz-sabor-a-queso-cheetos-original-x-229-g/art_3103742/",
-    "timestamp": "2026-04-19T19:37:30.441423"
+    "timestamp": "2026-04-19T19:46:07.984378"
   },
   {
     "supermercado": "La Anónima",
@@ -247,7 +867,7 @@
     "precio": 3900.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-sabor-barbacoa-lays-x-77-g/art_3367680/",
-    "timestamp": "2026-04-19T19:37:30.441427"
+    "timestamp": "2026-04-19T19:46:07.984388"
   },
   {
     "supermercado": "La Anónima",
@@ -257,7 +877,7 @@
     "precio": 8850.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-lays-clasicas-x-230-g/art_3043230/",
-    "timestamp": "2026-04-19T19:37:30.441431"
+    "timestamp": "2026-04-19T19:46:07.984394"
   },
   {
     "supermercado": "La Anónima",
@@ -267,7 +887,7 @@
     "precio": 1680.0,
     "precio_lista": 2400.0,
     "url": "https://www.laanonima.com.ar/palitos-salados-sabor-a-queso-pehuamar-x-90-g/art_2617110/",
-    "timestamp": "2026-04-19T19:37:30.441434"
+    "timestamp": "2026-04-19T19:46:07.984400"
   },
   {
     "supermercado": "La Anónima",
@@ -277,7 +897,7 @@
     "precio": 2150.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-lays-ondas-sabor-a-flamin-hot-30-g/art_3043381/",
-    "timestamp": "2026-04-19T19:37:30.441440"
+    "timestamp": "2026-04-19T19:46:07.984406"
   },
   {
     "supermercado": "La Anónima",
@@ -287,7 +907,7 @@
     "precio": 3900.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/nachos-sabor-a-queso-doritos-x-77-g/art_3043186/",
-    "timestamp": "2026-04-19T19:37:30.441443"
+    "timestamp": "2026-04-19T19:46:07.984411"
   },
   {
     "supermercado": "La Anónima",
@@ -297,7 +917,7 @@
     "precio": 3000.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/nachos-dinamita-flaming-hot-doritos-x-82-g/art_3311259/",
-    "timestamp": "2026-04-19T19:37:30.441447"
+    "timestamp": "2026-04-19T19:46:07.984417"
   },
   {
     "supermercado": "La Anónima",
@@ -307,7 +927,7 @@
     "precio": 8850.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/nachos-sabor-a-queso-doritos-x-200-g/art_3043241/",
-    "timestamp": "2026-04-19T19:37:30.441453"
+    "timestamp": "2026-04-19T19:46:07.984426"
   },
   {
     "supermercado": "La Anónima",
@@ -317,7 +937,7 @@
     "precio": 990.0,
     "precio_lista": 1100.0,
     "url": "https://www.laanonima.com.ar/palitos-salados-krach-itos-x-70-g/art_2987533/",
-    "timestamp": "2026-04-19T19:37:30.441457"
+    "timestamp": "2026-04-19T19:46:07.984432"
   },
   {
     "supermercado": "La Anónima",
@@ -327,7 +947,7 @@
     "precio": 1450.0,
     "precio_lista": 1550.0,
     "url": "https://www.laanonima.com.ar/palitos-salados-krach-itos-x-110-g/art_2971835/",
-    "timestamp": "2026-04-19T19:37:30.441460"
+    "timestamp": "2026-04-19T19:46:07.984437"
   },
   {
     "supermercado": "La Anónima",
@@ -337,7 +957,7 @@
     "precio": 5450.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/nachos-sabor-a-queso-doritos-x-129-g/art_3043204/",
-    "timestamp": "2026-04-19T19:37:30.441466"
+    "timestamp": "2026-04-19T19:46:07.984447"
   },
   {
     "supermercado": "La Anónima",
@@ -347,7 +967,7 @@
     "precio": 2662.0,
     "precio_lista": 3550.0,
     "url": "https://www.laanonima.com.ar/palitos-salados-sabor-a-queso-pehuamar-x-165-g/art_3043319/",
-    "timestamp": "2026-04-19T19:37:30.441472"
+    "timestamp": "2026-04-19T19:46:07.984453"
   },
   {
     "supermercado": "La Anónima",
@@ -357,7 +977,7 @@
     "precio": 1500.0,
     "precio_lista": 1650.0,
     "url": "https://www.laanonima.com.ar/palitos-salados-sabor-panceta-krachitos-x-110-g/art_3176940/",
-    "timestamp": "2026-04-19T19:37:30.441475"
+    "timestamp": "2026-04-19T19:46:07.984457"
   },
   {
     "supermercado": "La Anónima",
@@ -367,7 +987,7 @@
     "precio": 2350.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/nachos-sabor-a-queso-doritos-x-40-g/art_3026103/",
-    "timestamp": "2026-04-19T19:37:30.441479"
+    "timestamp": "2026-04-19T19:46:07.984461"
   },
   {
     "supermercado": "La Anónima",
@@ -377,7 +997,7 @@
     "precio": 2500.0,
     "precio_lista": 2700.0,
     "url": "https://www.laanonima.com.ar/papas-fritas-corte-americano-krach-itos-x-105-g/art_3273921/",
-    "timestamp": "2026-04-19T19:37:30.441482"
+    "timestamp": "2026-04-19T19:46:07.984465"
   },
   {
     "supermercado": "La Anónima",
@@ -387,7 +1007,7 @@
     "precio": 3000.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/tubo-de-maiz-dinamita-extra-flamin-hot-doritos-x-82-g/art_3418017/",
-    "timestamp": "2026-04-19T19:37:30.441485"
+    "timestamp": "2026-04-19T19:46:07.984469"
   },
   {
     "supermercado": "La Anónima",
@@ -397,7 +1017,7 @@
     "precio": 3850.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/nachos-sweet-chili-doritos-x-74-g/art_3311193/",
-    "timestamp": "2026-04-19T19:37:30.441488"
+    "timestamp": "2026-04-19T19:46:07.984474"
   },
   {
     "supermercado": "La Anónima",
@@ -407,7 +1027,7 @@
     "precio": 2750.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-sabor-jamon-la-anonima-x-93-g/art_3375274/",
-    "timestamp": "2026-04-19T19:37:30.441492"
+    "timestamp": "2026-04-19T19:46:07.984478"
   },
   {
     "supermercado": "La Anónima",
@@ -417,7 +1037,7 @@
     "precio": 4950.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-clasicas-la-anonima-x-230-g/art_3375298/",
-    "timestamp": "2026-04-19T19:37:30.441495"
+    "timestamp": "2026-04-19T19:46:07.984483"
   },
   {
     "supermercado": "La Anónima",
@@ -427,7 +1047,7 @@
     "precio": 2750.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-sabor-cheddar-la-anonima-x-93-g/art_3375262/",
-    "timestamp": "2026-04-19T19:37:30.441498"
+    "timestamp": "2026-04-19T19:46:07.984488"
   },
   {
     "supermercado": "La Anónima",
@@ -437,7 +1057,7 @@
     "precio": 3400.0,
     "precio_lista": 3700.0,
     "url": "https://www.laanonima.com.ar/papas-fritas-corte-americano-krach-itos-x-165-g/art_3273910/",
-    "timestamp": "2026-04-19T19:37:30.441502"
+    "timestamp": "2026-04-19T19:46:07.984492"
   },
   {
     "supermercado": "La Anónima",
@@ -447,7 +1067,7 @@
     "precio": 2150.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/aritos-de-arroz-sabor-crema-c-cebolla-dos-hermanos-x-80-g/art_2067225/",
-    "timestamp": "2026-04-19T19:37:30.441505"
+    "timestamp": "2026-04-19T19:46:07.984500"
   },
   {
     "supermercado": "La Anónima",
@@ -457,7 +1077,7 @@
     "precio": 2150.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/discos-de-arroz-dos-hermanos-jamon-serrano-x-80-g/art_1994906/",
-    "timestamp": "2026-04-19T19:37:30.441510"
+    "timestamp": "2026-04-19T19:46:07.984504"
   },
   {
     "supermercado": "La Anónima",
@@ -467,7 +1087,7 @@
     "precio": 2800.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/conos-de-maiz-con-queso-la-anonima-x-70-g/art_1301615/",
-    "timestamp": "2026-04-19T19:37:30.441513"
+    "timestamp": "2026-04-19T19:46:07.984510"
   },
   {
     "supermercado": "La Anónima",
@@ -477,7 +1097,7 @@
     "precio": 2000.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/tubo-de-maiz-dinamita-extra-flamin-hot-doritos-x-45-g/art_3417992/",
-    "timestamp": "2026-04-19T19:37:30.441517"
+    "timestamp": "2026-04-19T19:46:07.984517"
   },
   {
     "supermercado": "La Anónima",
@@ -487,7 +1107,7 @@
     "precio": 5150.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/tubos-de-maiz-xplosion-takis-x-140-g/art_3281978/",
-    "timestamp": "2026-04-19T19:37:30.441519"
+    "timestamp": "2026-04-19T19:46:07.984526"
   },
   {
     "supermercado": "La Anónima",
@@ -497,7 +1117,7 @@
     "precio": 3250.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/tubos-de-maiz-xplosion-takis-x-85-g/art_3281966/",
-    "timestamp": "2026-04-19T19:37:30.441522"
+    "timestamp": "2026-04-19T19:46:07.984531"
   },
   {
     "supermercado": "La Anónima",
@@ -507,7 +1127,7 @@
     "precio": 2150.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/palitos-de-arroz-sabor-queso-dos-hermanos-x-80-g/art_1994890/",
-    "timestamp": "2026-04-19T19:37:30.441528"
+    "timestamp": "2026-04-19T19:46:07.984538"
   },
   {
     "supermercado": "La Anónima",
@@ -517,7 +1137,7 @@
     "precio": 2150.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/discos-de-arroz-sabor-asado-dos-hermanos-x-80-g/art_2116388/",
-    "timestamp": "2026-04-19T19:37:30.441531"
+    "timestamp": "2026-04-19T19:46:07.984542"
   },
   {
     "supermercado": "La Anónima",
@@ -527,7 +1147,7 @@
     "precio": 3700.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mani-tostado-natural-sin-sal-sin-piel-la-anonima-x-350-g/art_3145451/",
-    "timestamp": "2026-04-19T19:37:30.441534"
+    "timestamp": "2026-04-19T19:46:07.984546"
   },
   {
     "supermercado": "La Anónima",
@@ -537,7 +1157,7 @@
     "precio": 2600.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/palitos-de-maiz-con-queso-la-anonima-x-150-g/art_1208287/",
-    "timestamp": "2026-04-19T19:37:30.441538"
+    "timestamp": "2026-04-19T19:46:07.984550"
   },
   {
     "supermercado": "La Anónima",
@@ -547,7 +1167,7 @@
     "precio": 5600.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-la-anonima-x-250-g/art_2978763/",
-    "timestamp": "2026-04-19T19:37:30.441541"
+    "timestamp": "2026-04-19T19:46:07.984555"
   },
   {
     "supermercado": "La Anónima",
@@ -557,7 +1177,7 @@
     "precio": 2650.0,
     "precio_lista": 2850.0,
     "url": "https://www.laanonima.com.ar/papas-fritas-sabor-ketchup-krach-itos-x-90-g/art_2987510/",
-    "timestamp": "2026-04-19T19:37:30.441544"
+    "timestamp": "2026-04-19T19:46:07.984559"
   },
   {
     "supermercado": "La Anónima",
@@ -567,7 +1187,7 @@
     "precio": 3600.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-corte-americano-la-anonima-x-150-g/art_2978775/",
-    "timestamp": "2026-04-19T19:37:30.441549"
+    "timestamp": "2026-04-19T19:46:07.984564"
   },
   {
     "supermercado": "La Anónima",
@@ -577,7 +1197,7 @@
     "precio": 2000.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mani-frito-pelado-salado-la-anonima-x-120-g/art_1266470/",
-    "timestamp": "2026-04-19T19:37:30.441553"
+    "timestamp": "2026-04-19T19:46:07.984569"
   },
   {
     "supermercado": "La Anónima",
@@ -587,7 +1207,7 @@
     "precio": 3700.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mani-tostado-salado-sin-piel-la-anonima-x-350-g/art_3145475/",
-    "timestamp": "2026-04-19T19:37:30.441556"
+    "timestamp": "2026-04-19T19:46:07.984574"
   },
   {
     "supermercado": "La Anónima",
@@ -597,7 +1217,7 @@
     "precio": 4760.0,
     "precio_lista": 5950.0,
     "url": "https://www.laanonima.com.ar/tubos-de-maiz-sabor-queso-pehuamar-x-265-g/art_3238428/",
-    "timestamp": "2026-04-19T19:37:30.441559"
+    "timestamp": "2026-04-19T19:46:07.984578"
   },
   {
     "supermercado": "La Anónima",
@@ -607,7 +1227,7 @@
     "precio": 2650.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-corte-americano-la-anonima-x-113-g/art_3375250/",
-    "timestamp": "2026-04-19T19:37:30.441562"
+    "timestamp": "2026-04-19T19:46:07.984582"
   },
   {
     "supermercado": "La Anónima",
@@ -617,7 +1237,7 @@
     "precio": 1300.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mani-tostado-salado-sin-piel-la-anonima-x-105-g/art_3145463/",
-    "timestamp": "2026-04-19T19:37:30.441566"
+    "timestamp": "2026-04-19T19:46:07.984587"
   },
   {
     "supermercado": "La Anónima",
@@ -627,7 +1247,7 @@
     "precio": 2400.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/nachos-sabor-original-la-anonima-x-90-g/art_3371268/",
-    "timestamp": "2026-04-19T19:37:30.441569"
+    "timestamp": "2026-04-19T19:46:07.984591"
   },
   {
     "supermercado": "La Anónima",
@@ -637,7 +1257,7 @@
     "precio": 1720.0,
     "precio_lista": 2150.0,
     "url": "https://www.laanonima.com.ar/rueditas-flamin-hot-pep-x-71-g/art_3417979/",
-    "timestamp": "2026-04-19T19:37:30.441573"
+    "timestamp": "2026-04-19T19:46:07.984597"
   },
   {
     "supermercado": "La Anónima",
@@ -647,7 +1267,7 @@
     "precio": 1300.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mani-tostado-natural-sin-sal-sin-piel-la-anonima-x-105-g/art_3145440/",
-    "timestamp": "2026-04-19T19:37:30.441576"
+    "timestamp": "2026-04-19T19:46:07.984602"
   },
   {
     "supermercado": "La Anónima",
@@ -657,7 +1277,7 @@
     "precio": 4360.0,
     "precio_lista": 5450.0,
     "url": "https://www.laanonima.com.ar/tubitos-de-harina-de-maiz-sabor-queso-3d-mega-queso-x-143-g/art_2920803/",
-    "timestamp": "2026-04-19T19:37:30.441580"
+    "timestamp": "2026-04-19T19:46:07.984609"
   },
   {
     "supermercado": "La Anónima",
@@ -667,7 +1287,7 @@
     "precio": 2650.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/nachos-sabor-queso-la-anonima-x-90-g/art_3371270/",
-    "timestamp": "2026-04-19T19:37:30.441583"
+    "timestamp": "2026-04-19T19:46:07.984615"
   },
   {
     "supermercado": "La Anónima",
@@ -677,7 +1297,7 @@
     "precio": 2750.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-rusticas-la-anonima-x-93-g/art_3375286/",
-    "timestamp": "2026-04-19T19:37:30.441586"
+    "timestamp": "2026-04-19T19:46:07.984620"
   },
   {
     "supermercado": "La Anónima",
@@ -687,7 +1307,7 @@
     "precio": 5300.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-tubo-sabor-crema-y-cebolla-best-x-140-g/art_3307396/",
-    "timestamp": "2026-04-19T19:37:30.441589"
+    "timestamp": "2026-04-19T19:46:07.984626"
   },
   {
     "supermercado": "La Anónima",
@@ -697,7 +1317,7 @@
     "precio": 2650.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/nachos-sabor-chile-picante-la-anonima-x-90-g/art_3371281/",
-    "timestamp": "2026-04-19T19:37:30.441598"
+    "timestamp": "2026-04-19T19:46:07.984633"
   },
   {
     "supermercado": "La Anónima",
@@ -707,7 +1327,7 @@
     "precio": 5300.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-tubo-sabor-original-best-x-140-g/art_3307384/",
-    "timestamp": "2026-04-19T19:37:30.441603"
+    "timestamp": "2026-04-19T19:46:07.984641"
   },
   {
     "supermercado": "La Anónima",
@@ -717,7 +1337,7 @@
     "precio": 3700.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mani-frito-salado-sin-piel-la-anonima-x-350-g/art_3145438/",
-    "timestamp": "2026-04-19T19:37:30.441608"
+    "timestamp": "2026-04-19T19:46:07.984647"
   },
   {
     "supermercado": "La Anónima",
@@ -727,7 +1347,7 @@
     "precio": 1650.0,
     "precio_lista": 1750.0,
     "url": "https://www.laanonima.com.ar/papas-fritas-corte-americano-x-treme-hot-krachitos-x-55-g/art_3349690/",
-    "timestamp": "2026-04-19T19:37:30.441613"
+    "timestamp": "2026-04-19T19:46:07.984658"
   },
   {
     "supermercado": "La Anónima",
@@ -737,7 +1357,7 @@
     "precio": 1750.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/tubos-de-maiz-x-treme-hot-krachitos-x-45-g/art_3349718/",
-    "timestamp": "2026-04-19T19:37:30.441618"
+    "timestamp": "2026-04-19T19:46:07.984665"
   },
   {
     "supermercado": "La Anónima",
@@ -747,7 +1367,7 @@
     "precio": 1550.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/galletitas-sabor-pizza-saladix-x-100-g/art_0099624/",
-    "timestamp": "2026-04-19T19:37:30.441623"
+    "timestamp": "2026-04-19T19:46:07.984671"
   },
   {
     "supermercado": "La Anónima",
@@ -757,7 +1377,7 @@
     "precio": 4490.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mani-frito-salado-mani-king-x350gr/art_3122384/",
-    "timestamp": "2026-04-19T19:37:30.441628"
+    "timestamp": "2026-04-19T19:46:07.984676"
   },
   {
     "supermercado": "La Anónima",
@@ -767,7 +1387,7 @@
     "precio": 1550.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/galletitas-saladix-jamon-x-100-g/art_0099600/",
-    "timestamp": "2026-04-19T19:37:30.441632"
+    "timestamp": "2026-04-19T19:46:07.984687"
   },
   {
     "supermercado": "La Anónima",
@@ -777,7 +1397,7 @@
     "precio": 4250.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/palitos-de-maiz-con-queso-krach-itos-x-300-g/art_2971800/",
-    "timestamp": "2026-04-19T19:37:30.441638"
+    "timestamp": "2026-04-19T19:46:07.984693"
   },
   {
     "supermercado": "La Anónima",
@@ -787,7 +1407,7 @@
     "precio": 2550.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/palitos-de-maiz-con-queso-krach-itos-x-170-g/art_2971811/",
-    "timestamp": "2026-04-19T19:37:30.441644"
+    "timestamp": "2026-04-19T19:46:07.984699"
   },
   {
     "supermercado": "La Anónima",
@@ -797,7 +1417,7 @@
     "precio": 4490.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mani-tostado-sin-sal-mani-king-x-350-g/art_3122396/",
-    "timestamp": "2026-04-19T19:37:30.441648"
+    "timestamp": "2026-04-19T19:46:07.984704"
   },
   {
     "supermercado": "La Anónima",
@@ -807,7 +1427,7 @@
     "precio": 2900.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/galletitas-saladas-sabor-original-rex-x-225-g/art_3204091/",
-    "timestamp": "2026-04-19T19:37:30.441651"
+    "timestamp": "2026-04-19T19:46:07.984709"
   },
   {
     "supermercado": "La Anónima",
@@ -817,7 +1437,7 @@
     "precio": 990.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/palitos-de-maiz-con-queso-nikitos-x-100-g/art_2590761/",
-    "timestamp": "2026-04-19T19:37:30.441654"
+    "timestamp": "2026-04-19T19:46:07.984715"
   },
   {
     "supermercado": "La Anónima",
@@ -827,7 +1447,7 @@
     "precio": 3600.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/chizitos-de-maiz-pehuamar-maicitos-x-125-g/art_2617183/",
-    "timestamp": "2026-04-19T19:37:30.441657"
+    "timestamp": "2026-04-19T19:46:07.984720"
   },
   {
     "supermercado": "La Anónima",
@@ -837,7 +1457,7 @@
     "precio": 1500.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/bastoncitos-extra-queso-krach-itos-x-60-g/art_2971823/",
-    "timestamp": "2026-04-19T19:37:30.441660"
+    "timestamp": "2026-04-19T19:46:07.984726"
   },
   {
     "supermercado": "La Anónima",
@@ -847,7 +1467,7 @@
     "precio": 3900.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/batatas-fritas-quento-x-130-g/art_3349949/",
-    "timestamp": "2026-04-19T19:37:30.441663"
+    "timestamp": "2026-04-19T19:46:07.984731"
   },
   {
     "supermercado": "La Anónima",
@@ -857,7 +1477,7 @@
     "precio": 2050.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/snacks-horneados-cebolla-y-crema-molinos-ala-x-80-g/art_3450211/",
-    "timestamp": "2026-04-19T19:37:30.441666"
+    "timestamp": "2026-04-19T19:46:07.984737"
   },
   {
     "supermercado": "La Anónima",
@@ -867,7 +1487,7 @@
     "precio": 2050.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/galletitas-saladas-rex-original-x-125-g/art_1402146/",
-    "timestamp": "2026-04-19T19:37:30.441670"
+    "timestamp": "2026-04-19T19:46:07.984743"
   },
   {
     "supermercado": "La Anónima",
@@ -877,7 +1497,7 @@
     "precio": 1150.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/snacks-pizzitos-sabor-jamon-y-queso-nikitos-x-100-g/art_2702204/",
-    "timestamp": "2026-04-19T19:37:30.441674"
+    "timestamp": "2026-04-19T19:46:07.984749"
   },
   {
     "supermercado": "La Anónima",
@@ -887,7 +1507,7 @@
     "precio": 4500.0,
     "precio_lista": 5450.0,
     "url": "https://www.laanonima.com.ar/mini-tostadas-de-jamon-iberico-twistos-x-155-g/art_2643364/",
-    "timestamp": "2026-04-19T19:37:30.441679"
+    "timestamp": "2026-04-19T19:46:07.984755"
   },
   {
     "supermercado": "La Anónima",
@@ -897,7 +1517,7 @@
     "precio": 3550.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/palitos-salados-pehuamar-x-165-g/art_3043320/",
-    "timestamp": "2026-04-19T19:37:30.441685"
+    "timestamp": "2026-04-19T19:46:07.984762"
   },
   {
     "supermercado": "La Anónima",
@@ -907,7 +1527,7 @@
     "precio": 2600.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/pochoclo-super-dulce-para-microondas-marlom-s-x-120-g/art_3283598/",
-    "timestamp": "2026-04-19T19:37:30.441688"
+    "timestamp": "2026-04-19T19:46:07.984767"
   },
   {
     "supermercado": "La Anónima",
@@ -917,7 +1537,7 @@
     "precio": 2900.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mani-pelado-tostado-salado-apostoles-x-300-g/art_3287154/",
-    "timestamp": "2026-04-19T19:37:30.441691"
+    "timestamp": "2026-04-19T19:46:07.984771"
   },
   {
     "supermercado": "La Anónima",
@@ -927,7 +1547,7 @@
     "precio": 3800.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mini-tostaditas-sabor-queso-twistos-x-95-g/art_2577604/",
-    "timestamp": "2026-04-19T19:37:30.441694"
+    "timestamp": "2026-04-19T19:46:07.984776"
   },
   {
     "supermercado": "La Anónima",
@@ -937,7 +1557,7 @@
     "precio": 2200.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/chips-de-pan-pita-tomate-y-romero-almadre-x-115-g/art_3327723/",
-    "timestamp": "2026-04-19T19:37:30.441697"
+    "timestamp": "2026-04-19T19:46:07.984780"
   },
   {
     "supermercado": "La Anónima",
@@ -947,7 +1567,7 @@
     "precio": 2550.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-clasicas-quento-x-92-g/art_3349913/",
-    "timestamp": "2026-04-19T19:37:30.441700"
+    "timestamp": "2026-04-19T19:46:07.984785"
   },
   {
     "supermercado": "La Anónima",
@@ -957,7 +1577,7 @@
     "precio": 2550.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-jamon-serrano-quento-x-82-g/art_3349937/",
-    "timestamp": "2026-04-19T19:37:30.441703"
+    "timestamp": "2026-04-19T19:46:07.984789"
   },
   {
     "supermercado": "La Anónima",
@@ -967,7 +1587,7 @@
     "precio": 1400.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-corte-americano-sabor-picante-jalapeno-nikitos-x-65-g/art_3429180/",
-    "timestamp": "2026-04-19T19:37:30.441706"
+    "timestamp": "2026-04-19T19:46:07.984794"
   },
   {
     "supermercado": "La Anónima",
@@ -977,7 +1597,7 @@
     "precio": 2900.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/galletitas-sabor-queso-kesitas-x-250-g/art_3204017/",
-    "timestamp": "2026-04-19T19:37:30.441709"
+    "timestamp": "2026-04-19T19:46:07.984798"
   },
   {
     "supermercado": "La Anónima",
@@ -987,7 +1607,7 @@
     "precio": 2600.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/pochoclos-dulces-acaramelados-biggys-x-100-g/art_3263058/",
-    "timestamp": "2026-04-19T19:37:30.441712"
+    "timestamp": "2026-04-19T19:46:07.984805"
   },
   {
     "supermercado": "La Anónima",
@@ -997,7 +1617,7 @@
     "precio": 2050.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/galletitas-saladas-kesitas-sabor-queso-x-125-g/art_1559382/",
-    "timestamp": "2026-04-19T19:37:30.441715"
+    "timestamp": "2026-04-19T19:46:07.984810"
   },
   {
     "supermercado": "La Anónima",
@@ -1007,7 +1627,7 @@
     "precio": 3400.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/rueditas-sabor-pizza-pep-x-120-g/art_2617195/",
-    "timestamp": "2026-04-19T19:37:30.441718"
+    "timestamp": "2026-04-19T19:46:07.984815"
   },
   {
     "supermercado": "La Anónima",
@@ -1017,7 +1637,7 @@
     "precio": 5450.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mini-tostadas-de-queso-twistos-x-155-g/art_2643388/",
-    "timestamp": "2026-04-19T19:37:30.441721"
+    "timestamp": "2026-04-19T19:46:07.984819"
   },
   {
     "supermercado": "La Anónima",
@@ -1027,7 +1647,7 @@
     "precio": 1200.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-corte-americano-nikitos-x-70-g/art_2590785/",
-    "timestamp": "2026-04-19T19:37:30.441724"
+    "timestamp": "2026-04-19T19:46:07.984824"
   },
   {
     "supermercado": "La Anónima",
@@ -1037,7 +1657,7 @@
     "precio": 2650.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/nachos-originales-macritas-x-110-g/art_3026036/",
-    "timestamp": "2026-04-19T19:37:30.441727"
+    "timestamp": "2026-04-19T19:46:07.984828"
   },
   {
     "supermercado": "La Anónima",
@@ -1047,7 +1667,7 @@
     "precio": 2350.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/chizitos-de-maiz-sabor-a-queso-cheetos-original-x-43-g/art_3026115/",
-    "timestamp": "2026-04-19T19:37:30.441739"
+    "timestamp": "2026-04-19T19:46:07.984833"
   },
   {
     "supermercado": "La Anónima",
@@ -1057,7 +1677,7 @@
     "precio": 3900.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/chizitos-de-maiz-sabor-a-queso-cheetos-original-x-85-g/art_3103717/",
-    "timestamp": "2026-04-19T19:37:30.441743"
+    "timestamp": "2026-04-19T19:46:07.984838"
   },
   {
     "supermercado": "La Anónima",
@@ -1067,7 +1687,7 @@
     "precio": 3900.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/tubos-de-maiz-sabor-queso-3d-x-85-g/art_3103766/",
-    "timestamp": "2026-04-19T19:37:30.441748"
+    "timestamp": "2026-04-19T19:46:07.984843"
   },
   {
     "supermercado": "La Anónima",
@@ -1077,7 +1697,7 @@
     "precio": 3150.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/pochoclos-salados-gallo-snacks-x-60-g/art_3127527/",
-    "timestamp": "2026-04-19T19:37:30.441754"
+    "timestamp": "2026-04-19T19:46:07.984847"
   },
   {
     "supermercado": "La Anónima",
@@ -1087,7 +1707,7 @@
     "precio": 3850.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/galletitas-snacks-pizza-gallo-snacks-x-100-g/art_3096427/",
-    "timestamp": "2026-04-19T19:37:30.441761"
+    "timestamp": "2026-04-19T19:46:07.984855"
   },
   {
     "supermercado": "La Anónima",
@@ -1097,7 +1717,7 @@
     "precio": 2350.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/tubitos-de-harina-de-maiz-sabor-queso-3d-mega-queso-x-43-g/art_2920785/",
-    "timestamp": "2026-04-19T19:37:30.441767"
+    "timestamp": "2026-04-19T19:46:07.984860"
   },
   {
     "supermercado": "La Anónima",
@@ -1107,7 +1727,7 @@
     "precio": 3700.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-pay-krach-itos-x-150-g/art_2987569/",
-    "timestamp": "2026-04-19T19:37:30.441770"
+    "timestamp": "2026-04-19T19:46:07.984865"
   },
   {
     "supermercado": "La Anónima",
@@ -1117,7 +1737,7 @@
     "precio": 5250.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/nachos-originales-macritas-x-250-g/art_3015944/",
-    "timestamp": "2026-04-19T19:37:30.441773"
+    "timestamp": "2026-04-19T19:46:07.984869"
   },
   {
     "supermercado": "La Anónima",
@@ -1127,7 +1747,7 @@
     "precio": 2850.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-jamon-serrano-krach-itos-x-90-g/art_2971770/",
-    "timestamp": "2026-04-19T19:37:30.441776"
+    "timestamp": "2026-04-19T19:46:07.984873"
   },
   {
     "supermercado": "La Anónima",
@@ -1137,7 +1757,7 @@
     "precio": 1200.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mani-pelado-salado-krach-itos-x-70-g/art_2971793/",
-    "timestamp": "2026-04-19T19:37:30.441779"
+    "timestamp": "2026-04-19T19:46:07.984877"
   },
   {
     "supermercado": "La Anónima",
@@ -1147,7 +1767,7 @@
     "precio": 2200.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/chips-de-pan-pita-original-almadre-x-115-g/art_3327693/",
-    "timestamp": "2026-04-19T19:37:30.441794"
+    "timestamp": "2026-04-19T19:46:07.984881"
   },
   {
     "supermercado": "La Anónima",
@@ -1157,7 +1777,7 @@
     "precio": 4490.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mani-frito-con-piel-mani-king-x-350-g/art_3208795/",
-    "timestamp": "2026-04-19T19:37:30.441798"
+    "timestamp": "2026-04-19T19:46:07.984886"
   },
   {
     "supermercado": "La Anónima",
@@ -1167,7 +1787,7 @@
     "precio": 3400.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/galletitas-crackers-club-social-original-x-6-un-144-g/art_2301246/",
-    "timestamp": "2026-04-19T19:37:30.441801"
+    "timestamp": "2026-04-19T19:46:07.984892"
   },
   {
     "supermercado": "La Anónima",
@@ -1177,7 +1797,7 @@
     "precio": 1400.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-jamon-serrano-nikitos-x-65-g/art_2702162/",
-    "timestamp": "2026-04-19T19:37:30.441804"
+    "timestamp": "2026-04-19T19:46:07.984897"
   },
   {
     "supermercado": "La Anónima",
@@ -1187,7 +1807,7 @@
     "precio": 1200.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-clasicas-nikitos-x-70-g/art_2590748/",
-    "timestamp": "2026-04-19T19:37:30.441807"
+    "timestamp": "2026-04-19T19:46:07.984902"
   },
   {
     "supermercado": "La Anónima",
@@ -1197,7 +1817,7 @@
     "precio": 1200.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mani-frito-salado-mani-king-x-100-g/art_3049292/",
-    "timestamp": "2026-04-19T19:37:30.441810"
+    "timestamp": "2026-04-19T19:46:07.984908"
   },
   {
     "supermercado": "La Anónima",
@@ -1207,7 +1827,7 @@
     "precio": 1200.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mani-tostado-sin-sal-mani-king-x-100-g/art_3049309/",
-    "timestamp": "2026-04-19T19:37:30.441813"
+    "timestamp": "2026-04-19T19:46:07.984913"
   },
   {
     "supermercado": "La Anónima",
@@ -1217,7 +1837,7 @@
     "precio": 5450.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/chizitos-de-maiz-sabor-a-queso-cheetos-original-x-140-g/art_3103730/",
-    "timestamp": "2026-04-19T19:37:30.441816"
+    "timestamp": "2026-04-19T19:46:07.984919"
   },
   {
     "supermercado": "La Anónima",
@@ -1227,7 +1847,7 @@
     "precio": 2250.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/pochoclo-dulce-para-microondas-marlom-s-x-87-g/art_3111994/",
-    "timestamp": "2026-04-19T19:37:30.441819"
+    "timestamp": "2026-04-19T19:46:07.984924"
   },
   {
     "supermercado": "La Anónima",
@@ -1237,7 +1857,7 @@
     "precio": 2600.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/pochoclos-dulces-gallo-snacks-x-50-g/art_3127515/",
-    "timestamp": "2026-04-19T19:37:30.441824"
+    "timestamp": "2026-04-19T19:46:07.984930"
   },
   {
     "supermercado": "La Anónima",
@@ -1247,7 +1867,7 @@
     "precio": 4050.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mani-frito-salado-sin-piel-croppers-x-350-g/art_3102634/",
-    "timestamp": "2026-04-19T19:37:30.441827"
+    "timestamp": "2026-04-19T19:46:07.984935"
   },
   {
     "supermercado": "La Anónima",
@@ -1257,7 +1877,7 @@
     "precio": 3850.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/galletitas-snacks-queso-gallo-snacks-x-100-g/art_3096415/",
-    "timestamp": "2026-04-19T19:37:30.441830"
+    "timestamp": "2026-04-19T19:46:07.984941"
   },
   {
     "supermercado": "La Anónima",
@@ -1267,7 +1887,7 @@
     "precio": 2250.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/pochoclo-salado-manteca-para-microonda-marlom-s-x-100-g/art_3076118/",
-    "timestamp": "2026-04-19T19:37:30.441833"
+    "timestamp": "2026-04-19T19:46:07.984946"
   },
   {
     "supermercado": "La Anónima",
@@ -1277,7 +1897,7 @@
     "precio": 3850.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/galletitas-snack-arroz-crema-y-cebolla-gallo-snacks-x-100-g/art_2920736/",
-    "timestamp": "2026-04-19T19:37:30.441836"
+    "timestamp": "2026-04-19T19:46:07.984952"
   },
   {
     "supermercado": "La Anónima",
@@ -1287,7 +1907,7 @@
     "precio": 1900.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mani-pelado-salado-krach-itos-x-110-g/art_2971781/",
-    "timestamp": "2026-04-19T19:37:30.441842"
+    "timestamp": "2026-04-19T19:46:07.984960"
   },
   {
     "supermercado": "La Anónima",
@@ -1297,7 +1917,7 @@
     "precio": 2850.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-sabor-cheddar-krach-itos-x-90-g/art_2971884/",
-    "timestamp": "2026-04-19T19:37:30.441845"
+    "timestamp": "2026-04-19T19:46:07.984966"
   },
   {
     "supermercado": "La Anónima",
@@ -1307,7 +1927,7 @@
     "precio": 2850.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-sabor-crema-y-cebolla-krachitos-x-90-g/art_3362632/",
-    "timestamp": "2026-04-19T19:37:30.441849"
+    "timestamp": "2026-04-19T19:46:07.984971"
   },
   {
     "supermercado": "La Anónima",
@@ -1317,7 +1937,7 @@
     "precio": 15950.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/almendras-ahumadas-blue-diamond-x-170-g/art_3366741/",
-    "timestamp": "2026-04-19T19:37:30.441852"
+    "timestamp": "2026-04-19T19:46:07.984977"
   },
   {
     "supermercado": "La Anónima",
@@ -1327,7 +1947,7 @@
     "precio": 15950.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/almendras-honey-blue-diamond-x-170-g/art_3366765/",
-    "timestamp": "2026-04-19T19:37:30.441855"
+    "timestamp": "2026-04-19T19:46:07.984982"
   },
   {
     "supermercado": "La Anónima",
@@ -1337,7 +1957,7 @@
     "precio": 15950.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/almendras-saladas-blue-diamond-x-170-g/art_3366753/",
-    "timestamp": "2026-04-19T19:37:30.441858"
+    "timestamp": "2026-04-19T19:46:07.984988"
   },
   {
     "supermercado": "La Anónima",
@@ -1347,7 +1967,7 @@
     "precio": 2550.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-ketchup-quento-x-82-g/art_3349925/",
-    "timestamp": "2026-04-19T19:37:30.441861"
+    "timestamp": "2026-04-19T19:46:07.984993"
   },
   {
     "supermercado": "La Anónima",
@@ -1357,7 +1977,7 @@
     "precio": 2500.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/batatas-fritas-mostaza-y-miel-quento-x-70-g/art_3472796/",
-    "timestamp": "2026-04-19T19:37:30.441864"
+    "timestamp": "2026-04-19T19:46:07.984999"
   },
   {
     "supermercado": "La Anónima",
@@ -1367,7 +1987,7 @@
     "precio": 5100.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-sabor-original-saladix-x-130g/art_3493908/",
-    "timestamp": "2026-04-19T19:37:30.441867"
+    "timestamp": "2026-04-19T19:46:07.985004"
   },
   {
     "supermercado": "La Anónima",
@@ -1377,7 +1997,7 @@
     "precio": 3400.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-sabor-crema-y-cebolla-saladix-x-72-g/art_3493969/",
-    "timestamp": "2026-04-19T19:37:30.441870"
+    "timestamp": "2026-04-19T19:46:07.985008"
   },
   {
     "supermercado": "La Anónima",
@@ -1387,7 +2007,7 @@
     "precio": 2050.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/snacks-horneados-queso-molinos-ala-x-80-g/art_3450200/",
-    "timestamp": "2026-04-19T19:37:30.441873"
+    "timestamp": "2026-04-19T19:46:07.985015"
   },
   {
     "supermercado": "La Anónima",
@@ -1397,7 +2017,7 @@
     "precio": 2350.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/chizitos-de-maiz-cheetos-ondulados-sabor-a-queso-crema-43-g/art_3178304/",
-    "timestamp": "2026-04-19T19:37:30.441876"
+    "timestamp": "2026-04-19T19:46:07.985020"
   },
   {
     "supermercado": "La Anónima",
@@ -1407,7 +2027,7 @@
     "precio": 3900.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/chizitos-de-maiz-cheetos-ondulados-sabor-a-queso-crema-85-g/art_3178316/",
-    "timestamp": "2026-04-19T19:37:30.441879"
+    "timestamp": "2026-04-19T19:46:07.985024"
   },
   {
     "supermercado": "La Anónima",
@@ -1417,7 +2037,7 @@
     "precio": 1350.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/galletitas-cross-fuego-saladix-x-67-g/art_3188000/",
-    "timestamp": "2026-04-19T19:37:30.441882"
+    "timestamp": "2026-04-19T19:46:07.985029"
   },
   {
     "supermercado": "La Anónima",
@@ -1427,7 +2047,7 @@
     "precio": 1400.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mani-tostado-salado-croppers-x-105-g/art_3176502/",
-    "timestamp": "2026-04-19T19:37:30.441887"
+    "timestamp": "2026-04-19T19:46:07.985036"
   },
   {
     "supermercado": "La Anónima",
@@ -1437,7 +2057,7 @@
     "precio": 4400.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mani-honey-roasted-spicy-dec-alimentos-x-220-g/art_3004302/",
-    "timestamp": "2026-04-19T19:37:30.441890"
+    "timestamp": "2026-04-19T19:46:07.985041"
   },
   {
     "supermercado": "La Anónima",
@@ -1447,7 +2067,7 @@
     "precio": 2550.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/nachos-de-maiz-con-chia-alwa-x-80-g/art_3159255/",
-    "timestamp": "2026-04-19T19:37:30.441893"
+    "timestamp": "2026-04-19T19:46:07.985046"
   },
   {
     "supermercado": "La Anónima",
@@ -1457,7 +2077,7 @@
     "precio": 1900.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mani-crocante-jamon-serrano-croppers-x-85-g/art_3297688/",
-    "timestamp": "2026-04-19T19:37:30.441896"
+    "timestamp": "2026-04-19T19:46:07.985050"
   },
   {
     "supermercado": "La Anónima",
@@ -1467,7 +2087,7 @@
     "precio": 1900.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mani-crocante-tomate-y-oliva-croppers-x-85-g/art_3297743/",
-    "timestamp": "2026-04-19T19:37:30.441899"
+    "timestamp": "2026-04-19T19:46:07.985054"
   },
   {
     "supermercado": "La Anónima",
@@ -1477,7 +2097,7 @@
     "precio": 2700.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-tradicionales-krach-itos-x-105-g/art_3273880/",
-    "timestamp": "2026-04-19T19:37:30.441904"
+    "timestamp": "2026-04-19T19:46:07.985060"
   },
   {
     "supermercado": "La Anónima",
@@ -1487,7 +2107,7 @@
     "precio": 3700.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papa-corte-tradicional-krach-itos-x-165-g/art_3273866/",
-    "timestamp": "2026-04-19T19:37:30.441907"
+    "timestamp": "2026-04-19T19:46:07.985067"
   },
   {
     "supermercado": "La Anónima",
@@ -1497,7 +2117,7 @@
     "precio": 1650.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/galletitas-saladas-kesitas-sabor-queso-x-75-g/art_0242950/",
-    "timestamp": "2026-04-19T19:37:30.441910"
+    "timestamp": "2026-04-19T19:46:07.985072"
   },
   {
     "supermercado": "La Anónima",
@@ -1507,7 +2127,7 @@
     "precio": 3350.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/galletitas-crackers-club-social-jamon-x-6-un-141-g/art_2301222/",
-    "timestamp": "2026-04-19T19:37:30.441968"
+    "timestamp": "2026-04-19T19:46:07.985133"
   },
   {
     "supermercado": "La Anónima",
@@ -1517,7 +2137,7 @@
     "precio": 1400.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/papas-fritas-ketchup-barbacoa-nikitos-x-65-g/art_2702174/",
-    "timestamp": "2026-04-19T19:37:30.441971"
+    "timestamp": "2026-04-19T19:46:07.985137"
   },
   {
     "supermercado": "La Anónima",
@@ -1527,6 +2147,6 @@
     "precio": 3800.0,
     "precio_lista": null,
     "url": "https://www.laanonima.com.ar/mini-tostaditas-jamon-iberico-twistos-x-95-g/art_2577586/",
-    "timestamp": "2026-04-19T19:37:30.441978"
+    "timestamp": "2026-04-19T19:46:07.985141"
   }
 ]
