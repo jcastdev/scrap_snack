@@ -1,0 +1,622 @@
+[
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Galletitas Pancitos Jamon Horneados Snack Dia 70 Gr.",
+    "marca": "DIA",
+    "precio": 796.0,
+    "precio_lista": 796.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/galletitas-pancitos-jamon-horneados-snack-dia-70-gr-285373/p",
+    "timestamp": "2026-04-19T18:23:18.597282"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Galletitas Pancitos Pizza Horneados Snack Dia 70 Gr.",
+    "marca": "SIN MARCA",
+    "precio": 796.0,
+    "precio_lista": 796.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/galletitas-pancitos-pizza-horneados-snack-dia-70-gr-285372/p",
+    "timestamp": "2026-04-19T18:23:18.597292"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Galletitas Pancitos Horneados Snack Dia Clasico 70 Gr.",
+    "marca": "SIN MARCA",
+    "precio": 796.0,
+    "precio_lista": 796.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/galletitas-pancitos-horneados-snack-dia-clasico-70-gr-285371/p",
+    "timestamp": "2026-04-19T18:23:18.597295"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Cookies & Cream Hershey's 77 Gr",
+    "marca": "HERSHEY",
+    "precio": 4010.0,
+    "precio_lista": 4010.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-cookies---cream-hershey-s-77-gr-224290/p",
+    "timestamp": "2026-04-19T18:23:18.597298"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Gomitas Frutales Billiken 150 Gr.",
+    "marca": "BILLIKEN",
+    "precio": 1690.0,
+    "precio_lista": 1990.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/gomitas-frutales-billiken-150-gr-285931/p",
+    "timestamp": "2026-04-19T18:23:18.913067"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Milka Con Leche 55 Gr.",
+    "marca": "MILKA",
+    "precio": 3990.0,
+    "precio_lista": 5140.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-milka-con-leche-55-gr-249906/p",
+    "timestamp": "2026-04-19T18:23:18.913077"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chicles Beldent Menta Refrescante 6 Ud.",
+    "marca": "BELDENT",
+    "precio": 1000.0,
+    "precio_lista": 1000.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chicles-beldent-menta-refrescante-6-ud-269580/p",
+    "timestamp": "2026-04-19T18:23:18.913079"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Con Maní Shot 35 Gr.",
+    "marca": "SHOT",
+    "precio": 2540.0,
+    "precio_lista": 2540.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-con-mani-shot-35-gr-110388/p",
+    "timestamp": "2026-04-19T18:23:18.913081"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Milka Chocopause 45 Gr.",
+    "marca": "MILKA",
+    "precio": 2610.0,
+    "precio_lista": 2610.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-milka-chocopause-45-gr-278032/p",
+    "timestamp": "2026-04-19T18:23:18.913084"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chicles Beldent Menta Power 6 Ud.",
+    "marca": "BELDENT",
+    "precio": 1000.0,
+    "precio_lista": 1000.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chicles-beldent-menta-power-6-ud-269579/p",
+    "timestamp": "2026-04-19T18:23:18.913086"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chicles Beldent Tuti Fruti 6 Ud.",
+    "marca": "BELDENT",
+    "precio": 1005.0,
+    "precio_lista": 1005.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chicles-beldent-tuti-fruti-6-ud-270871/p",
+    "timestamp": "2026-04-19T18:23:18.913088"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Milka Con Leche 20 Gr.",
+    "marca": "MILKA",
+    "precio": 1690.0,
+    "precio_lista": 1690.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-milka-con-leche-20-gr-252365/p",
+    "timestamp": "2026-04-19T18:23:18.913090"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Alfajor Milka Simple Mousse 42 Gr.",
+    "marca": "MILKA",
+    "precio": 1420.0,
+    "precio_lista": 1420.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/alfajor-milka-simple-mousse-42-gr-110564/p",
+    "timestamp": "2026-04-19T18:23:18.913092"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Alfajor Milka Triple Mousse 55 Gr.",
+    "marca": "MILKA",
+    "precio": 2000.0,
+    "precio_lista": 2000.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/alfajor-milka-triple-mousse-55-gr-21721/p",
+    "timestamp": "2026-04-19T18:23:18.913094"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Alfajor Triple Milka Dulce De Leche 70 Gr.",
+    "marca": "MILKA",
+    "precio": 2000.0,
+    "precio_lista": 2000.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/alfajor-triple-milka-dulce-de-leche-70-gr-23428/p",
+    "timestamp": "2026-04-19T18:23:18.913096"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Cadbury Relleno Yoghurt Frutilla 29 Gr.",
+    "marca": "CADBURY",
+    "precio": 2580.0,
+    "precio_lista": 2580.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-cadbury-relleno-yoghurt-frutilla-29-gr-21637/p",
+    "timestamp": "2026-04-19T18:23:18.913098"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Alfajor Terrabusi Triple Clásico 70 Gr.",
+    "marca": "TERRABUSI",
+    "precio": 2000.0,
+    "precio_lista": 2000.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/alfajor-terrabusi-triple-clasico-70-gr-23423/p",
+    "timestamp": "2026-04-19T18:23:18.913100"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Alfajor Con Maní Shot Triple 60 Gr.",
+    "marca": "SHOT",
+    "precio": 2000.0,
+    "precio_lista": 2000.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/alfajor-con-mani-shot-triple-60-gr-23431/p",
+    "timestamp": "2026-04-19T18:23:18.913102"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Alfajor Triple Milka Oreo 61 Gr.",
+    "marca": "MILKA",
+    "precio": 2000.0,
+    "precio_lista": 2000.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/alfajor-triple-milka-oreo-61-gr-182539/p",
+    "timestamp": "2026-04-19T18:23:18.913104"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Kinder 4 barras 50 Gr.",
+    "marca": "KINDER",
+    "precio": 2713.5,
+    "precio_lista": 3618.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-kinder-4-barras-50-gr-63129/p",
+    "timestamp": "2026-04-19T18:23:19.266159"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Bueno Kinder 43 Gr.",
+    "marca": "KINDER",
+    "precio": 3150.0,
+    "precio_lista": 3150.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-bueno-kinder-43-gr-37004/p",
+    "timestamp": "2026-04-19T18:23:19.266171"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate con leche DIA 80 Gr.",
+    "marca": "DIA",
+    "precio": 1990.0,
+    "precio_lista": 1990.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-con-leche-dia-80-gr-49329/p",
+    "timestamp": "2026-04-19T18:23:19.266175"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Pascua Nugaton 177 Gr.",
+    "marca": "NUGATON",
+    "precio": 7395.0,
+    "precio_lista": 14790.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-nugaton-177-gr-272607/p",
+    "timestamp": "2026-04-19T18:23:19.266178"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Biznikke Nevado 28 Gr.",
+    "marca": "BIZNIKKE",
+    "precio": 1300.0,
+    "precio_lista": 1508.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-biznikke-nevado-28-gr-110600/p",
+    "timestamp": "2026-04-19T18:23:19.266181"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Pascua Nugaton 91 Gr.",
+    "marca": "BONAFIDE",
+    "precio": 4140.0,
+    "precio_lista": 8280.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-nugaton-91-gr-233514/p",
+    "timestamp": "2026-04-19T18:23:19.266184"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate con Leche y Maní DIA 30 Gr.",
+    "marca": "DIA",
+    "precio": 1090.0,
+    "precio_lista": 1090.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-con-leche-y-mani-dia-30-gr-207410/p",
+    "timestamp": "2026-04-19T18:23:19.266188"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo De Pascua Vizzio 87 Gr.",
+    "marca": "BONAFIDE",
+    "precio": 4325.0,
+    "precio_lista": 8650.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-vizzio-87-gr-233513/p",
+    "timestamp": "2026-04-19T18:23:19.266191"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate con Maní Cofler Block 38 Gr.",
+    "marca": "COFLER",
+    "precio": 2035.0,
+    "precio_lista": 2035.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-con-mani-cofler-block-38-gr-25769/p",
+    "timestamp": "2026-04-19T18:23:19.266195"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate DIA Relleno con Dulce de Leche 80 Gr.",
+    "marca": "DIA",
+    "precio": 1990.0,
+    "precio_lista": 1990.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-dia-relleno-con-dulce-de-leche-80-gr-175800/p",
+    "timestamp": "2026-04-19T18:23:19.266198"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo De Pascua Kinder Con Sorpresa 150 Gr.",
+    "marca": "KINDER",
+    "precio": 15450.0,
+    "precio_lista": 30900.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-kinder-con-sorpresa-150-gr-38307/p",
+    "timestamp": "2026-04-19T18:23:19.266201"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Alfajor DIA Chocolate 55 Gr.",
+    "marca": "DIA",
+    "precio": 756.0,
+    "precio_lista": 756.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/alfajor-dia-chocolate-55-gr-221651/p",
+    "timestamp": "2026-04-19T18:23:19.266204"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Chocolate Kinder Rosa 20 Gr.",
+    "marca": "KINDER",
+    "precio": 2784.0,
+    "precio_lista": 2784.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-chocolate-kinder-rosa-20-gr-162299/p",
+    "timestamp": "2026-04-19T18:23:19.266207"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Bombón De Chocolate Milka Oreo 19 Gr.",
+    "marca": "MILKA",
+    "precio": 720.0,
+    "precio_lista": 720.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/bombon-de-chocolate-milka-oreo-19-gr-272322/p",
+    "timestamp": "2026-04-19T18:23:19.266210"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Pascua Biznikke Blanco 100 Gr.",
+    "marca": "BIZNIKKE",
+    "precio": 4995.0,
+    "precio_lista": 9990.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-biznikke-blanco-100-gr-161724/p",
+    "timestamp": "2026-04-19T18:23:19.266214"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Pascua Bon o bon 55 Gr.",
+    "marca": "BON O BON",
+    "precio": 4125.0,
+    "precio_lista": 8250.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-bon-o-bon-55-gr-6537/p",
+    "timestamp": "2026-04-19T18:23:19.266217"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate con Leche Arcor 25 Gr.",
+    "marca": "ARCOR",
+    "precio": 1393.0,
+    "precio_lista": 1393.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-con-leche-arcor-25-gr-124950/p",
+    "timestamp": "2026-04-19T18:23:19.266220"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Pascua Bon o Bon 20 Gr.",
+    "marca": "BON O BON",
+    "precio": 1150.0,
+    "precio_lista": 2300.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-bon-o-bon-20-gr-65505/p",
+    "timestamp": "2026-04-19T18:23:19.266223"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Chocolate Kinder Niño 20 Gr.",
+    "marca": "KINDER",
+    "precio": 2784.0,
+    "precio_lista": 2784.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-chocolate-kinder-nino-20-gr-37008/p",
+    "timestamp": "2026-04-19T18:23:19.266226"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Pascua Biznikke 100 Gr.",
+    "marca": "BIZNIKKE",
+    "precio": 4995.0,
+    "precio_lista": 9990.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-biznikke-100-gr-89365/p",
+    "timestamp": "2026-04-19T18:23:19.266229"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Pascua Kinder Niñas con Sorpresa 150 Gr.",
+    "marca": "KINDER",
+    "precio": 15450.0,
+    "precio_lista": 30900.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-kinder-ninas-con-sorpresa-150-gr-161527/p",
+    "timestamp": "2026-04-19T18:23:19.266236"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate en barra Aguila para taza 150 Gr.",
+    "marca": "AGUILA",
+    "precio": 7800.0,
+    "precio_lista": 7800.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-en-barra-aguila-para-taza-150-gr-8491/p",
+    "timestamp": "2026-04-19T18:23:19.266239"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Pascua Bon o Bon 110 Gr.",
+    "marca": "BON O BON",
+    "precio": 7000.0,
+    "precio_lista": 14000.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-bon-o-bon-110-gr-2262/p",
+    "timestamp": "2026-04-19T18:23:19.266243"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de pascua Shot 210 Gr.",
+    "marca": "SHOT",
+    "precio": 12500.0,
+    "precio_lista": 25000.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-shot-210-gr-283643/p",
+    "timestamp": "2026-04-19T18:23:19.266249"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Pascuas Chocolate Milka 22 Gr.",
+    "marca": "MILKA",
+    "precio": 1200.0,
+    "precio_lista": 2400.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascuas-chocolate-milka-22-gr-6205/p",
+    "timestamp": "2026-04-19T18:23:19.266252"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo De Pascua De Chocolate Delicious Dia 80 Gr.",
+    "marca": "DELICIOUS",
+    "precio": 3695.0,
+    "precio_lista": 7390.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-de-chocolate-delicious-dia-80-gr-6519/p",
+    "timestamp": "2026-04-19T18:23:19.266255"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Muffin Chocolate X 1 Ud.",
+    "marca": "SIN MARCA",
+    "precio": 1590.0,
+    "precio_lista": 1590.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/muffin-chocolate-x-1-ud-259366/p",
+    "timestamp": "2026-04-19T18:23:19.266261"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Lentejas de Chocolate Dia 80 Gr.",
+    "marca": "DIA",
+    "precio": 835.0,
+    "precio_lista": 2790.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/lentejas-de-chocolate-dia-80-gr-137797/p",
+    "timestamp": "2026-04-19T18:23:19.266271"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Polvo Exquisita Postre de Chocolate 80 Gr.",
+    "marca": "EXQUISITA",
+    "precio": 1206.0,
+    "precio_lista": 1608.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/polvo-exquisita-postre-de-chocolate-80-gr-219163/p",
+    "timestamp": "2026-04-19T18:23:19.266278"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Oblea Kitkat 4 Fingers X 41.5 Gr.",
+    "marca": "KIT KAT",
+    "precio": 2415.0,
+    "precio_lista": 2415.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/oblea-kitkat-4-fingers-x-415-gr-148828/p",
+    "timestamp": "2026-04-19T18:23:19.266282"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Con Almendras Cadbury 72 Gr.",
+    "marca": "COFLER",
+    "precio": 6175.0,
+    "precio_lista": 6175.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-con-almendras-cadbury-72-gr-21658/p",
+    "timestamp": "2026-04-19T18:23:19.266295"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Con Leche Arcor 8 Gr.",
+    "marca": "ARCOR",
+    "precio": 275.0,
+    "precio_lista": 350.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-con-leche-arcor-8-gr-25771/p",
+    "timestamp": "2026-04-19T18:23:19.266298"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo De Pascua Ferrero Rocher Con Avellanas 225 Gr.",
+    "marca": "FERRERO",
+    "precio": 18750.0,
+    "precio_lista": 37500.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-ferrero-rocher-con-avellanas-225-gr-218784/p",
+    "timestamp": "2026-04-19T18:23:19.266301"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate DIA Blanco 80 Gr.",
+    "marca": "DIA",
+    "precio": 1990.0,
+    "precio_lista": 1990.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-dia-blanco-80-gr-70001/p",
+    "timestamp": "2026-04-19T18:23:19.266304"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Chocolate Tofi Con Dulce De Leche 28 Gr.",
+    "marca": "BON O BON",
+    "precio": 6230.0,
+    "precio_lista": 6230.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/chocolate-tofi-con-dulce-de-leche-28-gr-25343/p",
+    "timestamp": "2026-04-19T18:23:19.266307"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Pascua de Chocolate Con Maní Delicious Dia 80 Gr.",
+    "marca": "DELICIOUS",
+    "precio": 3695.0,
+    "precio_lista": 7390.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascua-de-chocolate-con-mani-delicious-dia-80-gr-119274/p",
+    "timestamp": "2026-04-19T18:23:19.266310"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Huevo de Pascuas Chocolate Blanco Milka Oreo 156 Gr.",
+    "marca": "MILKA",
+    "precio": 110.0,
+    "precio_lista": 110.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/huevo-de-pascuas-chocolate-blanco-milka-oreo-156-gr-283644/p",
+    "timestamp": "2026-04-19T18:23:19.266314"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Caramelos Halls Menthol 9 Ud.",
+    "marca": "HALLS",
+    "precio": 930.0,
+    "precio_lista": 930.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/caramelos-halls-menthol-9-ud-239309/p",
+    "timestamp": "2026-04-19T18:23:19.454930"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Caramelos Tutti Frutti Flynn Paff 8 Gr.",
+    "marca": "FLYNN PAFF",
+    "precio": 250.0,
+    "precio_lista": 250.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/caramelos-tutti-frutti-flynn-paff-8-gr-300674/p",
+    "timestamp": "2026-04-19T18:23:19.454941"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Caramelos Halls Menta Lyptus 9 Ud.",
+    "marca": "HALLS",
+    "precio": 930.0,
+    "precio_lista": 930.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/caramelos-halls-menta-lyptus-9-ud-308911/p",
+    "timestamp": "2026-04-19T18:23:19.454945"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Caramelos Jelly Beans Mogul 50 Gr.",
+    "marca": "MOGUL",
+    "precio": 1141.0,
+    "precio_lista": 1141.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/caramelos-jelly-beans-mogul-50-gr-22608/p",
+    "timestamp": "2026-04-19T18:23:19.454948"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Caramelo Masticable Sabor Tutti Frutti Lenguetazo 13 Gr.",
+    "marca": "LENGUETAZO",
+    "precio": 413.0,
+    "precio_lista": 413.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/caramelo-masticable-sabor-tutti-frutti-lenguetazo-13-gr-103342/p",
+    "timestamp": "2026-04-19T18:23:19.454951"
+  },
+  {
+    "supermercado": "Supermercados DIA",
+    "categoria": "snacks",
+    "nombre": "Pastillas Menthoplus Cherry 29,4 Gr.",
+    "marca": "MENTHOPLUS",
+    "precio": 710.0,
+    "precio_lista": 710.0,
+    "url": "https://diaonline.supermercadosdia.com.arhttps://diaonline.supermercadosdia.com.ar/pastillas-menthoplus-cherry-294-gr-24183/p",
+    "timestamp": "2026-04-19T18:23:19.454955"
+  }
+]

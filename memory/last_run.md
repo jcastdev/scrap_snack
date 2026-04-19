@@ -1,5 +1,13 @@
 # Último run
 
+## 20260419 18:23
+
+| Supermercado | Productos |
+|---|---|
+| Supermercados DIA | 62 |
+
+**Total: 62 productos** -- `resultados/todos_20260419.json`
+
 ## 20260419 17:50
 
 | Supermercado | Estado | Productos | Archivo | Nota |
