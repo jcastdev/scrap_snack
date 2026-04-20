@@ -1,9 +1,16 @@
 {
+  "sandbox": {
+    "network": {
+      "allowedDomains": ["argentive.ai"]
+    }
+  },
   "permissions": {
     "allow": [
       "Bash(git merge *)",
       "Bash(git push *)",
-      "Bash(git push)"
+      "Bash(git push)",
+      "Bash(curl * https://argentive.ai*)",
+      "WebFetch(domain:argentive.ai)"
     ]
   }
 }
