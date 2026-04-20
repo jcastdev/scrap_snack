@@ -9,15 +9,6 @@
     "url": "https://diaonline.supermercadosdia.com.ar/snacks-de-arroz-pizza-dia-50-gr-299309/p"
   },
   {
-    "nombre": "Snacks Kesitas Rex 125 Gr.",
-    "marca": "REX",
-    "precio": 2260.0,
-    "precio_lista": 2260.0,
-    "supermercado": "DIA",
-    "categoria": "snacks",
-    "url": "https://diaonline.supermercadosdia.com.ar/snacks-kesitas-rex-125-gr-218421/p"
-  },
-  {
     "nombre": "Snacks Ondulados Ket Cheetos 80 Gr.",
     "marca": "CHEETOS",
     "precio": 3090.0,
@@ -34,6 +25,15 @@
     "supermercado": "DIA",
     "categoria": "snacks",
     "url": "https://diaonline.supermercadosdia.com.ar/snacks-de-arroz-queso-dia-50-gr-211585/p"
+  },
+  {
+    "nombre": "Snacks Kesitas Rex 125 Gr.",
+    "marca": "REX",
+    "precio": 2260.0,
+    "precio_lista": 2260.0,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/snacks-kesitas-rex-125-gr-218421/p"
   },
   {
     "nombre": "Galleta Snacks Estuche Rex 125 Gr.",
@@ -263,8 +263,8 @@
   {
     "nombre": "Chizitos De Maíz Sabor A Queso Cheetos Original X 229 Gr.",
     "marca": "CHEETOS",
-    "precio": 8000.0,
-    "precio_lista": 8000.0,
+    "precio": 8040.0,
+    "precio_lista": 8040.0,
     "supermercado": "DIA",
     "categoria": "snacks",
     "url": "https://diaonline.supermercadosdia.com.ar/chizitos-de-maiz-sabor-a-queso-cheetos-original-x-229-gr-266578/p"
