@@ -47,7 +47,35 @@ Respuesta esperada: `{ "hub_id": "xxx", "agent_id": "yyy" }`
 
 ---
 
-## 2. agent_register — una vez por rutina, registra la rutina como agente permanente
+## 2. routine_sync — cuando se crea o modifica una rutina en Claude Code
+
+Espeja la rutina de Claude Code en Argentive. Correr cada vez que se crea o cambia una rutina.
+
+```bash
+curl -s -X POST https://argentive.ai/api/webhook/claude \
+  -H "Authorization: Bearer $ARGENTIVE_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d "{
+    \"hub_id\": \"<hub_id>\",
+    \"agent_id\": \"<agent_id>\",
+    \"event_type\": \"routine_sync\",
+    \"payload\": {
+      \"nombre\": \"<nombre de la rutina, ej: scraper-diario>\",
+      \"descripcion\": \"<qué hace>\",
+      \"trigger\": \"<schedule|api|github>\",
+      \"cron_expression\": \"<ej: 0 9 * * * | null si no es schedule>\",
+      \"task_prompt\": \"<el prompt exacto configurado en la rutina>\",
+      \"enabled\": true,
+      \"timestamp\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"
+    }
+  }"
+```
+
+Respuesta esperada: `{ "agent_id": "xxx" }` — guardar en `memory/argentive.md` como `agent_<nombre>`.
+
+---
+
+## 3. agent_register — una vez por rutina, registra la rutina como agente permanente
 
 Correr solo cuando se crea una rutina nueva en Claude Code. Guarda el `agent_id` en `memory/argentive.md` para usarlo en todos los eventos de esa rutina.
 
