@@ -309,6 +309,7 @@ curl -s -X POST https://argentive.ai/api/webhook/claude \
       \"task_type\": \"<scheduled|manual|api|github>\",
       \"trigger\": \"<schedule|api|github|interactive>\",
       \"cron_expression\": \"<ej: 0 9 * * * | null si no es scheduled>\",
+      \"url_dashboard\": \"https://jcastdev.github.io/scrap_snack\",
       \"timestamp\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"
     }
   }"
