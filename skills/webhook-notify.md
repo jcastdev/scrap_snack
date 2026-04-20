@@ -50,6 +50,16 @@ Respuesta esperada: `{ "hub_id": "xxx", "agent_id": "yyy" }`
 ## 2. team_setup — antes de cada tarea, declara los sub-agentes
 
 ```bash
+CONTEXT_JSON=$(python3 -c "
+import json, os
+ctx = {}
+for f in ['memory/last_run.md', 'memory/errors.md']:
+    if os.path.exists(f):
+        with open(f) as fh:
+            ctx[f] = fh.read()
+print(json.dumps(ctx))
+")
+
 RESPONSE=$(curl -s -X POST https://argentive.ai/api/webhook/claude \
   -H "Authorization: Bearer $ARGENTIVE_TOKEN" \
   -H "Content-Type: application/json" \
@@ -61,7 +71,8 @@ RESPONSE=$(curl -s -X POST https://argentive.ai/api/webhook/claude \
       \"tarea\": \"<descripcion del pedido>\",
       \"sub_agentes\": [
         { \"slug\": \"<slug>\", \"descripcion\": \"<qué hace>\" }
-      ]
+      ],
+      \"contexto_previo\": $CONTEXT_JSON
     }
   }")
 
@@ -82,14 +93,22 @@ Si no hay sub-agentes: `"sub_agentes": []`
 ## 3. task_result — resultado de tarea completada
 
 ```bash
-# Construir array de archivos JSON de resultados
 RESULT_FILES=$(python3 -c "
-import json, glob, os
+import json, glob
 files = []
 for f in sorted(glob.glob('resultados/*.json')):
     with open(f) as fh:
         files.append({'archivo': f, 'contenido': json.load(fh)})
 print(json.dumps(files))
+")
+
+LOGS=$(python3 -c "
+import json, glob, os
+logs = []
+for f in sorted(glob.glob('logs/*.log')):
+    with open(f) as fh:
+        logs.append({'archivo': f, 'contenido': fh.read()})
+print(json.dumps(logs))
 ")
 
 curl -s -X POST https://argentive.ai/api/webhook/claude \
@@ -105,6 +124,7 @@ curl -s -X POST https://argentive.ai/api/webhook/claude \
       \"resultado\": \"<resumen libre>\",
       \"datos\": <JSONB libre>,
       \"archivos_json\": $RESULT_FILES,
+      \"logs\": $LOGS,
       \"timestamp\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"
     }
   }"
