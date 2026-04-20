@@ -420,7 +420,61 @@ curl -s -X POST https://argentive.ai/api/webhook/claude \
 
 ## 7. session_summary — SIEMPRE al final
 
+Calcular duración real, costo real, historial y próximo run antes de enviar:
+
 ```bash
+# Duración real — SESSION_START debe setearse al inicio de la sesión
+SESSION_START=${SESSION_START:-$(date +%s)}
+DURATION=$(( $(date +%s) - SESSION_START ))
+
+# Costo real basado en tokens (precios Sonnet 4.6: input $3/Mtok, output $15/Mtok, cache_read $0.30/Mtok)
+COST=$(python3 -c "
+inp   = int('${CLAUDE_INPUT_TOKENS:-0}')
+out   = int('${CLAUDE_OUTPUT_TOKENS:-0}')
+cr    = int('${CLAUDE_CACHE_READ_TOKENS:-0}')
+cw    = int('${CLAUDE_CACHE_WRITE_TOKENS:-0}')
+cost  = (inp * 3 + out * 15 + cr * 0.3 + cw * 3.75) / 1_000_000
+print(f'{cost:.6f}')
+")
+
+# Historial de runs — leer/actualizar memory/run_history.json
+python3 -c "
+import json, os
+from datetime import datetime
+f = 'memory/run_history.json'
+hist = json.load(open(f)) if os.path.exists(f) else {'total': 0, 'exitosos': 0, 'fallidos': 0, 'fallos_consecutivos': 0, 'ultimo_exitoso': None, 'ultimo_fallido': None}
+estado = 'ESTADO'  # reemplazar con completed|error
+hist['total'] += 1
+if estado == 'completed':
+    hist['exitosos'] += 1
+    hist['fallos_consecutivos'] = 0
+    hist['ultimo_exitoso'] = datetime.now().isoformat()
+else:
+    hist['fallidos'] += 1
+    hist['fallos_consecutivos'] += 1
+    hist['ultimo_fallido'] = datetime.now().isoformat()
+json.dump(hist, open(f, 'w'), indent=2)
+print(json.dumps(hist))
+")
+HISTORY=$(cat memory/run_history.json)
+FALLOS_CONSECUTIVOS=$(python3 -c "import json; print(json.load(open('memory/run_history.json'))['fallos_consecutivos'])")
+
+# Próximo run desde cron_expression
+NEXT_RUN=$(python3 -c "
+import sys
+try:
+    from croniter import croniter
+    from datetime import datetime
+    cron = '<cron_expression>'
+    if cron and cron != 'null':
+        it = croniter(cron, datetime.now())
+        print(it.get_next(datetime).isoformat())
+    else:
+        print('null')
+except ImportError:
+    print('null')
+" 2>/dev/null || echo "null")
+
 curl -s -X POST https://argentive.ai/api/webhook/claude \
   -H "Authorization: Bearer $ARGENTIVE_TOKEN" \
   -H "Content-Type: application/json" \
@@ -433,7 +487,7 @@ curl -s -X POST https://argentive.ai/api/webhook/claude \
       \"task_log\": {
         \"provider\": \"anthropic\",
         \"model\": \"claude-sonnet-4-6\",
-        \"duration_seg\": <SEG>,
+        \"duration_seg\": $DURATION,
         \"tools_used\": [\"<TOOLS>\"],
         \"mcp_servers\": [\"<MCP>\"],
         \"skills_used\": [\"webhook-notify\"],
@@ -441,19 +495,25 @@ curl -s -X POST https://argentive.ai/api/webhook/claude \
         \"output_tokens\": ${CLAUDE_OUTPUT_TOKENS:-0},
         \"cache_read_tokens\": ${CLAUDE_CACHE_READ_TOKENS:-0},
         \"cache_write_tokens\": ${CLAUDE_CACHE_WRITE_TOKENS:-0},
-        \"cost_usd\": <ESTIMADO>
+        \"cost_usd\": $COST
       },
+      \"run_history\": $HISTORY,
+      \"next_run_at\": \"$NEXT_RUN\",
+      \"fallos_consecutivos\": $FALLOS_CONSECUTIVOS,
       \"sub_agentes_usados\": [\"<slugs>\"],
-      \"estado\": \"completed\",
+      \"estado\": \"<completed|error>\",
       \"resumen\": \"<una línea de lo que hizo>\",
       \"task_type\": \"<scheduled|manual|api|github>\",
       \"trigger\": \"<schedule|api|github|interactive>\",
       \"cron_expression\": \"<ej: 0 9 * * * | null si no es scheduled>\",
-      \"url_dashboard\": \"https://jcastdev.github.io/scrap_snack\",
+      \"url_dashboard\": \"<url | null>\",
       \"timestamp\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"
     }
   }"
 ```
+
+**Nota:** setear `SESSION_START=$(date +%s)` al inicio de cada sesión (antes del `team_setup`).
+**Nota:** instalar `croniter` si se usa cron: `pip install croniter -q`
 
 ---
 
