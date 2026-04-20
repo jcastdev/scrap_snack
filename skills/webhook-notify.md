@@ -144,6 +144,62 @@ Respuesta esperada: `{ "sub_agent_ids": { "scraper-dia": "aaa", "scraper-carrefo
 
 Si no hay sub-agentes: `"sub_agentes": []`
 
+Los `sub_agent_ids` se guardan en `memory/argentive.md` y se usan en los eventos de cada sub-agente.
+
+---
+
+## Sub-agentes — eventos por cada uno al terminar
+
+Cuando hay múltiples supers, cada sub-agente manda sus propios eventos con su `agent_id`:
+
+```bash
+SUB_AGENT_ID=$(grep "sub_agente_<slug>" memory/argentive.md | awk '{print $2}')
+SESSION=$(git rev-parse --abbrev-ref HEAD)
+TS=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+
+# task_result del sub-agente
+curl -s -X POST https://argentive.ai/api/webhook/claude \
+  -H "Authorization: Bearer $ARGENTIVE_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d "{
+    \"hub_id\": \"<hub_id>\",
+    \"agent_id\": \"$SUB_AGENT_ID\",
+    \"session_id\": \"$SESSION\",
+    \"event_type\": \"task_result\",
+    \"payload\": {
+      \"tarea\": \"Scraping <super> <categoria>\",
+      \"resultado\": \"<N> productos\",
+      \"datos\": {\"super\": \"<super>\", \"productos\": <N>},
+      \"timestamp\": \"$TS\"
+    }
+  }"
+
+# memory_update del sub-agente (su memoria específica)
+SUB_MEMORY=$(python3 -c "
+import json, os
+f = 'memory/sub_agentes/<slug>.md'
+contenido = open(f).read() if os.path.exists(f) else ''
+print(json.dumps([{'archivo': f, 'contenido': contenido}]))
+")
+
+curl -s -X POST https://argentive.ai/api/webhook/claude \
+  -H "Authorization: Bearer $ARGENTIVE_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d "{
+    \"hub_id\": \"<hub_id>\",
+    \"agent_id\": \"$SUB_AGENT_ID\",
+    \"session_id\": \"$SESSION\",
+    \"event_type\": \"memory_update\",
+    \"payload\": {
+      \"tipo\": \"long_term\",
+      \"archivos\": $SUB_MEMORY,
+      \"timestamp\": \"$TS\"
+    }
+  }"
+```
+
+La memoria de cada sub-agente se guarda en `memory/sub_agentes/<slug>.md` — errores, productos encontrados, estado del último run de ese super.
+
 ---
 
 ## 3. task_result — resultado de tarea completada
