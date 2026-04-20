@@ -65,7 +65,6 @@ RESPONSE=$(curl -s -X POST https://argentive.ai/api/webhook/claude \
     }
   }")
 
-# Guardá agent_id de cada sub-agente
 echo $RESPONSE | python3 -c "
 import sys, json
 data = json.load(sys.stdin)
@@ -83,6 +82,16 @@ Si no hay sub-agentes: `"sub_agentes": []`
 ## 3. task_result — resultado de tarea completada
 
 ```bash
+# Construir array de archivos JSON de resultados
+RESULT_FILES=$(python3 -c "
+import json, glob, os
+files = []
+for f in sorted(glob.glob('resultados/*.json')):
+    with open(f) as fh:
+        files.append({'archivo': f, 'contenido': json.load(fh)})
+print(json.dumps(files))
+")
+
 curl -s -X POST https://argentive.ai/api/webhook/claude \
   -H "Authorization: Bearer $ARGENTIVE_TOKEN" \
   -H "Content-Type: application/json" \
@@ -95,6 +104,7 @@ curl -s -X POST https://argentive.ai/api/webhook/claude \
       \"tarea\": \"<descripcion>\",
       \"resultado\": \"<resumen libre>\",
       \"datos\": <JSONB libre>,
+      \"archivos_json\": $RESULT_FILES,
       \"timestamp\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"
     }
   }"
@@ -102,9 +112,27 @@ curl -s -X POST https://argentive.ai/api/webhook/claude \
 
 ---
 
-## 4. config_sync — cuando cambia CLAUDE.md o skills/
+## 4. config_sync — cuando cambia CLAUDE.md, skills/ o agents/
 
 ```bash
+SKILLS_JSON=$(python3 -c "
+import json, glob
+skills = []
+for f in sorted(glob.glob('skills/*.md')):
+    with open(f) as fh:
+        skills.append({'nombre': f, 'contenido': fh.read()})
+print(json.dumps(skills))
+")
+
+AGENTS_JSON=$(python3 -c "
+import json, glob
+agents = []
+for f in sorted(glob.glob('agents/*.md')):
+    with open(f) as fh:
+        agents.append({'nombre': f, 'contenido': fh.read()})
+print(json.dumps(agents))
+")
+
 curl -s -X POST https://argentive.ai/api/webhook/claude \
   -H "Authorization: Bearer $ARGENTIVE_TOKEN" \
   -H "Content-Type: application/json" \
@@ -114,9 +142,8 @@ curl -s -X POST https://argentive.ai/api/webhook/claude \
     \"event_type\": \"config_sync\",
     \"payload\": {
       \"claude_md\": $(cat CLAUDE.md | python3 -c \"import sys,json; print(json.dumps(sys.stdin.read()))\"),
-      \"skills\": [
-        { \"nombre\": \"<nombre>\", \"contenido\": \"<contenido>\" }
-      ],
+      \"skills\": $SKILLS_JSON,
+      \"agents\": $AGENTS_JSON,
       \"timestamp\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"
     }
   }"
@@ -127,6 +154,15 @@ curl -s -X POST https://argentive.ai/api/webhook/claude \
 ## 5. memory_update — cuando escribís memoria
 
 ```bash
+MEMORY_JSON=$(python3 -c "
+import json, glob
+files = []
+for f in sorted(glob.glob('memory/*.md')):
+    with open(f) as fh:
+        files.append({'archivo': f, 'contenido': fh.read()})
+print(json.dumps(files))
+")
+
 curl -s -X POST https://argentive.ai/api/webhook/claude \
   -H "Authorization: Bearer $ARGENTIVE_TOKEN" \
   -H "Content-Type: application/json" \
@@ -137,8 +173,7 @@ curl -s -X POST https://argentive.ai/api/webhook/claude \
     \"event_type\": \"memory_update\",
     \"payload\": {
       \"tipo\": \"long_term\",
-      \"archivo\": \"<memory/archivo.md>\",
-      \"contenido\": \"<contenido>\",
+      \"archivos\": $MEMORY_JSON,
       \"timestamp\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"
     }
   }"
@@ -186,6 +221,10 @@ curl -s -X POST https://argentive.ai/api/webhook/claude \
         \"tools_used\": [\"<TOOLS>\"],
         \"mcp_servers\": [\"<MCP>\"],
         \"skills_used\": [\"webhook-notify\"],
+        \"input_tokens\": ${CLAUDE_INPUT_TOKENS:-0},
+        \"output_tokens\": ${CLAUDE_OUTPUT_TOKENS:-0},
+        \"cache_read_tokens\": ${CLAUDE_CACHE_READ_TOKENS:-0},
+        \"cache_write_tokens\": ${CLAUDE_CACHE_WRITE_TOKENS:-0},
         \"cost_usd\": <ESTIMADO>
       },
       \"sub_agentes_usados\": [\"<slugs>\"],
@@ -204,17 +243,19 @@ curl -s -X POST https://argentive.ai/api/webhook/claude \
 Primera sesión:
   1. hub_register    → crea hub + agent_id en Argentive
   2. team_setup      → declara sub-agentes para esta tarea
-  3. task_result     → resultado(s)
-  4. memory_update   → memoria actualizada
-  5. error           → si hubo
-  6. session_summary → SIEMPRE
+  3. task_result     → resultado(s) + archivos_json
+  4. config_sync     → si modificaste CLAUDE.md, agents/ o skills/
+  5. memory_update   → todos los memory/*.md juntos
+  6. error           → si hubo
+  7. session_summary → SIEMPRE
 
 Sesiones siguientes:
-  1. team_setup      → lee hub_id/agent_id de memory/argentive.md
+  1. team_setup
   2. task_result
-  3. memory_update
-  4. error
-  5. session_summary
+  3. config_sync     → solo si hubo cambios
+  4. memory_update
+  5. error
+  6. session_summary
 ```
 
 ## Mapeo a tablas Argentive
