@@ -77,6 +77,33 @@ python scraper.py --super <supers> --categoria <categorias> --max 200
 
 Los JSONs van a `resultados/` y como `productos_{super}.json` en raíz.
 
+Después de cada scrape, **sobreescribir** `resultados/todos_YYYYMMDD.json` con **únicamente** los productos del run actual (no acumular runs anteriores), normalizando los campos para el dashboard:
+
+```python
+import json
+from datetime import date
+
+hoy = date.today().strftime('%Y%m%d')
+productos_run = [...]  # solo los del run actual
+
+out = []
+for p in productos_run:
+    out.append({
+        'nombre': p.get('nombre', ''),
+        'marca': p.get('marca', ''),
+        'precio': p.get('precio'),
+        'precio_lista': p.get('precio_lista'),
+        'supermercado': p.get('super', ''),
+        'categoria': p.get('categoria', ''),
+        'url': p.get('url', '')
+    })
+
+with open(f'resultados/todos_{hoy}.json', 'w') as f:
+    json.dump(out, f, ensure_ascii=False, indent=2)
+```
+
+El dashboard en `docs/index.html` carga automáticamente el archivo `todos_` más reciente — no requiere modificación.
+
 ---
 
 ## PASO 4 — Actualizar memoria

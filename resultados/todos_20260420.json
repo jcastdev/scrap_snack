@@ -1,1 +1,335 @@
-[]
+[
+  {
+    "nombre": "Snacks De Arroz Pizza Dia 50 Gr.",
+    "marca": "",
+    "precio": 1300.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/snacks-de-arroz-pizza-dia-50-gr-299309/p"
+  },
+  {
+    "nombre": "Snacks Kesitas Rex 125 Gr.",
+    "marca": "",
+    "precio": 2260.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/snacks-kesitas-rex-125-gr-218421/p"
+  },
+  {
+    "nombre": "Snacks Ondulados Ket Cheetos 80 Gr.",
+    "marca": "",
+    "precio": 3090.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/snacks-ondulados-ket-cheetos-80-gr-310555/p"
+  },
+  {
+    "nombre": "Snacks de Arroz Queso Dia 50 Gr.",
+    "marca": "",
+    "precio": 1301.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/snacks-de-arroz-queso-dia-50-gr-211585/p"
+  },
+  {
+    "nombre": "Galleta Snacks Estuche Rex 125 Gr.",
+    "marca": "",
+    "precio": 2260.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/galleta-snacks-estuche-rex-125-gr-121118/p"
+  },
+  {
+    "nombre": "Papas Fritas Pehuamar X 75 Gr.",
+    "marca": "",
+    "precio": 1980.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-pehuamar-x-75-gr-301178/p"
+  },
+  {
+    "nombre": "Snack Saladix Pizza 100 Gr.",
+    "marca": "",
+    "precio": 1722.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/snack-saladix-pizza-100-gr-78686/p"
+  },
+  {
+    "nombre": "Papas Fritas Pehuamar X 230 Gr.",
+    "marca": "",
+    "precio": 6300.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-pehuamar-x-230-gr-301176/p"
+  },
+  {
+    "nombre": "Papas Fritas Acanaladas Pehuamar X 135 Gr.",
+    "marca": "",
+    "precio": 3900.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-acanaladas-pehuamar-x-135-gr-253117/p"
+  },
+  {
+    "nombre": "Papas Fritas Acanaladas Pehuamar X 80 Gr.",
+    "marca": "",
+    "precio": 1975.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-acanaladas-pehuamar-x-80-gr-275905/p"
+  },
+  {
+    "nombre": "Papas Fritas Pehuamar X 135 Gr.",
+    "marca": "",
+    "precio": 2950.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/papas-fritas-pehuamar-x-135-gr-130453/p"
+  },
+  {
+    "nombre": "Cereal de Maíz Nikitos Inflado Dulce 100 Gr.",
+    "marca": "",
+    "precio": 1420.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/cereal-de-maiz-nikitos-inflado-dulce-100-gr-282326/p"
+  },
+  {
+    "nombre": "Pizzitos Nikitos Jamón y Queso 100 Gr.",
+    "marca": "",
+    "precio": 1420.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/pizzitos-nikitos-jamon-y-queso-100-gr-282322/p"
+  },
+  {
+    "nombre": "Chizitos De Maíz Pehuamar Maicitos X 125 Gr.",
+    "marca": "",
+    "precio": 3600.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/chizitos-de-maiz-pehuamar-maicitos-x-125-gr-273111/p"
+  },
+  {
+    "nombre": "Bombón De Chocolate Milka Oreo 19 Gr.",
+    "marca": "",
+    "precio": 720.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/bombon-de-chocolate-milka-oreo-19-gr-272322/p"
+  },
+  {
+    "nombre": "Palitos Salados Sabor Panceta Pep X 120 Gr.",
+    "marca": "",
+    "precio": 3370.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/palitos-salados-sabor-panceta-pep-x-120-gr-273112/p"
+  },
+  {
+    "nombre": "Palitos Salados Pehuamar X 165 Gr.",
+    "marca": "",
+    "precio": 3500.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/palitos-salados-pehuamar-x-165-gr-301177/p"
+  },
+  {
+    "nombre": "Chocolate Milka Con Leche 55 Gr.",
+    "marca": "",
+    "precio": 3990.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/chocolate-milka-con-leche-55-gr-249906/p"
+  },
+  {
+    "nombre": "Palitos Sabor A Queso Pehuamar X 165 Gr.",
+    "marca": "",
+    "precio": 3500.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/palitos-sabor-a-queso-pehuamar-x-165-gr-259398/p"
+  },
+  {
+    "nombre": "Chocolate Milka Chocopause 45 Gr.",
+    "marca": "",
+    "precio": 2610.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/chocolate-milka-chocopause-45-gr-278032/p"
+  },
+  {
+    "nombre": "Palitos Sabor A Queso Pehuamar X 90 Gr.",
+    "marca": "",
+    "precio": 1870.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/palitos-sabor-a-queso-pehuamar-x-90-gr-251351/p"
+  },
+  {
+    "nombre": "Garrapiñada De Maní 500 Gr.",
+    "marca": "",
+    "precio": 4290.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/garrapinada-de-mani-500-gr-282742/p"
+  },
+  {
+    "nombre": "Oblea de Arroz Gallo 20 Gr.",
+    "marca": "",
+    "precio": 1600.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/oblea-de-arroz-gallo-20-gr-205793/p"
+  },
+  {
+    "nombre": "Chocolate Milka Con Leche 20 Gr.",
+    "marca": "",
+    "precio": 1690.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/chocolate-milka-con-leche-20-gr-252365/p"
+  },
+  {
+    "nombre": "Alfajor Milka Simple Mousse 42 Gr.",
+    "marca": "",
+    "precio": 1420.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/alfajor-milka-simple-mousse-42-gr-110564/p"
+  },
+  {
+    "nombre": "Alfajor Milka Triple Mousse 55 Gr.",
+    "marca": "",
+    "precio": 2000.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/alfajor-milka-triple-mousse-55-gr-21721/p"
+  },
+  {
+    "nombre": "Alfajor Triple Milka Dulce De Leche 70 Gr.",
+    "marca": "",
+    "precio": 2000.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/alfajor-triple-milka-dulce-de-leche-70-gr-23428/p"
+  },
+  {
+    "nombre": "Snack Sabor Queso Crema Cheetos 85 Gr.",
+    "marca": "",
+    "precio": 3850.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/snack-sabor-queso-crema-cheetos-85-gr-24822/p"
+  },
+  {
+    "nombre": "Chizitos De Maíz Sabor A Queso Cheetos Original X 140 Gr.",
+    "marca": "",
+    "precio": 5400.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/chizitos-de-maiz-sabor-a-queso-cheetos-original-x-140-gr-258509/p"
+  },
+  {
+    "nombre": "Chizitos De Maíz Sabor A Queso Cheetos Original X 229 Gr.",
+    "marca": "",
+    "precio": 8000.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/chizitos-de-maiz-sabor-a-queso-cheetos-original-x-229-gr-266578/p"
+  },
+  {
+    "nombre": "Maní Pelado Pehuamar X 135 Gr.",
+    "marca": "",
+    "precio": 2790.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/mani-pelado-pehuamar-x-135-gr-300811/p"
+  },
+  {
+    "nombre": "Mix The Happy Snack Supremo 150 Gr.",
+    "marca": "",
+    "precio": 6990.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/mix-the-happy-snack-supremo-150-gr-282744/p"
+  },
+  {
+    "nombre": "Maní Salado Pehuamar X 150 Gr.",
+    "marca": "",
+    "precio": 2285.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/mani-salado-pehuamar-x-150-gr-256115/p"
+  },
+  {
+    "nombre": "Salsa Hellmann's Barbacoa Doypack 250 Gr.",
+    "marca": "",
+    "precio": 2697.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/salsa-hellmann-s-barbacoa-doypack-250-gr-258234/p"
+  },
+  {
+    "nombre": "Papas Bastón Congeladas Dia 700 Gr.",
+    "marca": "",
+    "precio": 3090.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/papas-baston-congeladas-dia-700-gr-56048/p"
+  },
+  {
+    "nombre": "Alfajor Triple Milka Oreo 61 Gr.",
+    "marca": "",
+    "precio": 2000.0,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/alfajor-triple-milka-oreo-61-gr-182539/p"
+  },
+  {
+    "nombre": "Palitos Salados Sabor Panceta Pep X 40 Gr.",
+    "marca": "",
+    "precio": 35.75,
+    "precio_lista": null,
+    "supermercado": "DIA",
+    "categoria": "snacks",
+    "url": "https://diaonline.supermercadosdia.com.ar/palitos-salados-sabor-panceta-pep-x-40-gr-231620/p"
+  }
+]
