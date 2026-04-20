@@ -47,7 +47,35 @@ Respuesta esperada: `{ "hub_id": "xxx", "agent_id": "yyy" }`
 
 ---
 
-## 2. team_setup — antes de cada tarea, declara los sub-agentes
+## 2. agent_register — una vez por rutina, registra la rutina como agente permanente
+
+Correr solo cuando se crea una rutina nueva en Claude Code. Guarda el `agent_id` en `memory/argentive.md` para usarlo en todos los eventos de esa rutina.
+
+```bash
+RESPONSE=$(curl -s -X POST https://argentive.ai/api/webhook/claude \
+  -H "Authorization: Bearer $ARGENTIVE_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d "{
+    \"hub_id\": \"<hub_id>\",
+    \"event_type\": \"agent_register\",
+    \"payload\": {
+      \"nombre\": \"<nombre de la rutina, ej: scraper-diario>\",
+      \"descripcion\": \"<qué hace esta rutina>\",
+      \"trigger\": \"<schedule|api|github>\"
+    }
+  }")
+
+AGENT_ID=$(echo $RESPONSE | python3 -c "import sys,json; print(json.load(sys.stdin)['agent_id'])")
+echo "agent_<nombre>: $AGENT_ID" >> memory/argentive.md
+```
+
+Respuesta esperada: `{ "agent_id": "xxx" }`
+
+Luego en cada evento de esa rutina usar `agent_id` = el valor guardado, no el `agent_id` del hub.
+
+---
+
+## 3. team_setup — antes de cada tarea, declara los sub-agentes
 
 ```bash
 CONTEXT_JSON=$(python3 -c "
@@ -260,22 +288,17 @@ curl -s -X POST https://argentive.ai/api/webhook/claude \
 ## Orden por sesión
 
 ```
-Primera sesión:
-  1. hub_register    → crea hub + agent_id en Argentive
-  2. team_setup      → declara sub-agentes para esta tarea
-  3. task_result     → resultado(s) + archivos_json
-  4. config_sync     → si modificaste CLAUDE.md, agents/ o skills/
-  5. memory_update   → todos los memory/*.md juntos
-  6. error           → si hubo
-  7. session_summary → SIEMPRE
+Setup del proyecto (una sola vez):
+  1. hub_register    → crea el hub
+  2. agent_register  → una vez por rutina creada en Claude Code
 
-Sesiones siguientes:
-  1. team_setup
-  2. task_result
-  3. config_sync     → solo si hubo cambios
-  4. memory_update
-  5. error
-  6. session_summary
+Cada ejecución de una rutina:
+  1. team_setup      → declara sub-agentes para esta tarea + contexto_previo
+  2. task_result     → resultado(s) + archivos_json + logs
+  3. config_sync     → solo si modificaste CLAUDE.md, agents/ o skills/
+  4. memory_update   → todos los memory/*.md juntos
+  5. error           → si hubo
+  6. session_summary → SIEMPRE
 ```
 
 ## Mapeo a tablas Argentive
@@ -284,6 +307,7 @@ Sesiones siguientes:
 |---|---|---|
 | hub_register | agents | INSERT hub |
 | hub_register | agent_custom_skills | UPSERT skills |
+| agent_register | agents | INSERT rutina como agente permanente del hub |
 | team_setup | agent_team_roles | INSERT sub-agentes dinámicos |
 | task_result | agent_chat_messages | INSERT role=assistant |
 | config_sync | agents + agent_custom_skills | UPSERT |
