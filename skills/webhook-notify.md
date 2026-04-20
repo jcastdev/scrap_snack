@@ -75,6 +75,26 @@ Respuesta esperada: `{ "agent_id": "xxx" }` — guardar en `memory/argentive.md`
 
 ---
 
+## routine_delete — cuando se elimina una rutina en Claude Code
+
+```bash
+curl -s -X POST https://argentive.ai/api/webhook/claude \
+  -H "Authorization: Bearer $ARGENTIVE_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d "{
+    \"hub_id\": \"<hub_id>\",
+    \"event_type\": \"routine_delete\",
+    \"payload\": {
+      \"nombre\": \"<nombre-rutina>\",
+      \"timestamp\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"
+    }
+  }"
+```
+
+Argentive marca la rutina como `enabled: false` — no la borra para preservar historial.
+
+---
+
 ## 3. agent_register — una vez por rutina, registra la rutina como agente permanente
 
 Correr solo cuando se crea una rutina nueva en Claude Code. Guarda el `agent_id` en `memory/argentive.md` para usarlo en todos los eventos de esa rutina.
