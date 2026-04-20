@@ -202,6 +202,70 @@ La memoria de cada sub-agente se guarda en `memory/sub_agentes/<slug>.md` — er
 
 ---
 
+## Generar core.md antes de memory_update
+
+Paso obligatorio antes de cada `memory_update`. El agente genera dinámicamente su `memory/core.md` (o `memory/sub_agentes/<slug>/core.md` para sub-agentes) con el estado esencial de la sesión:
+
+```python
+import os
+from datetime import datetime
+
+# Para el hub principal
+def escribir_core(agent_nombre, hub_id, agent_id, rol, tarea, resultado, estado, errores, config_notas, path='memory/core.md'):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, 'w') as f:
+        f.write(f"""# Core Memory — {agent_nombre}
+
+## Identidad
+- hub_id: {hub_id}
+- agent_id: {agent_id}
+- rol: {rol}
+
+## Último run — {datetime.now().strftime('%Y-%m-%d %H:%M')}
+- tarea: {tarea}
+- resultado: {resultado}
+- estado: {estado}
+
+## Errores conocidos
+{errores}
+
+## Config que funciona
+{config_notas}
+""")
+
+# Hub principal
+escribir_core(
+    agent_nombre='scraping-hub',
+    hub_id='<hub_id>',
+    agent_id='<agent_id>',
+    rol='Scraping de precios de supermercados argentinos',
+    tarea='<tarea del run>',
+    resultado='<N> productos scrapeados',
+    estado='completed',
+    errores='<contenido de memory/errors.md resumido>',
+    config_notas='<endpoints que funcionan, proxies, etc.>',
+    path='memory/core.md'
+)
+
+# Por cada sub-agente
+escribir_core(
+    agent_nombre='scraper-<slug>',
+    hub_id='<hub_id>',
+    agent_id='<sub_agent_id>',
+    rol='Scraping de <super>',
+    tarea='Scraping <categoria>',
+    resultado='<N> productos',
+    estado='completed',
+    errores='<errores específicos de este super>',
+    config_notas='<endpoint, categoría, método que funcionó>',
+    path='memory/sub_agentes/<slug>/core.md'
+)
+```
+
+El `memory_update` incluye estos archivos junto con el resto de `memory/`.
+
+---
+
 ## 3. task_result — resultado de tarea completada
 
 ```bash
