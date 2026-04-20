@@ -1,5 +1,12 @@
 # Log de errores
 
+## 20260420 — La Anónima — snacks
+
+- **Código/Tipo**: HTTP 403
+- **URL**: https://www.laanonima.com.ar/snacks/n2_522/
+- **Detalle**: ScraperAPI también bloqueado ("Host not in allowlist"). 3 intentos fallidos. Se usaron 150 productos de caché del run anterior.
+- **Acción tomada**: Scraping salteado — se preservaron datos previos en todos_20260420.json.
+
 ## 20260419 — La Anónima — snacks (intento 3)
 
 - **Código/Tipo**: HTTP 403

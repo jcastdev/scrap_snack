@@ -1,5 +1,13 @@
 # Último run
 
+## 20260420 — snacks La Anónima (caché)
+
+| Supermercado | Estado | Productos |
+|---|---|---|
+| La Anónima | caché (ScraperAPI bloqueado) | 150 |
+
+**Total en todos_20260420.json: 426** — `resultados/todos_20260420.json`
+
 ## 20260420 12:03
 
 | Supermercado | Productos |
