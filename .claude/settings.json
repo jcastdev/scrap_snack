@@ -5,5 +5,18 @@
       "Bash(git push *)",
       "Bash(git push)"
     ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 -c \"\nimport sys, json, os\nfrom datetime import datetime, timezone\ntry:\n    data = json.load(sys.stdin)\n    tool = data.get('tool_name', '')\n    inp = json.dumps(data.get('tool_input', {}))[:500]\n    out = json.dumps(data.get('tool_response', {}))[:500]\n    ts = datetime.now(timezone.utc).isoformat()\n    entry = json.dumps({'tool': tool, 'input': inp, 'output': out, 'timestamp': ts})\n    os.makedirs('logs', exist_ok=True)\n    open('logs/session.jsonl', 'a').write(entry + '\\\\n')\nexcept: pass\n\" 2>/dev/null || true",
+            "async": true
+          }
+        ]
+      }
+    ]
   }
 }
