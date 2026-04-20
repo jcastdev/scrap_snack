@@ -79,7 +79,15 @@ with open(f'resultados/todos_{hoy}.json', 'w') as f:
     json.dump(out, f, ensure_ascii=False, indent=2)
 ```
 
-### 4. Notificar task_result a Argentive
+### 4. Push a main (antes de notificar a Argentive)
+
+```bash
+git add resultados/ memory/ productos_*.json
+git commit -m "results: $(date +%Y%m%d) — <N> productos <SUPER>"
+git fetch origin main && git rebase origin/main && git push origin HEAD:main
+```
+
+### 5. Notificar task_result a Argentive
 
 ```bash
 TS=$(date -u +%Y-%m-%dT%H:%M:%SZ)
@@ -104,7 +112,7 @@ curl -s -X POST https://argentive.ai/api/webhook/claude \
   -d "{\"hub_id\":\"$HUB_ID\",\"agent_id\":\"$AGENT_ID\",\"session_id\":\"$SESSION\",\"event_type\":\"task_result\",\"payload\":{\"tarea\":\"Scraping <SUPER> <CATEGORIA>\",\"resultado\":\"<N> productos scrapeados\",\"datos\":{\"super\":\"<SUPER>\",\"categoria\":\"<CATEGORIA>\",\"productos\":<N>},\"url_dashboard\":\"$URL_DASHBOARD\",\"archivos_json\":$RESULT_FILES,\"logs\":$LOGS,\"timestamp\":\"$TS\"}}"
 ```
 
-### 5. memory_update + session_summary
+### 6. memory_update + session_summary
 
 ```bash
 # memory_update
@@ -119,14 +127,6 @@ curl -s -X POST https://argentive.ai/api/webhook/claude \
   -H "Authorization: Bearer $ARGENTIVE_TOKEN" \
   -H "Content-Type: application/json" \
   -d "{\"hub_id\":\"$HUB_ID\",\"agent_id\":\"$AGENT_ID\",\"session_id\":\"$SESSION\",\"event_type\":\"session_summary\",\"payload\":{\"task_log\":{\"provider\":\"anthropic\",\"model\":\"claude-sonnet-4-6\",\"duration_seg\":<SEG>,\"tools_used\":[\"Bash\"],\"skills_used\":[\"trigger-scraper\",\"webhook-notify\"],\"input_tokens\":${CLAUDE_INPUT_TOKENS:-0},\"output_tokens\":${CLAUDE_OUTPUT_TOKENS:-0},\"cache_read_tokens\":${CLAUDE_CACHE_READ_TOKENS:-0},\"cache_write_tokens\":${CLAUDE_CACHE_WRITE_TOKENS:-0},\"cost_usd\":0.03},\"sub_agentes_usados\":[],\"estado\":\"completed\",\"resumen\":\"Scraping <SUPER> <CATEGORIA> — <N> productos\",\"task_type\":\"manual\",\"trigger\":\"interactive\",\"cron_expression\":null,\"url_dashboard\":\"$URL_DASHBOARD\",\"timestamp\":\"$TS\"}}"
-```
-
-### 6. Push a main
-
-```bash
-git add resultados/ memory/ productos_*.json
-git commit -m "results: $(date +%Y%m%d) — <N> productos <SUPER>"
-git fetch origin main && git rebase origin/main && git push origin HEAD:main
 ```
 
 ### 7. Respuesta al usuario
