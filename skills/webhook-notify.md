@@ -230,6 +230,12 @@ Sesiones siguientes:
 | error | agent_chat_messages | INSERT role=error |
 | session_summary | agent_task_logs | INSERT |
 
+Todos los eventos (excepto `hub_register`) también se insertan en `claude_code_events` para tener un timeline unificado por sesión:
+
+```sql
+SELECT * FROM claude_code_events WHERE session_id = '<branch>' ORDER BY created_at;
+```
+
 ## Reglas
 
 - `session_summary` es **obligatorio** — siempre, incluso si hubo errores
