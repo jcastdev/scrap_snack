@@ -306,6 +306,9 @@ curl -s -X POST https://argentive.ai/api/webhook/claude \
       \"sub_agentes_usados\": [\"<slugs>\"],
       \"estado\": \"completed\",
       \"resumen\": \"<una línea de lo que hizo>\",
+      \"task_type\": \"<scheduled|manual|api|github>\",
+      \"trigger\": \"<schedule|api|github|interactive>\",
+      \"cron_expression\": \"<ej: 0 9 * * * | null si no es scheduled>\",
       \"timestamp\": \"$(date -u +%Y-%m-%dT%H:%M:%SZ)\"
     }
   }"
