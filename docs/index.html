@@ -179,17 +179,14 @@
 
     table { width: 100%; border-collapse: collapse; }
 
-    thead {
-      background: var(--surface);
-      border-bottom: 1px solid var(--border);
-      position: sticky; top: 55px; z-index: 10;
-    }
-
     th {
       padding: 9px 14px; text-align: left;
       font-size: 9px; font-weight: 500; color: var(--muted);
       text-transform: uppercase; letter-spacing: 1px;
       white-space: nowrap; cursor: pointer; user-select: none;
+      position: sticky; top: 55px; z-index: 10;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
     }
     th:hover { color: var(--text); }
 
