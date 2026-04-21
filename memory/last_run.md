@@ -1,5 +1,14 @@
 # Último run
 
+## 20260421 11:59
+
+| Supermercado | Productos |
+|---|---|
+| Coto Digital | 240 |
+| La Anónima | 152 |
+
+**Total: 392 productos** -- `resultados/todos_20260421.json`
+
 ## 20260420 — snacks La Anónima (caché)
 
 | Supermercado | Estado | Productos |
