@@ -1,5 +1,14 @@
 # Último run
 
+## 20260702 12:55
+
+| Supermercado | Productos |
+|---|---|
+| Coto Digital | 239 |
+| La Anónima | 138 |
+
+**Total: 377 productos** -- `resultados/todos_20260702.json`
+
 ## 20260701 13:33
 
 | Supermercado | Productos |
