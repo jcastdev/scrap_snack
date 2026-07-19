@@ -1,0 +1,3842 @@
+[
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks Rex KESITAS Sabor Queso 125g",
+    "marca": "KESITAS",
+    "precio": 18000000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-rex-kesitas-sabor-queso-125g/_/R-00228157-00228157-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919720"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks Rex Original Paq 125 Grm",
+    "marca": "BAGLEY",
+    "precio": 18072000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-rex-original-paq-125-grm/_/R-00211160-00211160-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919733"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Mani Pasta De Mani Mani King Fra 500 Grm",
+    "marca": "MANI KING",
+    "precio": 10103070000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//mani-pasta-de-mani-mani-king-fra-500-grm/_/R-00472541-00472541-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919738"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Mani Sal.Pelado . Xkg",
+    "marca": ".",
+    "precio": 6599000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//mani-sal-pelado-xkg/_/R-00073071-00073071-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919742"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks REX Kesitas Queso 75g",
+    "marca": "REX",
+    "precio": 21693330000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-rex-kesitas-queso-75g/_/R-00122160-00122160-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919745"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Salchichas FRIOLIM Copetin Tipo Alemana 360g",
+    "marca": "FRIOLIM",
+    "precio": 17608330000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//salchichas-friolim-copetin-tipo-alemana-360g/_/R-00189805-00189805-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919749"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Aritos Cebolla Dos Hnos. Bsa 80 Grm",
+    "marca": "DOS HERMANOS",
+    "precio": 20537370000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//aritos-cebolla-dos-hnos-bsa-80-grm/_/R-00294601-00294601-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919752"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks SALADIX Jamon Est 100 Grm",
+    "marca": "SALADIX",
+    "precio": 17229900000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-saladix-jamon-est-100-grm/_/R-00015879-00015879-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919755"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Alfajor Triple MILKA Dulce De Leche 70g",
+    "marca": "MILKA",
+    "precio": 30285710000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//alfajor-triple-milka-dulce-de-leche-70g/_/R-00140273-00140273-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919757"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas En Tubo COTO Crema Y Cebolla 160gr",
+    "marca": "COTO",
+    "precio": 31249930000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-en-tubo-coto-crema-y-cebolla-160gr/_/R-00481934-00481934-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919760"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas En Tubo COTO Sabor Original 160gr",
+    "marca": "COTO",
+    "precio": 31249930000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-en-tubo-coto-sabor-original-160gr/_/R-00481930-00481930-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919763"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks SALADIX Pizza Est 100 Grm",
+    "marca": "SALADIX",
+    "precio": 17229900000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-saladix-pizza-est-100-grm/_/R-00015880-00015880-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919766"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Cuidado Oral Diario  PEDIGREE DENTASTIX 7 Unidades",
+    "marca": "PEDIGREE DENTASTIX",
+    "precio": 27555550000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//cuidado-oral-diario-pedigree-dentastix-7-unidades-/_/R-00480023-00480023-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919769"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks REX Original 75g",
+    "marca": "REX",
+    "precio": 21693330000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-rex-original-75g/_/R-00124147-00124147-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919771"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Palitos De Arroz Dos Hermanos Queso Bsa 80 Grm",
+    "marca": "DOS HERMANOS",
+    "precio": 20537370000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//palitos-de-arroz-dos-hermanos-queso-bsa-80-grm/_/R-00284903-00284903-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919774"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Discos De Arroz Dos Hermanos Jamon Bsa 80 Grm",
+    "marca": "DOS HNOS.",
+    "precio": 20537370000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//discos-de-arroz-dos-hermanos-jamon-bsa-80-grm/_/R-00284902-00284902-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919776"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Bolsa hermética Ziploc Llevar Chica Sellado Inteligente para Alimentos 14u",
+    "marca": "ZIPLOC",
+    "precio": 326720000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//bolsa-hermética-ziploc-llevar-chica-sellado-inteligente-para-alimentos-14u/_/R-00482380-00482380-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919779"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Salchichas Copetín FRIOLIM Sin Piel 320g",
+    "marca": "FRIOLIM",
+    "precio": 15621870000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//salchichas-copetín-friolim-sin-piel-320g/_/R-00284881-00284881-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919782"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Cuidado Oral Diario  PEDIGREE DENTASTIX 7 Unidades",
+    "marca": "PEDIGREE DENTASTIX",
+    "precio": 39272720000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//cuidado-oral-diario-pedigree-dentastix-7-unidades-/_/R-00480030-00480030-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919785"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks SALADIX Calabresa Est 100 Grm",
+    "marca": "SALADIX",
+    "precio": 17230000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-saladix-calabresa-est-100-grm/_/R-00104253-00104253-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919788"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Galletas Adultos PEDIGREE BISCROK MULTI 500 Gr",
+    "marca": "PEDIGREE BISCROK MULTI",
+    "precio": 15420000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//galletas-adultos-pedigree-biscrok-multi-500-gr-/_/R-00479996-00479996-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919791"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks SALADIX Duo Jamon Y Queso 80g",
+    "marca": "SALADIX",
+    "precio": 21537500000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-saladix-duo-jamon-y-queso-80g/_/R-00172581-00172581-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919793"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Bolsa Hermética ZIPLOC Llevar Chica Sellado Inteligente Para Alimentos 50u",
+    "marca": "ZIPLOC",
+    "precio": 206820000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//bolsa-hermética-ziploc-llevar-chica-sellado-inteligente-para-alimentos-50u/_/R-00482394-00482394-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919796"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Discos Asado Dos Hnos. Paq 80 Grm",
+    "marca": "DOS HERMANOS",
+    "precio": 20537370000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//discos-asado-dos-hnos-paq-80-grm/_/R-00463347-00463347-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919798"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Palitos Saborizados Adultos PEDIGREE RODEO 4 Unidades Carne",
+    "marca": "PEDIGREE RODEO",
+    "precio": 36700000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//palitos-saborizados-adultos-pedigree-rodeo-4-unidades-carne-/_/R-00480024-00480024-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919801"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Galletas Adultos PEDIGREE BISCROK MULTI 100 Gr",
+    "marca": "PEDIGREE BISCROK MULTI",
+    "precio": 20380000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//galletas-adultos-pedigree-biscrok-multi-100-gr-/_/R-00480029-00480029-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919804"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Cross Pizza SALADIX 27g",
+    "marca": "SALADIX",
+    "precio": 3825930000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//cross-pizza-saladix-27g/_/R-00283087-00283087-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919807"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Palitos Saborizados  DEL CAMPO 10 Unidades",
+    "marca": "DEL CAMPO",
+    "precio": null,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//palitos-saborizados-del-campo-10-unidades-/_/R-00128680-00128680-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919810"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Cuidado Oral Diario  PEDIGREE DENTASTIX 1 Unidad",
+    "marca": "PEDIGREE DENTASTIX",
+    "precio": 5585990000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//cuidado-oral-diario-pedigree-dentastix-1-unidad-/_/R-00480021-00480021-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919813"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Palitos Saborizados Adultos PEDIGREE RODEO 4 Unidades Pollo",
+    "marca": "PEDIGREE RODEO",
+    "precio": 36700000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//palitos-saborizados-adultos-pedigree-rodeo-4-unidades-pollo-/_/R-00480025-00480025-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919815"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Galletas  DR. ZOO 250 Gr",
+    "marca": "DR. ZOO",
+    "precio": 25428000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//galletas-dr-zoo-250-gr-/_/R-00285232-00285232-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919818"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Galletitas Crackers CLUB SOCIAL Jamón 24g",
+    "marca": "CLUB SOCIAL",
+    "precio": 22127660000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//galletitas-crackers-club-social-jamón-24g/_/R-00258159-00258159-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919821"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Cuidado Oral Diario  PEDIGREE DENTASTIX 3 Unidades",
+    "marca": "PEDIGREE DENTASTIX",
+    "precio": 4933340000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//cuidado-oral-diario-pedigree-dentastix-3-unidades-/_/R-00480022-00480022-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919823"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Cross SALADIX Pizza 67g",
+    "marca": "SALADIX",
+    "precio": 24880440000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//cross-saladix-pizza-67g/_/R-00282414-00282414-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919826"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Cuidado Oral Diario  PEDIGREE DENTASTIX 3 Unidades",
+    "marca": "PEDIGREE DENTASTIX",
+    "precio": 33363630000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//cuidado-oral-diario-pedigree-dentastix-3-unidades-/_/R-00479998-00479998-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919829"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Cross Pizza SALADIX 135g",
+    "marca": "SALADIX",
+    "precio": 23096220000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//cross-pizza-saladix-135g/_/R-00284911-00284911-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919831"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Cuidado Oral Diario  PEDIGREE DENTASTIX 1 Unidad",
+    "marca": "PEDIGREE DENTASTIX",
+    "precio": 4089500000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//cuidado-oral-diario-pedigree-dentastix-1-unidad-/_/R-00479997-00479997-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919837"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Palitos Saborizados  DEL CAMPO 20 Unidades",
+    "marca": "DEL CAMPO",
+    "precio": null,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//palitos-saborizados-del-campo-20-unidades-/_/R-00128681-00128681-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919839"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Bolsa Hermética ZIPLOC Multipack Conservar Con Sellado Inteligente Para Alimentos 3 Tamaños 9 Unidades",
+    "marca": "ZIPLOC",
+    "precio": 581340000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//bolsa-hermética-ziploc-multipack-conservar-con-sellado-inteligente-para-alimentos-3-tamaños-9-unidades/_/R-00124530-00124530-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919842"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Hueso DEL CAMPO Nro 23 2 Uni",
+    "marca": "DEL CAMPO",
+    "precio": null,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//hueso-del-campo-nro-23-2-uni/_/R-00128678-00128678-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919845"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Suplemento En Barr Sab.Jamon Raza Fwp 30 Grm",
+    "marca": "RAZA",
+    "precio": 3863340000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//suplemento-en-barr-sab-jamon-raza-fwp-30-grm/_/R-00480356-00480356-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919849"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Huesos De Cuero  DEL CAMPO 1 Unidad",
+    "marca": "DEL CAMPO",
+    "precio": null,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//huesos-de-cuero-del-campo-1-unidad-/_/R-00128679-00128679-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919852"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Suplemento En Barr Sab.Carne Raza Fwp 30 Grm",
+    "marca": "RAZA",
+    "precio": 3863340000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//suplemento-en-barr-sab-carne-raza-fwp-30-grm/_/R-00480359-00480359-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919854"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Bocaditos Pollo Dr. Zoo Pou 200 Grm",
+    "marca": "DR. ZOO",
+    "precio": 24365000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//bocaditos-pollo-dr-zoo-pou-200-grm/_/R-00284983-00284983-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919859"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Galletitas La Cumbre Jamon Serrano Bsa 120 Grm",
+    "marca": "LA CUMBRE",
+    "precio": 13125000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//galletitas-la-cumbre-jamon-serrano-bsa-120-grm/_/R-00282844-00282844-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919862"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Bocaditos Pollo Dr. Zoo Bsa 50 Grm",
+    "marca": "DR. ZOO",
+    "precio": 2972000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//bocaditos-pollo-dr-zoo-bsa-50-grm/_/R-00285005-00285005-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919864"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Galletitas Saladas La Cumbre Con Cheddar Bsa 120 Grm",
+    "marca": "LA CUMBRE",
+    "precio": 13125000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//galletitas-saladas-la-cumbre-con-cheddar-bsa-120-grm/_/R-00282846-00282846-200?format=json",
+    "timestamp": "2026-07-19T11:54:37.919867"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Alfajor Triple MILKA Oreo 61g",
+    "marca": "MILKA",
+    "precio": 34754090000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//alfajor-triple-milka-oreo-61g/_/R-00267716-00267716-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319816"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Alfajor MILKA Simple Mousse 42g Display X 6 Un.",
+    "marca": "MILKA",
+    "precio": 34694440000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//alfajor-milka-simple-mousse-42g-display-x-6-un-/_/R-00111938-00111938-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319827"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Doritos Sabor Queso 77g",
+    "marca": "DORITOS",
+    "precio": 48051940000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//doritos-sabor-queso-77g/_/R-00567579-00567579-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319830"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "TAKIS Xplosion 140g",
+    "marca": "TAKIS",
+    "precio": 35635640000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//takis-xplosion-140g/_/R-00595785-00595785-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319833"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Galletitas Copetin Original Rex 225g",
+    "marca": "REX",
+    "precio": 13715550000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//galletitas-copetin-original-rex-225g/_/R-00587604-00587604-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319836"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Clásicas Pehuamar 135g",
+    "marca": "PEHUAMAR",
+    "precio": 28888880000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-clásicas-pehuamar-135g/_/R-00567583-00567583-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319839"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Bocaditos Sabor Jamón Raza 50g",
+    "marca": "RAZA",
+    "precio": 3290000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//bocaditos-sabor-jamón-raza-50g/_/R-00590318-00590318-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319842"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Chips Sabor Jamón Pack Familiar Gallo Snack 150g",
+    "marca": "GALLO",
+    "precio": 38446660000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//chips-sabor-jamón-pack-familiar-gallo-snack-150g/_/R-00570424-00570424-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319845"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks de Maíz Takis Buckin' Ranch 85g",
+    "marca": "TAKIS",
+    "precio": 38835170000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-de-maíz-takis-buckin-ranch-85g/_/R-00630062-00630062-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319847"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks Cranchis Bbq. Mazzei Paq 100 Grm",
+    "marca": "MAZZEI",
+    "precio": 36300000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-cranchis-bbq-mazzei-paq-100-grm/_/R-00603749-00603749-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319850"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Galletitas Copetin Queso Kesitas 250g",
+    "marca": "KESITAS",
+    "precio": 13000000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//galletitas-copetin-queso-kesitas-250g/_/R-00587607-00587607-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319853"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Acanaladas Pehuamar 135g",
+    "marca": "PEHUAMAR",
+    "precio": 28888880000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-acanaladas-pehuamar-135g/_/R-00567584-00567584-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319856"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Doritos Dinamita Extra Flamin' Hot 45g",
+    "marca": "DORITOS",
+    "precio": 4444450000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//doritos-dinamita-extra-flamin-hot-45g/_/R-00613157-00613157-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319858"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados Pehuamar 620g",
+    "marca": "PEHUAMAR",
+    "precio": 15161290000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//palitos-salados-pehuamar-620g/_/R-00567607-00567607-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319861"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "TAKIS Fuego 85g",
+    "marca": "TAKIS",
+    "precio": 38835170000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//takis-fuego-85g/_/R-00595786-00595786-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319864"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks Cranchis limón MAZZEI 30g",
+    "marca": "MAZZEI",
+    "precio": 4330000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-cranchis-limón-mazzei-30g/_/R-00603751-00603751-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319866"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Pasas De Uva E/Grano XT-CORMILLOT Fwp 35 Grm",
+    "marca": "XT-CORMILLOT",
+    "precio": 4854290000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//pasas-de-uva-e-grano-xt-cormillot-fwp-35-grm/_/R-00618815-00618815-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319869"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks Sabor Salmon Whiskas Pou 40g",
+    "marca": "WHISKAS",
+    "precio": 5225000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-sabor-salmon-whiskas-pou-40g/_/R-00579647-00579647-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319872"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Jamón Serrano Lays 122g",
+    "marca": "LAYS",
+    "precio": 44262290000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-jamón-serrano-lays-122g/_/R-00567585-00567585-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319874"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Pasta De Maní 100% Natural Dec Alimentos 350g",
+    "marca": "DEC ALIMENTOS",
+    "precio": 13242850000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//pasta-de-maní-100-natural-dec-alimentos-350g/_/R-00570333-00570333-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319877"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Chips Sabor Pizza Gallo Snack 100g",
+    "marca": "GALLO",
+    "precio": 41000000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//chips-sabor-pizza-gallo-snack-100g/_/R-00570426-00570426-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319879"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Pochoclos Sal Marina Gallo Snack 60g",
+    "marca": "GALLO",
+    "precio": 52500000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//pochoclos-sal-marina-gallo-snack-60g/_/R-00575408-00575408-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319882"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Semilla De Girasol Gigantes Pipas 160g",
+    "marca": "PIPAS",
+    "precio": 16868750000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//semilla-de-girasol-gigantes-pipas-160g/_/R-00592873-00592873-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319885"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "TAKIS Fuego 49g",
+    "marca": "TAKIS",
+    "precio": 4285700000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//takis-fuego-49g/_/R-00595787-00595787-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319887"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Almendras Naturales Blue Diamond 454g",
+    "marca": "BLUE DIAMOND",
+    "precio": 93671800000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//almendras-naturales-blue-diamond-454g/_/R-00608685-00608685-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319890"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Mix Energia XT-CORMILLOT Fwp 35 Grm",
+    "marca": "XT-CORMILLOT",
+    "precio": 4797150000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//mix-energia-xt-cormillot-fwp-35-grm/_/R-00618816-00618816-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319892"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados Sabor Panceta PEP X 84 G",
+    "marca": "PEP",
+    "precio": 26607140000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//palitos-salados-sabor-panceta-pep-x-84-g/_/R-00510061-00510061-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319895"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Batatas Fritas Krachitos Batatas 70g",
+    "marca": "KRACHITOS",
+    "precio": 38571420000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//batatas-fritas-krachitos-batatas-70g/_/R-00630099-00630099-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319897"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor Ketchup Krachitos 90 Grm",
+    "marca": "KRACHITOS",
+    "precio": 34500000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-sabor-ketchup-krachitos-90-grm/_/R-00553694-00553694-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319900"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snack Palitos Blandos RAZA Paq 65gr",
+    "marca": "RAZA",
+    "precio": 22769230000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snack-palitos-blandos-raza-paq-65gr/_/R-00505134-00505134-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319903"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Doritos Sabor Queso 200g",
+    "marca": "DORITOS",
+    "precio": 44000000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//doritos-sabor-queso-200g/_/R-00567586-00567586-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319905"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Salamitos Snack Cagnoli Sabor Clásico Salame Picado Fino 60g",
+    "marca": "CAGNOLI",
+    "precio": 91666660000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//salamitos-snack-cagnoli-sabor-clásico-salame-picado-fino-60g/_/R-00630985-00630985-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319908"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Palitos Saborizados  Mon Ami 75 Grm Leche",
+    "marca": "MON AMI",
+    "precio": 39666660000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//palitos-saborizados-mon-ami-75-grm-leche-/_/R-00618442-00618442-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319911"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Bocaditos Sabor Cheddar Y Panceta Dr. Zoo 50g",
+    "marca": "DR. ZOO",
+    "precio": 2972000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//bocaditos-sabor-cheddar-y-panceta-dr-zoo-50g/_/R-00584345-00584345-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319913"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Cono Original Sabor Queso 3D 43g",
+    "marca": "3D",
+    "precio": 5348840000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//cono-original-sabor-queso-3d-43g/_/R-00543285-00543285-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319916"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Pasta De Mani Sin Azucar Agregada Croppers 305g",
+    "marca": "CROPPERS",
+    "precio": 12357370000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//pasta-de-mani-sin-azucar-agregada-croppers-305g/_/R-00576965-00576965-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319919"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Mini Tostadas De Jamón Ibérico TWISTOS X 155 G",
+    "marca": "TWISTOS",
+    "precio": 32258060000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//mini-tostadas-de-jamón-ibérico-twistos-x-155-g/_/R-00513631-00513631-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319921"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snack de Maíz Takis Buckin' Ranch 140g",
+    "marca": "TAKIS",
+    "precio": 35635640000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snack-de-maíz-takis-buckin-ranch-140g/_/R-00630061-00630061-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319924"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Pochoclos Suave.Caramelizados Gallo Snack 50g",
+    "marca": "GALLO",
+    "precio": 4900000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//pochoclos-suave-caramelizados-gallo-snack-50g/_/R-00575412-00575412-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319926"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Nachos Sabor Queso Y Jalapeño Macritas 90g",
+    "marca": "MACRITAS",
+    "precio": 31211110000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//nachos-sabor-queso-y-jalapeño-macritas-90g/_/R-00568167-00568167-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319929"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Tradicionales Krachitos 30g",
+    "marca": "KRACHITOS",
+    "precio": 4690000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-tradicionales-krachitos-30g/_/R-00616570-00616570-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319931"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Paprika Sarriegui Paq 125 Grm",
+    "marca": "SARRIEGUI",
+    "precio": 70399920000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-paprika-sarriegui-paq-125-grm/_/R-00609467-00609467-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319934"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Chips Sabor Pizza Pack Familiar Gallo Snacks 150g",
+    "marca": "GALLO",
+    "precio": 35266660000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//chips-sabor-pizza-pack-familiar-gallo-snacks-150g/_/R-00570427-00570427-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319937"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Curvies Bbq Schar 170g",
+    "marca": "SCHAR",
+    "precio": 76176470000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-curvies-bbq-schar-170g/_/R-00614153-00614153-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319939"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Pasta De Maní Sal Marina Entrenuts 300g",
+    "marca": "ENTRENUTS",
+    "precio": 14666630000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//pasta-de-maní-sal-marina-entrenuts-300g/_/R-00619723-00619723-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319942"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Maní Sabor Crema Y Cebolla Croppers 85g",
+    "marca": "CROPPERS",
+    "precio": 16000000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//maní-sabor-crema-y-cebolla-croppers-85g/_/R-00576960-00576960-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319944"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snack Picante Dos Hermanos 60g",
+    "marca": "DOS HERMANOS",
+    "precio": 25589830000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snack-picante-dos-hermanos-60g/_/R-00602987-00602987-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319947"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snack Todas Mon Ami 50 Grm Pollo",
+    "marca": "MON AMI",
+    "precio": 6488000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snack-todas-mon-ami-50-grm-pollo-/_/R-00618120-00618120-200?format=json",
+    "timestamp": "2026-07-19T11:54:42.319949"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor Queso Crema Y Cebolla Lays 34g",
+    "marca": "LAYS",
+    "precio": 6764710000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-sabor-queso-crema-y-cebolla-lays-34g/_/R-00567599-00567599-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855908"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Tasty bites sabor pollo PEDIGREE 80g",
+    "marca": "PEDIGREE",
+    "precio": 36250000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//tasty-bites-sabor-pollo-pedigree-80g/_/R-00625557-00625557-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855918"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Almendras Saladas Blue Diamond 454g",
+    "marca": "BLUE DIAMOND",
+    "precio": 93671800000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//almendras-saladas-blue-diamond-454g/_/R-00608686-00608686-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855922"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Mix Power XT-CORMILLOT Fwp 35 Grm",
+    "marca": "XT-CORMILLOT",
+    "precio": 5025720000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//mix-power-xt-cormillot-fwp-35-grm/_/R-00618817-00618817-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855925"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Limpieza Para Dientes Para Perros Raza Grande X1 Pedigree 38.5 Grm",
+    "marca": "PEDIGREE",
+    "precio": 3919490000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//limpieza-para-dientes-para-perros-raza-grande-x1-pedigree-38-5-grm/_/R-00558427-00558427-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855928"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados Sabor Panceta Krachitos 110g",
+    "marca": "KRACHITOS",
+    "precio": 15936360000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//palitos-salados-sabor-panceta-krachitos-110g/_/R-00581364-00581364-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855931"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks De Arroz Sabor Cheddar Don Marcos 80g",
+    "marca": "DON MARCOS",
+    "precio": 18125000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-de-arroz-sabor-cheddar-don-marcos-80g/_/R-00607360-00607360-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855933"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Palitos Sabor Queso PEHUAMAR 165g",
+    "marca": "PEHUAMAR",
+    "precio": 21212120000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//palitos-sabor-queso-pehuamar-165g/_/R-00567598-00567598-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855936"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor Jamon Serrano Krachitos 90 Grm",
+    "marca": "KRACHITOS",
+    "precio": 34500000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-sabor-jamon-serrano-krachitos-90-grm/_/R-00553691-00553691-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855938"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Chips Sabor Queso Gallo Snack 100g",
+    "marca": "GALLO",
+    "precio": 41000000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//chips-sabor-queso-gallo-snack-100g/_/R-00570430-00570430-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855941"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Palitos Sabor Queso Pehuamar 620g",
+    "marca": "PEHUAMAR",
+    "precio": 15161290000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//palitos-sabor-queso-pehuamar-620g/_/R-00567604-00567604-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855944"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Maní Pelado Frito Salado Krachitos 110 Grm",
+    "marca": "KRACHITOS",
+    "precio": 18836360000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//maní-pelado-frito-salado-krachitos-110-grm/_/R-00553695-00553695-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855947"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks Tiritas Blandas RAZA Paq 50gr",
+    "marca": "RAZA",
+    "precio": 2960000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-tiritas-blandas-raza-paq-50gr/_/R-00505135-00505135-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855950"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Pasta De Maní Con Cacao Entrenuts 370g",
+    "marca": "ENTRENUTS",
+    "precio": 11891860000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//pasta-de-maní-con-cacao-entrenuts-370g/_/R-00602253-00602253-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855955"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Salchichas Copetín Tipo Alemana Union Ganadera 300g",
+    "marca": "UNION GANADERA",
+    "precio": 24330000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//salchichas-copetín-tipo-alemana-union-ganadera-300g/_/R-00580668-00580668-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855958"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Doritos Sabor Queso 129g",
+    "marca": "DORITOS",
+    "precio": 41860460000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//doritos-sabor-queso-129g/_/R-00567587-00567587-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855960"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Cono sabor BBQ KRACHITOS 90g",
+    "marca": "KRACHITOS",
+    "precio": 34252770000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//cono-sabor-bbq-krachitos-90g/_/R-00622896-00622896-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855963"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Palitos Saborizados  Mon Ami 75 Grm Menta",
+    "marca": "MON AMI",
+    "precio": 39666660000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//palitos-saborizados-mon-ami-75-grm-menta-/_/R-00618441-00618441-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855966"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Galletitas De Copetin Finitas Con Sal Krit 150g",
+    "marca": "KRIT",
+    "precio": 28333330000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//galletitas-de-copetin-finitas-con-sal-krit-150g/_/R-00608677-00608677-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855968"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Horno Eléctrico TRAMONTINA 25 L   Glass Cook Con Airfryer",
+    "marca": "TRAMONTINA",
+    "precio": null,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//horno-eléctrico-tramontina-25-l-glass-cook-con-airfryer/_/R-00631344-00631344-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855971"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Lisas Pehuamar 90g",
+    "marca": "PEHUAMAR",
+    "precio": 30555550000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-lisas-pehuamar-90g/_/R-00614151-00614151-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855974"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks A Base De Maíz Original Tostitos 260g",
+    "marca": "TOSTITOS",
+    "precio": 25384610000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-a-base-de-maíz-original-tostitos-260g/_/R-00616574-00616574-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855977"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Clásicas Lays 134g",
+    "marca": "LAYS",
+    "precio": 39179100000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-clásicas-lays-134g/_/R-00567590-00567590-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855980"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks de arroz Yogurt Frutilla MINI ARROCITAS 53g",
+    "marca": "MINI ARROCITAS",
+    "precio": 48113200000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-de-arroz-yogurt-frutilla-mini-arrocitas-53g/_/R-00624531-00624531-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855982"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Nachos Original Macritas 110g",
+    "marca": "MACRITAS",
+    "precio": 24572720000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//nachos-original-macritas-110g/_/R-00566253-00566253-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855985"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Cross Picante Saladix 67g",
+    "marca": "SALADIX",
+    "precio": 21552090000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//cross-picante-saladix-67g/_/R-00582461-00582461-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855988"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Nachos Macritas 250g",
+    "marca": "MACRITAS",
+    "precio": 18656000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//nachos-macritas-250g/_/R-00567780-00567780-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855991"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Pay Krachitos 60 Grm",
+    "marca": "KRACHITOS",
+    "precio": 30850000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-pay-krachitos-60-grm/_/R-00553701-00553701-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855994"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Arroz Inflado Dulce Egran 80gr",
+    "marca": "EGRAN",
+    "precio": 13737500000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//arroz-inflado-dulce-egran-80gr/_/R-00561333-00561333-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855996"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor Jamón Serrano Krachitos 30g",
+    "marca": "KRACHITOS",
+    "precio": 4690000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-sabor-jamón-serrano-krachitos-30g/_/R-00616569-00616569-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.855999"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Limon Pimienta Sarriegui Paq 125 Grm",
+    "marca": "SARRIEGUI",
+    "precio": 70399920000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-limon-pimienta-sarriegui-paq-125-grm/_/R-00609468-00609468-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.856002"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor Huevo Frito Ciudad Del Lago 140g",
+    "marca": "CIUDAD DEL LAGO",
+    "precio": 31378570000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-sabor-huevo-frito-ciudad-del-lago-140g/_/R-00574958-00574958-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.856004"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Maní Sabor Barbacoa Croppers 85g",
+    "marca": "CROPPERS",
+    "precio": 16000000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//maní-sabor-barbacoa-croppers-85g/_/R-00576961-00576961-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.856007"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "COPETINERO 6 BOCAS NEGRO PLA . . .",
+    "marca": "CAROL",
+    "precio": null,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//copetinero-6-bocas-negro-pla-/_/R-00618802-00618802-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.856010"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks De Arroz Sabor Crema Y Ciboulette Crowie 50g",
+    "marca": "CROWIE",
+    "precio": 2400000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-de-arroz-sabor-crema-y-ciboulette-crowie-50g/_/R-00613061-00613061-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.856013"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Acanaladas PEHUAMAR 250g",
+    "marca": "PEHUAMAR",
+    "precio": 27386950000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-acanaladas-pehuamar-250g/_/R-00505137-00505137-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.856016"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Mix Energético Kos Food 300g",
+    "marca": "KOS FOOD",
+    "precio": 19663330000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//mix-energético-kos-food-300g/_/R-00593914-00593914-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.856018"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Cereal Granola Energética Kos Food 350 Grm",
+    "marca": "KOS FOOD",
+    "precio": 11425710000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//cereal-granola-energética-kos-food-350-grm/_/R-00545082-00545082-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.856021"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Almendra Wasabi Y Soja Blue Diamond 170g",
+    "marca": "BLUE DIAMOND",
+    "precio": 107788230000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//almendra-wasabi-y-soja-blue-diamond-170g/_/R-00608690-00608690-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.856024"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Maní Tostado Sin Sal Croppers 105g",
+    "marca": "CROPPERS",
+    "precio": 12704760000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//maní-tostado-sin-sal-croppers-105g/_/R-00576955-00576955-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.856026"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Salamitos Cagnoli Snack Sabor Picante 60g",
+    "marca": "CAGNOLI",
+    "precio": 91666660000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//salamitos-cagnoli-snack-sabor-picante-60g/_/R-00630983-00630983-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.856029"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Mix Frutas Secas The Happy Snack 300 Grm",
+    "marca": "THE HAPPY SNACK",
+    "precio": 19996660000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//mix-frutas-secas-the-happy-snack-300-grm/_/R-00534704-00534704-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.856032"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "TAKIS Fuego 140g",
+    "marca": "TAKIS",
+    "precio": 35635640000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//takis-fuego-140g/_/R-00595788-00595788-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.856034"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Mix Nórdico Kos Food 300g",
+    "marca": "KOS FOOD",
+    "precio": 36663330000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//mix-nórdico-kos-food-300g/_/R-00593915-00593915-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.856037"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas fritas sabor asado LAYS 77g",
+    "marca": "LAYS",
+    "precio": 50000000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-sabor-asado-lays-77g/_/R-00624729-00624729-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.856040"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Nachos Sabor Ahumado Macritas 90g",
+    "marca": "MACRITAS",
+    "precio": 29444440000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//nachos-sabor-ahumado-macritas-90g/_/R-00570330-00570330-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.856042"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Gall.Copetin Fin.C/Semillas Krit Pou 150 Grm",
+    "marca": "KRIT",
+    "precio": 28333330000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//gall-copetin-fin-c-semillas-krit-pou-150-grm/_/R-00608678-00608678-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.856045"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Tasty bites sabor carne PEDIGREE 80g",
+    "marca": "PEDIGREE",
+    "precio": 36250000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//tasty-bites-sabor-carne-pedigree-80g/_/R-00625558-00625558-200?format=json",
+    "timestamp": "2026-07-19T11:54:45.856048"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Nachos Sabor Original Macritas 150g",
+    "marca": "MACRITAS",
+    "precio": 23320000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//nachos-sabor-original-macritas-150g/_/R-00570323-00570323-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366290"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Original Pringles 37g",
+    "marca": "PRINGLES",
+    "precio": 7378380000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-original-pringles-37g/_/R-00602106-00602106-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366301"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Galletitas Copetin Queso Sandwich Krit 125g",
+    "marca": "KRIT",
+    "precio": 34880000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//galletitas-copetin-queso-sandwich-krit-125g/_/R-00608695-00608695-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366304"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Tradicionales Krachitos 275g",
+    "marca": "KRACHITOS",
+    "precio": 23723630000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-tradicionales-krachitos-275g/_/R-00594613-00594613-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366307"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Mix Traful XT-CORMILLOT Fwp 35 Grm",
+    "marca": "XT-CORMILLOT",
+    "precio": 3054290000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//mix-traful-xt-cormillot-fwp-35-grm/_/R-00618818-00618818-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366310"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Almendras Ahumadas Blue Diamond 170g",
+    "marca": "BLUE DIAMOND",
+    "precio": 107788230000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//almendras-ahumadas-blue-diamond-170g/_/R-00608692-00608692-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366314"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snack De Arroz Con Queso Risky Dit 50g",
+    "marca": "RISKY DIT",
+    "precio": 4100000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snack-de-arroz-con-queso-risky-dit-50g/_/R-00605499-00605499-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366317"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Doritos pizza DORITOS 74g",
+    "marca": "DORITOS",
+    "precio": 47500000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//doritos-pizza-doritos-74g/_/R-00622898-00622898-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366320"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks Arroz Queso CROWIE Paq 50 Grm",
+    "marca": "CROWIE",
+    "precio": 2400000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-arroz-queso-crowie-paq-50-grm/_/R-00503904-00503904-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366323"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Nachos Sabor Ketchup Macritas 90g",
+    "marca": "MACRITAS",
+    "precio": 31211110000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//nachos-sabor-ketchup-macritas-90g/_/R-00568168-00568168-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366325"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Maní Tomate Oliva Croppers 85g",
+    "marca": "CROPPERS",
+    "precio": 20882350000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//maní-tomate-oliva-croppers-85g/_/R-00595784-00595784-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366328"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snack  MON AMI 150 Grm Pollo",
+    "marca": "MON AMI",
+    "precio": 39660000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snack-mon-ami-150-grm-pollo-/_/R-00618111-00618111-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366331"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor Ketchup Lays 77g",
+    "marca": "LAYS",
+    "precio": 50000000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-sabor-ketchup-lays-77g/_/R-00567606-00567606-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366334"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Maní Crocante Jalapeño Croppers 85g",
+    "marca": "CROPPERS",
+    "precio": 20882350000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//maní-crocante-jalapeño-croppers-85g/_/R-00619717-00619717-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366337"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Galletitas De Copetin Krit 350g",
+    "marca": "KRIT",
+    "precio": 15142820000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//galletitas-de-copetin-krit-350g/_/R-00581131-00581131-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366339"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snack Frito Lenny's Crunchy Corn Extra Picante 35g",
+    "marca": "LENNYS",
+    "precio": 3733720000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snack-frito-lenny-s-crunchy-corn-extra-picante-35g/_/R-00630091-00630091-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366342"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks Cebolla GRANIX 45g",
+    "marca": "GRANIX",
+    "precio": 2757780000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-cebolla-granix-45g/_/R-00497570-00497570-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366345"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Maní Salado Con Piel Mani King 350g",
+    "marca": "MANI KING",
+    "precio": 11857110000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//maní-salado-con-piel-mani-king-350g/_/R-00590350-00590350-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366347"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snack De Arroz Sabor Queso Vegetalex 40g",
+    "marca": "VEGETALEX",
+    "precio": 4670000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snack-de-arroz-sabor-queso-vegetalex-40g/_/R-00568164-00568164-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366350"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Galletita Original X6 Club Social 144g",
+    "marca": "CLUB SOCIAL",
+    "precio": 18057080000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//galletita-original-x6-club-social-144g/_/R-00614154-00614154-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366352"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Maní Jamón Serrano Croppers 85g",
+    "marca": "CROPPERS",
+    "precio": 20882350000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//maní-jamón-serrano-croppers-85g/_/R-00595783-00595783-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366355"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Tasty bites sabor carne PEDIGREE 40g",
+    "marca": "PEDIGREE",
+    "precio": 4250000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//tasty-bites-sabor-carne-pedigree-40g/_/R-00625555-00625555-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366358"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snack Lenny's Crunchy Corn Sal Marina 35g",
+    "marca": "LENNYS",
+    "precio": 3733720000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snack-lenny-s-crunchy-corn-sal-marina-35g/_/R-00630088-00630088-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366360"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Avena Tradicional Kos Food 350g",
+    "marca": "KOS FOOD",
+    "precio": 5711420000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//avena-tradicional-kos-food-350g/_/R-00562874-00562874-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366363"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Clásicas Pehuamar 230g",
+    "marca": "PEHUAMAR",
+    "precio": 27391300000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-clásicas-pehuamar-230g/_/R-00567603-00567603-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366365"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snack para Perro Mon Ami Beef Meat Stick With Superfoods 150g",
+    "marca": "MON AMI",
+    "precio": 39660000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snack-para-perro-mon-ami-beef-meat-stick-with-superfoods-150g/_/R-00628485-00628485-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366368"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Barbacoa Lays 77g",
+    "marca": "LAYS",
+    "precio": 50000000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-barbacoa-lays-77g/_/R-00611898-00611898-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366371"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks de arroz sabor queso crema y cebolla LENNYS 150g",
+    "marca": "LENNYS",
+    "precio": 24540000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-de-arroz-sabor-queso-crema-y-cebolla-lennys-150g/_/R-00622904-00622904-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366373"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Pasta De Maní Con Stevia Entrenuts 370g",
+    "marca": "ENTRENUTS",
+    "precio": 11891860000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//pasta-de-maní-con-stevia-entrenuts-370g/_/R-00602254-00602254-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366376"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Mani Tostado Salado Con Miel Picante Dec Alimentos 220 Grm",
+    "marca": "DEC ALIMENTOS",
+    "precio": 22004540000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//mani-tostado-salado-con-miel-picante-dec-alimentos-220-grm/_/R-00559669-00559669-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366379"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snack Bastoncitos De Carne Con Leche De Cabra Zootec 95g",
+    "marca": "ZOOTEC",
+    "precio": 17663150000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snack-bastoncitos-de-carne-con-leche-de-cabra-zootec-95g/_/R-00584293-00584293-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366381"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Chizitos De Maíz PEHUAMAR Maicitos X 125 G",
+    "marca": "PEHUAMAR",
+    "precio": 28800000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//chizitos-de-maíz-pehuamar-maicitos-x-125-g/_/R-00510070-00510070-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366384"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Corte Americano Krachitos 275g",
+    "marca": "KRACHITOS",
+    "precio": 23723630000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-corte-americano-krachitos-275g/_/R-00594616-00594616-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366387"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snack Arroz Jamon CROWIE Paq 50 Grm",
+    "marca": "CROWIE",
+    "precio": 2400000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snack-arroz-jamon-crowie-paq-50-grm/_/R-00503902-00503902-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366389"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Semillas De Girasol Peladas Saladas Pipas 180 Grm",
+    "marca": "PIPAS",
+    "precio": 14994440000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//semillas-de-girasol-peladas-saladas-pipas-180-grm/_/R-00540694-00540694-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366392"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Acanaladas Pehuamar 90g",
+    "marca": "PEHUAMAR",
+    "precio": 32222220000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-acanaladas-pehuamar-90g/_/R-00614152-00614152-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366394"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Doritos Dinamita Extra Flamin Hot Doritos 82g",
+    "marca": "DORITOS",
+    "precio": 36585360000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//doritos-dinamita-extra-flamin-hot-doritos-82g/_/R-00614331-00614331-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366397"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Almendras Saladas Blue Diamond 43g",
+    "marca": "BLUE DIAMOND",
+    "precio": 13134890000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//almendras-saladas-blue-diamond-43g/_/R-00608693-00608693-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366399"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks A Base De Maíz Original Tostitos 160g",
+    "marca": "TOSTITOS",
+    "precio": 30000000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-a-base-de-maíz-original-tostitos-160g/_/R-00616575-00616575-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366402"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Cono 3d Original Sabor Queso 3d 143 Grm",
+    "marca": "3D",
+    "precio": 37762230000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//cono-3d-original-sabor-queso-3d-143-grm/_/R-00543283-00543283-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366404"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Tradicionales Krachitos 165g",
+    "marca": "KRACHITOS",
+    "precio": 25187870000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-tradicionales-krachitos-165g/_/R-00594627-00594627-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366407"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks Sabor Pollo Whiskas 80g",
+    "marca": "WHISKAS",
+    "precio": 44425000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-sabor-pollo-whiskas-80g/_/R-00579646-00579646-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366410"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Jamón Serrano Lays 77g",
+    "marca": "LAYS",
+    "precio": 50000000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-jamón-serrano-lays-77g/_/R-00567591-00567591-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366412"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Castañas De Cajú Tostada Salada Dec Aliment 220 Grm",
+    "marca": "DEC ALIMENTOS",
+    "precio": 66804540000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//castañas-de-cajú-tostada-salada-dec-aliment-220-grm/_/R-00534972-00534972-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366415"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Bastonitos Extra Queso Krachitos 60 Grm",
+    "marca": "KRACHITOS",
+    "precio": 28083330000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//bastonitos-extra-queso-krachitos-60-grm/_/R-00553709-00553709-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366418"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snack Sabor A Pizza PEP Rueditas X 120 Gr",
+    "marca": "PEP",
+    "precio": 29166660000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snack-sabor-a-pizza-pep-rueditas-x-120-gr/_/R-00510093-00510093-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366420"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Cheddar Y Bacon Pringles 105g",
+    "marca": "PRINGLES",
+    "precio": 53561900000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-cheddar-y-bacon-pringles-105g/_/R-00602108-00602108-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366423"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Nachos Sabor Queso Macritas 90g",
+    "marca": "MACRITAS",
+    "precio": 31211110000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//nachos-sabor-queso-macritas-90g/_/R-00568170-00568170-200?format=json",
+    "timestamp": "2026-07-19T11:54:53.366425"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Nachos sabor queso KRACHITOS 110g",
+    "marca": "KRACHITOS",
+    "precio": 37436360000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//nachos-sabor-queso-krachitos-110g/_/R-00625586-00625586-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180317"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Galletitas Saladas Sabor Original Traviata 96g",
+    "marca": "TRAVIATA",
+    "precio": 9354160000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//galletitas-saladas-sabor-original-traviata-96g/_/R-00587609-00587609-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180328"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Pasta De Maní Crocante Entrenuts 370g",
+    "marca": "ENTRENUTS",
+    "precio": 11891860000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//pasta-de-maní-crocante-entrenuts-370g/_/R-00602255-00602255-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180332"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Maní Sabor Crema Y Cebolla Mani King 80g",
+    "marca": "MANI KING",
+    "precio": 18749870000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//maní-sabor-crema-y-cebolla-mani-king-80g/_/R-00570304-00570304-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180335"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Tradicionales Krachitos 105g",
+    "marca": "KRACHITOS",
+    "precio": 28514280000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-tradicionales-krachitos-105g/_/R-00594614-00594614-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180338"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Maní Sabor Panceta Croppers 85g",
+    "marca": "CROPPERS",
+    "precio": 16000000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//maní-sabor-panceta-croppers-85g/_/R-00576962-00576962-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180341"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snack de Maíz Jenny's Crunchy Corn Mostaza y Miel 35g",
+    "marca": "LENNYS",
+    "precio": 3733720000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snack-de-maíz-jenny-s-crunchy-corn-mostaza-y-miel-35g/_/R-00630059-00630059-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180343"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Bolsas Multiuso La Gauchita 200 unidades",
+    "marca": "GAUCHITA",
+    "precio": 64800000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//bolsas-multiuso-la-gauchita-200-unidades/_/R-00632635-00632635-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180346"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Lunchera Colegial Ajustable Stitch Snacks Surtido 1 Unidad",
+    "marca": "STITCH",
+    "precio": null,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//lunchera-colegial-ajustable-stitch-snacks-surtido-1-unidad/_/R-00617218-00617218-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180349"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks de arroz sabor cebolla caramelizada DOS HERMANOS 80g",
+    "marca": "DOS HERMANOS",
+    "precio": 23250000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-de-arroz-sabor-cebolla-caramelizada-dos-hermanos-80g/_/R-00627814-00627814-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180355"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados Krachitos 110 Grm",
+    "marca": "KRACHITOS",
+    "precio": 15145450000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//palitos-salados-krachitos-110-grm/_/R-00553711-00553711-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180358"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snack De Arroz Y Quinoa Vegetalex 40g",
+    "marca": "VEGETALEX",
+    "precio": 4670000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snack-de-arroz-y-quinoa-vegetalex-40g/_/R-00568175-00568175-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180360"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor Provoleta Lays 77g",
+    "marca": "LAYS",
+    "precio": 49987010000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-sabor-provoleta-lays-77g/_/R-00584006-00584006-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180363"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Cheetos Ondulados Queso Crema Cheetos 43g",
+    "marca": "CHEETOS",
+    "precio": 5348840000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//cheetos-ondulados-queso-crema-cheetos-43g/_/R-00582647-00582647-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180366"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Almendra Con Sal Y Vinagre Blue Diamond 170g",
+    "marca": "BLUE DIAMOND",
+    "precio": 107788230000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//almendra-con-sal-y-vinagre-blue-diamond-170g/_/R-00608689-00608689-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180369"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Takis Intense Nacho 85g",
+    "marca": "TAKIS",
+    "precio": 38835170000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//takis-intense-nacho-85g/_/R-00616601-00616601-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180371"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks Salmon Grillad Dr. Zoo Fwp 40 Grm",
+    "marca": "DR. ZOO",
+    "precio": 3417500000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-salmon-grillad-dr-zoo-fwp-40-grm/_/R-00502598-00502598-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180374"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Cereal Granola Tradicional Kos Food 350 Grm",
+    "marca": "KOS FOOD",
+    "precio": 11425710000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//cereal-granola-tradicional-kos-food-350-grm/_/R-00545083-00545083-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180377"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Ondas Flamin Hot Lays 70g",
+    "marca": "LAYS",
+    "precio": 50700000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-ondas-flamin-hot-lays-70g/_/R-00567610-00567610-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180379"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Maní Tostado Salado Croppers 105g",
+    "marca": "CROPPERS",
+    "precio": 12704760000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//maní-tostado-salado-croppers-105g/_/R-00576956-00576956-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180382"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Bocaditos Sabor Calabresa Dr. Zoo 50g",
+    "marca": "DR. ZOO",
+    "precio": 2972000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//bocaditos-sabor-calabresa-dr-zoo-50g/_/R-00584301-00584301-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180384"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Salamitos Cagnoli Snack Sabor Ahumado 60g",
+    "marca": "CAGNOLI",
+    "precio": 91666660000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//salamitos-cagnoli-snack-sabor-ahumado-60g/_/R-00630984-00630984-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180387"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Semillas De Girasol Peladas Natural Pipas 180 Grm",
+    "marca": "PIPAS",
+    "precio": 14994440000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//semillas-de-girasol-peladas-natural-pipas-180-grm/_/R-00540682-00540682-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180390"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Doritos Sweet Chili Doritos 74g",
+    "marca": "DORITOS",
+    "precio": 52027020000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//doritos-sweet-chili-doritos-74g/_/R-00602751-00602751-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180392"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Mix Frutos Secos Salados Con Miel Dec Alimentos 35g",
+    "marca": "DEC ALIMENTOS",
+    "precio": 3771430000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//mix-frutos-secos-salados-con-miel-dec-alimentos-35g/_/R-00570320-00570320-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180395"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Cereal Granola Manzana Y Canela Sturla 200gr",
+    "marca": "STURLA",
+    "precio": 24995000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//cereal-granola-manzana-y-canela-sturla-200gr/_/R-00561336-00561336-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180397"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Maní Con Chocolate Croppers 85g",
+    "marca": "CROPPERS",
+    "precio": 29000000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//maní-con-chocolate-croppers-85g/_/R-00589777-00589777-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180400"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Cheetos Sabor Queso 43g",
+    "marca": "CHEETOS",
+    "precio": 5348840000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//cheetos-sabor-queso-43g/_/R-00567597-00567597-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180403"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Chizitos sabor queso KRACHITOS 125g",
+    "marca": "KRACHITOS",
+    "precio": 23920000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//chizitos-sabor-queso-krachitos-125g/_/R-00627273-00627273-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180405"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Nachos sabor original KRACHITOS 110g",
+    "marca": "KRACHITOS",
+    "precio": 36436360000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//nachos-sabor-original-krachitos-110g/_/R-00625593-00625593-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180408"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Mini Tostaditas Jamón Ibérico Twistos 40g",
+    "marca": "TWISTOS",
+    "precio": 5250000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//mini-tostaditas-jamón-ibérico-twistos-40g/_/R-00595779-00595779-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180410"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "TAKIS Original 140g",
+    "marca": "TAKIS",
+    "precio": 35635640000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//takis-original-140g/_/R-00595791-00595791-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180413"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks para perro de carne MON AMI 200g",
+    "marca": "MON AMI",
+    "precio": 41880000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-para-perro-de-carne-mon-ami-200g/_/R-00625559-00625559-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180416"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Mix Frutos Secos Dec Aliment 35 Grm",
+    "marca": "DEC ALIMENTOS",
+    "precio": 3771430000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//mix-frutos-secos-dec-aliment-35-grm/_/R-00534975-00534975-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180418"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas En Tubo CIUDAD DEL LAGO Queso Cheddar 140gr",
+    "marca": "CIUDAD DEL LAGO",
+    "precio": 31378570000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-en-tubo-ciudad-del-lago-queso-cheddar-140gr/_/R-00499848-00499848-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180421"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Maní Salado Con Piel Pehuamar 75g",
+    "marca": "PEHUAMAR",
+    "precio": 32000000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//maní-salado-con-piel-pehuamar-75g/_/R-00577957-00577957-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180423"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Chorizos Frescos La Divisa Tipo Copetín 400g",
+    "marca": "LA DIVISA",
+    "precio": 8200000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//chorizos-frescos-la-divisa-tipo-copetín-400g/_/R-00014616-00014616-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180426"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Mani Tostado Salado Con Miel Dec Alimentos 75g",
+    "marca": "DEC ALIMENTOS",
+    "precio": 17600000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//mani-tostado-salado-con-miel-dec-alimentos-75g/_/R-00580543-00580543-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180429"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Tradicionales Krachitos 50g",
+    "marca": "KRACHITOS",
+    "precio": 3774000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-tradicionales-krachitos-50g/_/R-00594615-00594615-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180431"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas fritas sabor asado LAYS 34g",
+    "marca": "LAYS",
+    "precio": 6764710000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-sabor-asado-lays-34g/_/R-00624700-00624700-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180434"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Limpieza Dental Para Perros Raza Grande X3 Pedigree 115.5 Grm",
+    "marca": "PEDIGREE",
+    "precio": 32675320000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//limpieza-dental-para-perros-raza-grande-x3-pedigree-115-5-grm/_/R-00558428-00558428-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180437"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Maní Sabor Sal Y Limon Maniax 95g",
+    "marca": "MANIAX",
+    "precio": 28947360000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//maní-sabor-sal-y-limon-maniax-95g/_/R-00577956-00577956-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180440"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snack De Arroz Con Crema Y Ciboulette Risky Dit 50g",
+    "marca": "RISKY DIT",
+    "precio": 4100000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snack-de-arroz-con-crema-y-ciboulette-risky-dit-50g/_/R-00605500-00605500-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180442"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Pata de maní Protein cookies and cream ENTRENUTS 370g",
+    "marca": "ENTRENUTS",
+    "precio": 15945910000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//pata-de-maní-protein-cookies-and-cream-entrenuts-370g/_/R-00619721-00619721-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180445"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Snacks Pizza Granix Paq 90 Grm",
+    "marca": "GRANIX",
+    "precio": 24855550000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//snacks-pizza-granix-paq-90-grm/_/R-00497575-00497575-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180448"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Cheetos ondulados sabor Ketchup CHEETOS 80g",
+    "marca": "CHEETOS",
+    "precio": 43937500000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//cheetos-ondulados-sabor-ketchup-cheetos-80g/_/R-00622899-00622899-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180450"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Clasicas Lays 40g",
+    "marca": "LAYS",
+    "precio": 5750000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//papas-fritas-clasicas-lays-40g/_/R-00567578-00567578-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180453"
+  },
+  {
+    "supermercado": "Coto Digital",
+    "categoria": "snacks",
+    "nombre": "Chips Sabor Jamón Gallo Snack 100g",
+    "marca": "GALLO",
+    "precio": 38300000000.0,
+    "precio_lista": null,
+    "url": "https://www.cotodigital.com.ar/sitios/cdigi/producto//chips-sabor-jamón-gallo-snack-100g/_/R-00570423-00570423-200?format=json",
+    "timestamp": "2026-07-19T11:54:58.180456"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Galletitas Snacks Queso Gallo Snacks x 100 g.",
+    "marca": "Gallo Snacks",
+    "precio": 3850.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/galletitas-snacks-queso-gallo-snacks-x-100-g/art_3096415/",
+    "timestamp": "2026-07-19T11:55:02.210158"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Galletitas Snacks Pizza Gallo Snacks x 100 g.",
+    "marca": "Gallo Snacks",
+    "precio": 3850.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/galletitas-snacks-pizza-gallo-snacks-x-100-g/art_3096427/",
+    "timestamp": "2026-07-19T11:55:02.210188"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Pochoclos Dulces Gallo Snacks x 50 g.",
+    "marca": "Gallo Snacks",
+    "precio": 2600.0,
+    "precio_lista": 2850.0,
+    "url": "https://www.laanonima.com.ar/pochoclos-dulces-gallo-snacks-x-50-g/art_3127515/",
+    "timestamp": "2026-07-19T11:55:02.210201"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Pochoclos Salados Gallo Snacks x 60 g.",
+    "marca": "Gallo Snacks",
+    "precio": 3150.0,
+    "precio_lista": 3400.0,
+    "url": "https://www.laanonima.com.ar/pochoclos-salados-gallo-snacks-x-60-g/art_3127527/",
+    "timestamp": "2026-07-19T11:55:02.210206"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Acanaladas Pehuamar x 230 g.",
+    "marca": "Pehuamar",
+    "precio": 3810.0,
+    "precio_lista": 6350.0,
+    "url": "https://www.laanonima.com.ar/papas-fritas-acanaladas-pehuamar-x-230-g/art_2581899/",
+    "timestamp": "2026-07-19T11:55:02.210210"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Acanaladas Pehuamar x 135 g.",
+    "marca": "Pehuamar",
+    "precio": 2370.0,
+    "precio_lista": 3950.0,
+    "url": "https://www.laanonima.com.ar/papas-fritas-acanaladas-pehuamar-x-135-g/art_3043307/",
+    "timestamp": "2026-07-19T11:55:02.210215"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Mani Pelado Salado Pehuamar x 75 g.",
+    "marca": "Pehuamar",
+    "precio": 1410.0,
+    "precio_lista": 2350.0,
+    "url": "https://www.laanonima.com.ar/mani-pelado-salado-pehuamar-x-75-g/art_3244982/",
+    "timestamp": "2026-07-19T11:55:02.210220"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Rueditas sabor Pizza Pep x 74 g.",
+    "marca": "Pep",
+    "precio": 2150.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/rueditas-sabor-pizza-pep-x-74-g/art_3489747/",
+    "timestamp": "2026-07-19T11:55:02.210224"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos Sabor a Queso Doritos x 77 g.",
+    "marca": "Doritos",
+    "precio": 2400.0,
+    "precio_lista": 4000.0,
+    "url": "https://www.laanonima.com.ar/nachos-sabor-a-queso-doritos-x-77-g/art_3043186/",
+    "timestamp": "2026-07-19T11:55:02.210228"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Acanaladas Pehuamar x 90 g.",
+    "marca": "Pehuamar",
+    "precio": 1650.0,
+    "precio_lista": 2750.0,
+    "url": "https://www.laanonima.com.ar/papas-acanaladas-pehuamar-x-90-g/art_3416847/",
+    "timestamp": "2026-07-19T11:55:02.210232"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos Dinamita Flaming Hot  Doritos x 82 g.",
+    "marca": "Doritos",
+    "precio": 1860.0,
+    "precio_lista": 3100.0,
+    "url": "https://www.laanonima.com.ar/nachos-dinamita-flaming-hot-doritos-x-82-g/art_3311259/",
+    "timestamp": "2026-07-19T11:55:02.210236"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos sabor Pizza Doritos x 74 g.",
+    "marca": "Doritos",
+    "precio": 2400.0,
+    "precio_lista": 4000.0,
+    "url": "https://www.laanonima.com.ar/nachos-sabor-pizza-doritos-x-74-g/art_3478865/",
+    "timestamp": "2026-07-19T11:55:02.210240"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chizitos de maíz Pehuamar Maicitos x 125 g",
+    "marca": "Pehuamar",
+    "precio": 2250.0,
+    "precio_lista": 3750.0,
+    "url": "https://www.laanonima.com.ar/chizitos-de-maiz-pehuamar-maicitos-x-125-g/art_2617183/",
+    "timestamp": "2026-07-19T11:55:02.210244"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Rueditas sabor Pizza Pep x 120 g.",
+    "marca": "Pep",
+    "precio": 3400.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/rueditas-sabor-pizza-pep-x-120-g/art_2617195/",
+    "timestamp": "2026-07-19T11:55:02.210251"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos Sabor a Queso Doritos x 200 g.",
+    "marca": "Doritos",
+    "precio": 5460.0,
+    "precio_lista": 9100.0,
+    "url": "https://www.laanonima.com.ar/nachos-sabor-a-queso-doritos-x-200-g/art_3043241/",
+    "timestamp": "2026-07-19T11:55:02.210256"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Lisas Pehuamar x 90 g.",
+    "marca": "Pehuamar",
+    "precio": 1650.0,
+    "precio_lista": 2750.0,
+    "url": "https://www.laanonima.com.ar/papas-lisas-pehuamar-x-90-g/art_3416860/",
+    "timestamp": "2026-07-19T11:55:02.210261"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados Sabor a Queso Pehuamar x 165 g.",
+    "marca": "Pehuamar",
+    "precio": 2190.0,
+    "precio_lista": 3650.0,
+    "url": "https://www.laanonima.com.ar/palitos-salados-sabor-a-queso-pehuamar-x-165-g/art_3043319/",
+    "timestamp": "2026-07-19T11:55:02.210265"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos Sabor a Queso Doritos x 40 g.",
+    "marca": "Doritos",
+    "precio": 1440.0,
+    "precio_lista": 2400.0,
+    "url": "https://www.laanonima.com.ar/nachos-sabor-a-queso-doritos-x-40-g/art_3026103/",
+    "timestamp": "2026-07-19T11:55:02.210269"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Rueditas Flamin Hot Pep x 71 g.",
+    "marca": "Pep",
+    "precio": 2150.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/rueditas-flamin-hot-pep-x-71-g/art_3417979/",
+    "timestamp": "2026-07-19T11:55:02.210274"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados Pehuamar x 165 g.",
+    "marca": "Pehuamar",
+    "precio": 2190.0,
+    "precio_lista": 3650.0,
+    "url": "https://www.laanonima.com.ar/palitos-salados-pehuamar-x-165-g/art_3043320/",
+    "timestamp": "2026-07-19T11:55:02.210278"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados sabor a Queso Pehuamar x 90 g.",
+    "marca": "Pehuamar",
+    "precio": 1500.0,
+    "precio_lista": 2500.0,
+    "url": "https://www.laanonima.com.ar/palitos-salados-sabor-a-queso-pehuamar-x-90-g/art_2617110/",
+    "timestamp": "2026-07-19T11:55:02.210282"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor a Queso Y Cebolla Lays x 77 g.",
+    "marca": "Lays",
+    "precio": 3900.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-a-queso-y-cebolla-lays-x-77-g/art_3043228/",
+    "timestamp": "2026-07-19T11:55:02.210288"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Tubo de Maíz Dinamita Extra Flamin Hot Doritos x 82 g.",
+    "marca": "Doritos",
+    "precio": 1860.0,
+    "precio_lista": 3100.0,
+    "url": "https://www.laanonima.com.ar/tubo-de-maiz-dinamita-extra-flamin-hot-doritos-x-82-g/art_3418017/",
+    "timestamp": "2026-07-19T11:55:02.210293"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Japonés Salado Maniax x 95 g",
+    "marca": "Pehuamar",
+    "precio": 1650.0,
+    "precio_lista": 2750.0,
+    "url": "https://www.laanonima.com.ar/mani-japones-salado-maniax-x-95-g/art_3127692/",
+    "timestamp": "2026-07-19T11:55:02.210297"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos Sweet Chili Doritos x 74 g.",
+    "marca": "Doritos",
+    "precio": 2400.0,
+    "precio_lista": 4000.0,
+    "url": "https://www.laanonima.com.ar/nachos-sweet-chili-doritos-x-74-g/art_3311193/",
+    "timestamp": "2026-07-19T11:55:02.210302"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Lays Ondas Sabor a Flamin Hot 70 g",
+    "marca": "Lays",
+    "precio": 3600.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-lays-ondas-sabor-a-flamin-hot-70-g/art_3043393/",
+    "timestamp": "2026-07-19T11:55:02.210306"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor a Jamón Serrano Lays x 122 g.",
+    "marca": "Lays",
+    "precio": 5450.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-a-jamon-serrano-lays-x-122-g/art_3043370/",
+    "timestamp": "2026-07-19T11:55:02.210310"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor a Ketchup Lays x 77 g.",
+    "marca": "Lays",
+    "precio": 3900.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-a-ketchup-lays-x-77-g/art_3043277/",
+    "timestamp": "2026-07-19T11:55:02.210315"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor Jamón Serrano Lays x 77 g.",
+    "marca": "Lays",
+    "precio": 3900.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-jamon-serrano-lays-x-77-g/art_3043216/",
+    "timestamp": "2026-07-19T11:55:02.210319"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Tubo de Maíz Dinamita Extra Flamin Hot Doritos x 45 g.",
+    "marca": "Doritos",
+    "precio": 1260.0,
+    "precio_lista": 2100.0,
+    "url": "https://www.laanonima.com.ar/tubo-de-maiz-dinamita-extra-flamin-hot-doritos-x-45-g/art_3417992/",
+    "timestamp": "2026-07-19T11:55:02.210323"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas fritas Lays Clásicas x 40 g",
+    "marca": "Lays",
+    "precio": 2350.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-lays-clasicas-x-40-g/art_3026127/",
+    "timestamp": "2026-07-19T11:55:02.210327"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas fritas Lays Clásicas x 85 g",
+    "marca": "Lays",
+    "precio": 3900.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-lays-clasicas-x-85-g/art_3043174/",
+    "timestamp": "2026-07-19T11:55:02.210332"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Acanaladas Sabor Asado Lays x 77g.",
+    "marca": "Lays",
+    "precio": 3900.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-acanaladas-sabor-asado-lays-x-77g/art_3486680/",
+    "timestamp": "2026-07-19T11:55:02.210336"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas fritas Lays Sabor a Provoleta x 77 g",
+    "marca": "Lays",
+    "precio": 3900.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-lays-sabor-a-provoleta-x-77-g/art_3196409/",
+    "timestamp": "2026-07-19T11:55:02.210340"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas sabor Barbacoa Lays x 77 g.",
+    "marca": "Lays",
+    "precio": 3900.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-barbacoa-lays-x-77-g/art_3367680/",
+    "timestamp": "2026-07-19T11:55:02.210344"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos Rounded Tostitos x 100 g.",
+    "marca": "Tostitos",
+    "precio": 3550.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-rounded-tostitos-x-100-g/art_3440163/",
+    "timestamp": "2026-07-19T11:55:02.210348"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos Rounded Tostitos x 260 g.",
+    "marca": "Tostitos",
+    "precio": 6650.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-rounded-tostitos-x-260-g/art_3440187/",
+    "timestamp": "2026-07-19T11:55:02.210353"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor Crema Y Cebolla Saladix x 72 g.",
+    "marca": "Saladix",
+    "precio": 1235.0,
+    "precio_lista": 3800.0,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-crema-y-cebolla-saladix-x-72-g/art_3493969/",
+    "timestamp": "2026-07-19T11:55:02.210357"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor Original Saladix x 80 g.",
+    "marca": "Saladix",
+    "precio": 2470.0,
+    "precio_lista": 3800.0,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-original-saladix-x-80-g/art_3493933/",
+    "timestamp": "2026-07-19T11:55:02.210361"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Tubo sabor Crema y Cebolla Best x 140 g.",
+    "marca": "Best",
+    "precio": 5550.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-tubo-sabor-crema-y-cebolla-best-x-140-g/art_3307396/",
+    "timestamp": "2026-07-19T11:55:02.210364"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Sabor Jamón La Anónima x 93 g.",
+    "marca": "La Anonima",
+    "precio": 3100.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-sabor-jamon-la-anonima-x-93-g/art_3375274/",
+    "timestamp": "2026-07-19T11:55:02.210370"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Batatas Fritas Quento x 130 g.",
+    "marca": "Quento",
+    "precio": 3010.0,
+    "precio_lista": 4300.0,
+    "url": "https://www.laanonima.com.ar/batatas-fritas-quento-x-130-g/art_3349949/",
+    "timestamp": "2026-07-19T11:55:02.210377"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Tubo sabor Original Best x 140 g.",
+    "marca": "Best",
+    "precio": 5550.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-tubo-sabor-original-best-x-140-g/art_3307384/",
+    "timestamp": "2026-07-19T11:55:02.210381"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Tubo sabor Queso Cheddar Best x 140 g.",
+    "marca": "Best",
+    "precio": 5550.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-tubo-sabor-queso-cheddar-best-x-140-g/art_3307402/",
+    "timestamp": "2026-07-19T11:55:02.210385"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Batatas Fritas Mostaza y Miel Quento  x 70 g.",
+    "marca": "Quento",
+    "precio": 1960.0,
+    "precio_lista": 2800.0,
+    "url": "https://www.laanonima.com.ar/batatas-fritas-mostaza-y-miel-quento-x-70-g/art_3472796/",
+    "timestamp": "2026-07-19T11:55:02.210389"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Tubo sabor Jalapeño Best x 140g.",
+    "marca": "Best",
+    "precio": 5550.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-tubo-sabor-jalapeno-best-x-140g/art_3498657/",
+    "timestamp": "2026-07-19T11:55:02.210395"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Tubo sabor Barbacoa Best x 140g.",
+    "marca": "Best",
+    "precio": 5550.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-tubo-sabor-barbacoa-best-x-140g/art_3498669/",
+    "timestamp": "2026-07-19T11:55:02.210399"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Clásicas Quento x 160 g.",
+    "marca": "Quento",
+    "precio": 3010.0,
+    "precio_lista": 4300.0,
+    "url": "https://www.laanonima.com.ar/papas-fritas-clasicas-quento-x-160-g/art_3446736/",
+    "timestamp": "2026-07-19T11:55:02.210403"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Rústicas La Anónima x 93 g.",
+    "marca": "La Anonima",
+    "precio": 3100.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-rusticas-la-anonima-x-93-g/art_3375286/",
+    "timestamp": "2026-07-19T11:55:02.210407"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Jamón Serrano Quento x 82 g.",
+    "marca": "Quento",
+    "precio": 1960.0,
+    "precio_lista": 2800.0,
+    "url": "https://www.laanonima.com.ar/papas-fritas-jamon-serrano-quento-x-82-g/art_3349937/",
+    "timestamp": "2026-07-19T11:55:02.210411"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Clásicas Quento x 92 g.",
+    "marca": "Quento",
+    "precio": 1960.0,
+    "precio_lista": 2800.0,
+    "url": "https://www.laanonima.com.ar/papas-fritas-clasicas-quento-x-92-g/art_3349913/",
+    "timestamp": "2026-07-19T11:55:02.210416"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Ketchup Quento  x 82 g.",
+    "marca": "Quento",
+    "precio": 1960.0,
+    "precio_lista": 2800.0,
+    "url": "https://www.laanonima.com.ar/papas-fritas-ketchup-quento-x-82-g/art_3349925/",
+    "timestamp": "2026-07-19T11:55:02.210419"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados Krach-Itos x 110 g.",
+    "marca": "Krach-Itos",
+    "precio": 1312.0,
+    "precio_lista": 1750.0,
+    "url": "https://www.laanonima.com.ar/palitos-salados-krach-itos-x-110-g/art_2971835/",
+    "timestamp": "2026-07-19T11:55:02.210424"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Palitos de Maíz con Queso La Anónima x 150 g.",
+    "marca": "La Anonima",
+    "precio": 3150.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/palitos-de-maiz-con-queso-la-anonima-x-150-g/art_1208287/",
+    "timestamp": "2026-07-19T11:55:02.210428"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas La Anónima x 250 g.",
+    "marca": "La Anonima",
+    "precio": 6200.0,
+    "precio_lista": 6550.0,
+    "url": "https://www.laanonima.com.ar/papas-fritas-la-anonima-x-250-g/art_2978763/",
+    "timestamp": "2026-07-19T11:55:02.210433"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Bastoncitos Extra Queso Krach-Itos x 60 g.",
+    "marca": "Krach-Itos",
+    "precio": 1237.0,
+    "precio_lista": 1650.0,
+    "url": "https://www.laanonima.com.ar/bastoncitos-extra-queso-krach-itos-x-60-g/art_2971823/",
+    "timestamp": "2026-07-19T11:55:02.210438"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados Krach-Itos x 70 g.",
+    "marca": "Krach-Itos",
+    "precio": 937.0,
+    "precio_lista": 1250.0,
+    "url": "https://www.laanonima.com.ar/palitos-salados-krach-itos-x-70-g/art_2987533/",
+    "timestamp": "2026-07-19T11:55:02.210441"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Frito Pelado Salado La Anónima x 120 g.",
+    "marca": "La Anonima",
+    "precio": 2200.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-frito-pelado-salado-la-anonima-x-120-g/art_1266470/",
+    "timestamp": "2026-07-19T11:55:02.210446"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Corte Americano La Anónima x 150 g.",
+    "marca": "La Anonima",
+    "precio": 4000.0,
+    "precio_lista": 4250.0,
+    "url": "https://www.laanonima.com.ar/papas-fritas-corte-americano-la-anonima-x-150-g/art_2978775/",
+    "timestamp": "2026-07-19T11:55:02.210451"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Jamón Serrano Krach-Itos x 90 g.",
+    "marca": "Krach-Itos",
+    "precio": 3100.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-jamon-serrano-krach-itos-x-90-g/art_2971770/",
+    "timestamp": "2026-07-19T11:55:02.210456"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Palitos de Maiz Sabor Queso Krachitos x 240 g.",
+    "marca": "Krachitos",
+    "precio": 3750.0,
+    "precio_lista": 5000.0,
+    "url": "https://www.laanonima.com.ar/palitos-de-maiz-sabor-queso-krachitos-x-240-g/art_3496570/",
+    "timestamp": "2026-07-19T11:55:02.210461"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Bastonitos de Queso Krachitos x 125 g.",
+    "marca": "Krachitos",
+    "precio": 2475.0,
+    "precio_lista": 3300.0,
+    "url": "https://www.laanonima.com.ar/bastonitos-de-queso-krachitos-x-125-g/art_3496569/",
+    "timestamp": "2026-07-19T11:55:02.210465"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Snacks Horneados Cebolla Y Crema Molinos Ala x 80 g.",
+    "marca": "Molinos Ala",
+    "precio": 2100.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/snacks-horneados-cebolla-y-crema-molinos-ala-x-80-g/art_3450211/",
+    "timestamp": "2026-07-19T11:55:02.210469"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Corte Americano Krach-Itos x 165 g.",
+    "marca": "Krach-Itos",
+    "precio": 4050.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-corte-americano-krach-itos-x-165-g/art_3273910/",
+    "timestamp": "2026-07-19T11:55:02.210473"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Mini Tostadas de Jamón Ibérico Twistos x 155 g.",
+    "marca": "Twistos",
+    "precio": 5450.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mini-tostadas-de-jamon-iberico-twistos-x-155-g/art_2643364/",
+    "timestamp": "2026-07-19T11:55:02.210476"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas sabor Crema y Cebolla Krachitos x 90 g.",
+    "marca": "Krachitos",
+    "precio": 3100.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-crema-y-cebolla-krachitos-x-90-g/art_3362632/",
+    "timestamp": "2026-07-19T11:55:02.210481"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados sabor Panceta Krachitos x 110 g.",
+    "marca": "Krachitos",
+    "precio": 1387.0,
+    "precio_lista": 1850.0,
+    "url": "https://www.laanonima.com.ar/palitos-salados-sabor-panceta-krachitos-x-110-g/art_3176940/",
+    "timestamp": "2026-07-19T11:55:02.210485"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Tradicionales Krach-Itos x 275 g.",
+    "marca": "Krach-Itos",
+    "precio": 6350.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-tradicionales-krach-itos-x-275-g/art_3273854/",
+    "timestamp": "2026-07-19T11:55:02.210489"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chizitos de maíz sabor a queso Cheetos Original x 43 g",
+    "marca": "Cheetos",
+    "precio": 2350.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/chizitos-de-maiz-sabor-a-queso-cheetos-original-x-43-g/art_3026115/",
+    "timestamp": "2026-07-19T11:55:02.210493"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Aritos de Arroz sabor Crema c/Cebolla Dos Hermanos x 80 g.",
+    "marca": "Dos Hermanos",
+    "precio": 2150.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/aritos-de-arroz-sabor-crema-c-cebolla-dos-hermanos-x-80-g/art_2067225/",
+    "timestamp": "2026-07-19T11:55:02.210497"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas sabor Crema y Cebolla Pringles x 109 g.",
+    "marca": "Pringles",
+    "precio": 5600.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-crema-y-cebolla-pringles-x-109-g/art_3117224/",
+    "timestamp": "2026-07-19T11:55:02.210501"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor Cheddar Krach-Itos x 90 g.",
+    "marca": "Krach-Itos",
+    "precio": 3100.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-cheddar-krach-itos-x-90-g/art_2971884/",
+    "timestamp": "2026-07-19T11:55:02.210506"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Tubo sabor Cebolla y Queso La Anónima x 150 g.",
+    "marca": "La Anonima",
+    "precio": 6500.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-tubo-sabor-cebolla-y-queso-la-anonima-x-150-g/art_3196446/",
+    "timestamp": "2026-07-19T11:55:02.210511"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor Ketchup Krach-Itos x 90 g.",
+    "marca": "Krach-Itos",
+    "precio": 3100.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-ketchup-krach-itos-x-90-g/art_2987510/",
+    "timestamp": "2026-07-19T11:55:02.210515"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Snacks Horneados Queso Molinos Ala x 80 g.",
+    "marca": "Molinos Ala",
+    "precio": 2100.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/snacks-horneados-queso-molinos-ala-x-80-g/art_3450200/",
+    "timestamp": "2026-07-19T11:55:02.210519"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos sabor Original La Anonima x 90 g.",
+    "marca": "La Anonima",
+    "precio": 254667.0,
+    "precio_lista": 2700.0,
+    "url": "https://www.laanonima.com.ar/nachos-sabor-original-la-anonima-x-90-g/art_3371268/",
+    "timestamp": "2026-07-19T11:55:02.210524"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papa Corte Tradicional Krach-Itos x 165 g.",
+    "marca": "Krach-Itos",
+    "precio": 4050.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papa-corte-tradicional-krach-itos-x-165-g/art_3273866/",
+    "timestamp": "2026-07-19T11:55:02.210529"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Tubos de Maíz X-Treme Hot Krachitos x 45 g.",
+    "marca": "Krachitos",
+    "precio": 1387.0,
+    "precio_lista": 1850.0,
+    "url": "https://www.laanonima.com.ar/tubos-de-maiz-x-treme-hot-krachitos-x-45-g/art_3349718/",
+    "timestamp": "2026-07-19T11:55:02.210533"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Galletitas Saladas Kesitas Sabor Queso x 75 g.",
+    "marca": "Kesitas",
+    "precio": 1425.0,
+    "precio_lista": 1900.0,
+    "url": "https://www.laanonima.com.ar/galletitas-saladas-kesitas-sabor-queso-x-75-g/art_0242950/",
+    "timestamp": "2026-07-19T11:55:02.210537"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Discos de Arroz sabor Asado Dos Hermanos x 80 g.",
+    "marca": "Dos Hermanos",
+    "precio": 2150.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/discos-de-arroz-sabor-asado-dos-hermanos-x-80-g/art_2116388/",
+    "timestamp": "2026-07-19T11:55:02.210541"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Mini Tostaditas sabor Queso Twistos x 95 g.",
+    "marca": "Twistos",
+    "precio": 3800.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mini-tostaditas-sabor-queso-twistos-x-95-g/art_2577604/",
+    "timestamp": "2026-07-19T11:55:02.210551"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Mini Tostaditas Jamón Ibérico Twistos x 95 g.",
+    "marca": "Twistos",
+    "precio": 3800.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mini-tostaditas-jamon-iberico-twistos-x-95-g/art_2577586/",
+    "timestamp": "2026-07-19T11:55:02.210555"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas sabor Original Pringles x 104 g.",
+    "marca": "Pringles",
+    "precio": 5600.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-original-pringles-x-104-g/art_3117212/",
+    "timestamp": "2026-07-19T11:55:02.210559"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos sabor Queso La Anonima x 90 g.",
+    "marca": "La Anonima",
+    "precio": 284667.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-sabor-queso-la-anonima-x-90-g/art_3371270/",
+    "timestamp": "2026-07-19T11:55:02.210563"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chizitos de maíz Cheetos Ondulados Sabor a Queso Crema 43 g",
+    "marca": "Cheetos",
+    "precio": 2350.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/chizitos-de-maiz-cheetos-ondulados-sabor-a-queso-crema-43-g/art_3178304/",
+    "timestamp": "2026-07-19T11:55:02.210568"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Tubo sabor Original La Anónima x 150 g.",
+    "marca": "La Anonima",
+    "precio": 6500.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-tubo-sabor-original-la-anonima-x-150-g/art_3196410/",
+    "timestamp": "2026-07-19T11:55:02.210572"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Tubo sabor Cheddar La Anonima x 150 g.",
+    "marca": "La Anonima",
+    "precio": 6500.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-tubo-sabor-cheddar-la-anonima-x-150-g/art_3196434/",
+    "timestamp": "2026-07-19T11:55:02.210576"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas sabor Queso Pringles x 109 g.",
+    "marca": "Pringles",
+    "precio": 5600.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-queso-pringles-x-109-g/art_3117236/",
+    "timestamp": "2026-07-19T11:55:02.210580"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Snack Ondulado sabor Ketchup Cheetos x 80 g.",
+    "marca": "Cheetos",
+    "precio": 3900.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/snack-ondulado-sabor-ketchup-cheetos-x-80-g/art_3470258/",
+    "timestamp": "2026-07-19T11:55:02.210584"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Galletitas Saladas sabor Original Rex x 75 g.",
+    "marca": "Rex",
+    "precio": 1312.0,
+    "precio_lista": 1750.0,
+    "url": "https://www.laanonima.com.ar/galletitas-saladas-sabor-original-rex-x-75-g/art_1045258/",
+    "timestamp": "2026-07-19T11:55:02.210588"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos sabor Chile Picante La Anonima x 90 g.",
+    "marca": "La Anonima",
+    "precio": 284667.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-sabor-chile-picante-la-anonima-x-90-g/art_3371281/",
+    "timestamp": "2026-07-19T11:55:02.210592"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chizitos de maíz Cheetos Ondulados Sabor a Queso Crema 85 g",
+    "marca": "Cheetos",
+    "precio": 3900.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/chizitos-de-maiz-cheetos-ondulados-sabor-a-queso-crema-85-g/art_3178316/",
+    "timestamp": "2026-07-19T11:55:02.210596"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Corte Americano X-Treme Hot Krachitos x 55 g.",
+    "marca": "Krachitos",
+    "precio": 1900.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-corte-americano-x-treme-hot-krachitos-x-55-g/art_3349690/",
+    "timestamp": "2026-07-19T11:55:02.210601"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Palitos de Arroz sabor Queso Dos Hermanos x 80 g.",
+    "marca": "Dos Hermanos",
+    "precio": 2150.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/palitos-de-arroz-sabor-queso-dos-hermanos-x-80-g/art_1994890/",
+    "timestamp": "2026-07-19T11:55:02.210604"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Discos de Arroz Dos Hermanos Jamón Serrano x 80 g.",
+    "marca": "Dos Hermanos",
+    "precio": 2150.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/discos-de-arroz-dos-hermanos-jamon-serrano-x-80-g/art_1994906/",
+    "timestamp": "2026-07-19T11:55:02.210608"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Mini Tostadas de Queso Twistos x 155 g.",
+    "marca": "Twistos",
+    "precio": 5450.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mini-tostadas-de-queso-twistos-x-155-g/art_2643388/",
+    "timestamp": "2026-07-19T11:55:02.210612"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Frito  Salado Maní King x350gr",
+    "marca": "Mani King",
+    "precio": 4590.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-frito-salado-mani-king-x350gr/art_3122384/",
+    "timestamp": "2026-07-19T11:55:02.210617"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Tostado sin sal Maní King x 350 g.",
+    "marca": "Mani King",
+    "precio": 4590.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-tostado-sin-sal-mani-king-x-350-g/art_3122396/",
+    "timestamp": "2026-07-19T11:55:02.210621"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Tostado Salado sin Piel La Anónima x 350 g.",
+    "marca": "La Anonima",
+    "precio": 3800.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-tostado-salado-sin-piel-la-anonima-x-350-g/art_3145475/",
+    "timestamp": "2026-07-19T11:55:02.210625"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Frito Salado sin Piel La Anónima x 350 g.",
+    "marca": "La Anonima",
+    "precio": 3800.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-frito-salado-sin-piel-la-anonima-x-350-g/art_3145438/",
+    "timestamp": "2026-07-19T11:55:02.210631"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Corte Americano La Anónima x 113 g.",
+    "marca": "La Anonima",
+    "precio": 3000.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-corte-americano-la-anonima-x-113-g/art_3375250/",
+    "timestamp": "2026-07-19T11:55:02.210635"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Frito con Piel Maní King x 350 g.",
+    "marca": "Mani King",
+    "precio": 4590.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-frito-con-piel-mani-king-x-350-g/art_3208795/",
+    "timestamp": "2026-07-19T11:55:02.210638"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Mani Crocante Clasico La Anonima x 85 g.",
+    "marca": "La Anonima",
+    "precio": 2050.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-crocante-clasico-la-anonima-x-85-g/art_3537160/",
+    "timestamp": "2026-07-19T11:55:02.210642"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Tubitos de harina de maíz sabor queso 3D Mega Queso x 143 g",
+    "marca": "3D",
+    "precio": 5600.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/tubitos-de-harina-de-maiz-sabor-queso-3d-mega-queso-x-143-g/art_2920803/",
+    "timestamp": "2026-07-19T11:55:02.210646"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas fritas Lays Clásicas x 134 g",
+    "marca": "Lays",
+    "precio": 3120.0,
+    "precio_lista": 5600.0,
+    "url": "https://www.laanonima.com.ar/papas-fritas-lays-clasicas-x-134-g/art_3043198/",
+    "timestamp": "2026-07-19T11:55:02.210653"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Tubitos de harina de maíz sabor queso 3D Mega Queso x 43 g",
+    "marca": "3D",
+    "precio": 2400.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/tubitos-de-harina-de-maiz-sabor-queso-3d-mega-queso-x-43-g/art_2920785/",
+    "timestamp": "2026-07-19T11:55:02.210657"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Tostado sin Sal Maní King x 100 g.",
+    "marca": "Mani King",
+    "precio": 1200.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-tostado-sin-sal-mani-king-x-100-g/art_3049309/",
+    "timestamp": "2026-07-19T11:55:02.210662"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Tubos de Maiz sabor Queso 3D x 85 g.",
+    "marca": "3D",
+    "precio": 4000.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/tubos-de-maiz-sabor-queso-3d-x-85-g/art_3103766/",
+    "timestamp": "2026-07-19T11:55:02.210665"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Pelado Salado Krach-Itos x 110 g.",
+    "marca": "Krach-Itos",
+    "precio": 2000.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-pelado-salado-krach-itos-x-110-g/art_2971781/",
+    "timestamp": "2026-07-19T11:55:02.210669"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Pay Krach-Itos x 150 g.",
+    "marca": "Krach-Itos",
+    "precio": 4000.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-pay-krach-itos-x-150-g/art_2987569/",
+    "timestamp": "2026-07-19T11:55:02.210674"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados sabor Panceta Pep x 84 g.",
+    "marca": "Pep",
+    "precio": 2250.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/palitos-salados-sabor-panceta-pep-x-84-g/art_2945800/",
+    "timestamp": "2026-07-19T11:55:02.210678"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos Originales Macritas x 110 g.",
+    "marca": "Macritas",
+    "precio": 2700.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-originales-macritas-x-110-g/art_3026036/",
+    "timestamp": "2026-07-19T11:55:02.210682"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos Sabor Quedo Krachitos x 110 g.",
+    "marca": "Krachitos",
+    "precio": 4550.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-sabor-quedo-krachitos-x-110-g/art_3506149/",
+    "timestamp": "2026-07-19T11:55:02.210685"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Pochoclo Super Dulce para Microondas Marlom´S x 120 g.",
+    "marca": "Marlom´S",
+    "precio": 2900.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/pochoclo-super-dulce-para-microondas-marlom-s-x-120-g/art_3283598/",
+    "timestamp": "2026-07-19T11:55:02.210689"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos de Maiz con Chia Alwa x 80 g.",
+    "marca": "Alwa",
+    "precio": 2650.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-de-maiz-con-chia-alwa-x-80-g/art_3159255/",
+    "timestamp": "2026-07-19T11:55:02.210693"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Pochoclo Dulce para Microondas Marlom S x 87 g.",
+    "marca": "Marlom S",
+    "precio": 2550.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/pochoclo-dulce-para-microondas-marlom-s-x-87-g/art_3111994/",
+    "timestamp": "2026-07-19T11:55:02.210697"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Frito Pelado Salado Krachitos x 65 g.",
+    "marca": "Krachitos",
+    "precio": 1500.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-frito-pelado-salado-krachitos-x-65-g/art_0539703/",
+    "timestamp": "2026-07-19T11:55:02.210701"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Snacks Pizzitos sabor Jamón y Queso Nikitos x 100 g.",
+    "marca": "Nikitos",
+    "precio": 1300.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/snacks-pizzitos-sabor-jamon-y-queso-nikitos-x-100-g/art_2702204/",
+    "timestamp": "2026-07-19T11:55:02.210704"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Clásicas Nikitos x 70 g.",
+    "marca": "Nikitos",
+    "precio": 1400.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-clasicas-nikitos-x-70-g/art_2590748/",
+    "timestamp": "2026-07-19T11:55:02.210708"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Snack Cebolla Caramelizada Dos Hermanos x 80 g.",
+    "marca": "Dos Hermanos",
+    "precio": 2500.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/snack-cebolla-caramelizada-dos-hermanos-x-80-g/art_3534730/",
+    "timestamp": "2026-07-19T11:55:02.210713"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas sabor Cheddar Nikitos x 65g.",
+    "marca": "Nikitos",
+    "precio": 1500.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-cheddar-nikitos-x-65g/art_3499984/",
+    "timestamp": "2026-07-19T11:55:02.210717"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Konos Sabor Queso Krachitos x 90g.",
+    "marca": "Krachitos",
+    "precio": 3800.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/konos-sabor-queso-krachitos-x-90g/art_3506125/",
+    "timestamp": "2026-07-19T11:55:02.210721"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chips de Pan Pita Tomate y Romero Almadre x 115 g.",
+    "marca": "Almadre",
+    "precio": 2400.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/chips-de-pan-pita-tomate-y-romero-almadre-x-115-g/art_3327723/",
+    "timestamp": "2026-07-19T11:55:02.210724"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Pochoclo Salado Manteca para Microonda Marlom S x 100 g.",
+    "marca": "Marlom S",
+    "precio": 2550.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/pochoclo-salado-manteca-para-microonda-marlom-s-x-100-g/art_3076118/",
+    "timestamp": "2026-07-19T11:55:02.210728"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Honey Roasted Spicy Dec Alimentos x 220 g.",
+    "marca": "Dec Alimentos",
+    "precio": 4900.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-honey-roasted-spicy-dec-alimentos-x-220-g/art_3004302/",
+    "timestamp": "2026-07-19T11:55:02.210732"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos Originales Macritas x 250 g.",
+    "marca": "Macritas",
+    "precio": 5350.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-originales-macritas-x-250-g/art_3015944/",
+    "timestamp": "2026-07-19T11:55:02.210735"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Corte Americano sabor Picante Limón Nikitos x 65 g.",
+    "marca": "Nikitos",
+    "precio": 1600.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-corte-americano-sabor-picante-limon-nikitos-x-65-g/art_3429192/",
+    "timestamp": "2026-07-19T11:55:02.210738"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chips de Pan Pita Curcuma Almadre x 115 g.",
+    "marca": "Almadre",
+    "precio": 2400.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/chips-de-pan-pita-curcuma-almadre-x-115-g/art_3534583/",
+    "timestamp": "2026-07-19T11:55:02.210742"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Tubos se Maiz Buby se Queso Nikitos x 220 g.",
+    "marca": "Nikitos",
+    "precio": 2900.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/tubos-se-maiz-buby-se-queso-nikitos-x-220-g/art_3499996/",
+    "timestamp": "2026-07-19T11:55:02.210745"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chips Crema y Cebolla Maretti x 140 g.",
+    "marca": "Maretti",
+    "precio": 4750.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/chips-crema-y-cebolla-maretti-x-140-g/art_3505480/",
+    "timestamp": "2026-07-19T11:55:02.210748"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chips Pizza Maretti x 140 g.",
+    "marca": "Maretti",
+    "precio": 4750.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/chips-pizza-maretti-x-140-g/art_3505492/",
+    "timestamp": "2026-07-19T11:55:02.210751"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chips Tomate/Oliva/Oregano Maretti x 140 g.",
+    "marca": "Maretti",
+    "precio": 4750.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/chips-tomate-oliva-oregano-maretti-x-140-g/art_3505509/",
+    "timestamp": "2026-07-19T11:55:02.210754"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chips Queso Maretti x 140 g.",
+    "marca": "Maretti",
+    "precio": 4750.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/chips-queso-maretti-x-140-g/art_3505510/",
+    "timestamp": "2026-07-19T11:55:02.210757"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Takis Xplosion 140g",
+    "marca": "Takis",
+    "precio": 5300.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/takis-xplosion-140g/art_3281978/",
+    "timestamp": "2026-07-19T11:55:02.210760"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Takis Xplosion 85g",
+    "marca": "Takis",
+    "precio": 3500.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/takis-xplosion-85g/art_3281966/",
+    "timestamp": "2026-07-19T11:55:02.210763"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Pochoclos Dulces Acaramelados Biggys x 100 g.",
+    "marca": "Biggys",
+    "precio": 2650.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/pochoclos-dulces-acaramelados-biggys-x-100-g/art_3263058/",
+    "timestamp": "2026-07-19T11:55:02.210767"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chips de Pan Pita  Original Almadre x 115 g.",
+    "marca": "Almadre",
+    "precio": 2400.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/chips-de-pan-pita-original-almadre-x-115-g/art_3327693/",
+    "timestamp": "2026-07-19T11:55:02.210770"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Pochoclos Dulces Sudestada Pop x 280 g.",
+    "marca": "Sudestada Pop",
+    "precio": 7350.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/pochoclos-dulces-sudestada-pop-x-280-g/art_3302994/",
+    "timestamp": "2026-07-19T11:55:02.210773"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Crocante Jamón Serrano Croppers x 85 g.",
+    "marca": "Croppers",
+    "precio": 1800.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-crocante-jamon-serrano-croppers-x-85-g/art_3297688/",
+    "timestamp": "2026-07-19T11:55:02.210778"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Crocante Tomate y Oliva Croppers x 85 g.",
+    "marca": "Croppers",
+    "precio": 1800.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-crocante-tomate-y-oliva-croppers-x-85-g/art_3297743/",
+    "timestamp": "2026-07-19T11:55:02.210781"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Pochoclos Dulces Sudestada Pop  x 120 g.",
+    "marca": "Sudestada Pop",
+    "precio": 5550.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/pochoclos-dulces-sudestada-pop-x-120-g/art_3302982/",
+    "timestamp": "2026-07-19T11:55:02.210785"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Jamón Serrano Nikitos x 65 g.",
+    "marca": "Nikitos",
+    "precio": 1600.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-jamon-serrano-nikitos-x-65-g/art_2702162/",
+    "timestamp": "2026-07-19T11:55:02.210788"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Kétchup Barbacoa Nikitos x 65 g.",
+    "marca": "Nikitos",
+    "precio": 1600.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-ketchup-barbacoa-nikitos-x-65-g/art_2702174/",
+    "timestamp": "2026-07-19T11:55:02.210791"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas corte Americano Nikitos x 70 g.",
+    "marca": "Nikitos",
+    "precio": 1400.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-corte-americano-nikitos-x-70-g/art_2590785/",
+    "timestamp": "2026-07-19T11:55:02.210794"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Clásicas Nikitos x 120 g.",
+    "marca": "Nikitos",
+    "precio": 2250.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-clasicas-nikitos-x-120-g/art_2590750/",
+    "timestamp": "2026-07-19T11:55:02.210797"
+  }
+]
