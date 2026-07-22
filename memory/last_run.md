@@ -1,5 +1,13 @@
 # Último run
 
+## 20260722 12:28
+
+| Supermercado | Productos |
+|---|---|
+| Coto Digital | 191 |
+
+**Total: 191 productos** -- `resultados/todos_20260722.json`
+
 ## 20260721 12:23
 
 | Supermercado | Productos |
