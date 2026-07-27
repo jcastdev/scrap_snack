@@ -1,5 +1,13 @@
 # Último run
 
+## 20260727 13:37
+
+| Supermercado | Productos |
+|---|---|
+| La Anónima | 150 |
+
+**Total: 150 productos** -- `resultados/todos_20260727.json`
+
 ## 20260726 12:01
 
 | Supermercado | Productos |
