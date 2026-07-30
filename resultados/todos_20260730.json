@@ -1,0 +1,1482 @@
+[
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas fritas Lays Clásicas x 330 g",
+    "marca": "Lays",
+    "precio": 10050.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-lays-clasicas-x-330-g/art_3043289/",
+    "timestamp": "2026-07-30T12:27:06.531831"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor a Queso Y Cebolla Lays x 77 g.",
+    "marca": "Lays",
+    "precio": 3900.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-a-queso-y-cebolla-lays-x-77-g/art_3043228/",
+    "timestamp": "2026-07-30T12:27:06.531851"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor a Ketchup Lays x 77 g.",
+    "marca": "Lays",
+    "precio": 3900.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-a-ketchup-lays-x-77-g/art_3043277/",
+    "timestamp": "2026-07-30T12:27:06.531858"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor Jamón Serrano Lays x 77 g.",
+    "marca": "Lays",
+    "precio": 3900.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-jamon-serrano-lays-x-77-g/art_3043216/",
+    "timestamp": "2026-07-30T12:27:06.531863"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas fritas Lays Clásicas x 134 g",
+    "marca": "Lays",
+    "precio": 5450.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-lays-clasicas-x-134-g/art_3043198/",
+    "timestamp": "2026-07-30T12:27:06.531867"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Lays Ondas Sabor a Flamin Hot 70 g",
+    "marca": "Lays",
+    "precio": 3600.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-lays-ondas-sabor-a-flamin-hot-70-g/art_3043393/",
+    "timestamp": "2026-07-30T12:27:06.531871"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos Sabor a Queso Doritos x 129 g.",
+    "marca": "Doritos",
+    "precio": 5450.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-sabor-a-queso-doritos-x-129-g/art_3043204/",
+    "timestamp": "2026-07-30T12:27:06.531875"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Acanaladas Sabor Asado Lays x 77g.",
+    "marca": "Lays",
+    "precio": 3900.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-acanaladas-sabor-asado-lays-x-77g/art_3486680/",
+    "timestamp": "2026-07-30T12:27:06.531879"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor a Jamón Serrano Lays x 122 g.",
+    "marca": "Lays",
+    "precio": 5450.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-a-jamon-serrano-lays-x-122-g/art_3043370/",
+    "timestamp": "2026-07-30T12:27:06.531890"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos Sabor a Queso Doritos x 200 g.",
+    "marca": "Doritos",
+    "precio": 8850.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-sabor-a-queso-doritos-x-200-g/art_3043241/",
+    "timestamp": "2026-07-30T12:27:06.531894"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Tubo de Maíz Dinamita Extra Flamin Hot Doritos x 45 g.",
+    "marca": "Doritos",
+    "precio": 2000.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/tubo-de-maiz-dinamita-extra-flamin-hot-doritos-x-45-g/art_3417992/",
+    "timestamp": "2026-07-30T12:27:06.531898"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas fritas Lays Clásicas x 230 g",
+    "marca": "Lays",
+    "precio": 8850.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-lays-clasicas-x-230-g/art_3043230/",
+    "timestamp": "2026-07-30T12:27:06.531902"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas fritas Lays Clásicas x 40 g",
+    "marca": "Lays",
+    "precio": 2350.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-lays-clasicas-x-40-g/art_3026127/",
+    "timestamp": "2026-07-30T12:27:06.531906"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Tostado sin Sal Maní King x 100 g.",
+    "marca": "Mani King",
+    "precio": 1200.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-tostado-sin-sal-mani-king-x-100-g/art_3049309/",
+    "timestamp": "2026-07-30T12:27:06.531910"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos Sabor a Queso Doritos x 40 g.",
+    "marca": "Doritos",
+    "precio": 2350.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-sabor-a-queso-doritos-x-40-g/art_3026103/",
+    "timestamp": "2026-07-30T12:27:06.531914"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos Dinamita Flaming Hot  Doritos x 82 g.",
+    "marca": "Doritos",
+    "precio": 3000.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-dinamita-flaming-hot-doritos-x-82-g/art_3311259/",
+    "timestamp": "2026-07-30T12:27:06.531920"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos Sweet Chili Doritos x 74 g.",
+    "marca": "Doritos",
+    "precio": 3850.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-sweet-chili-doritos-x-74-g/art_3311193/",
+    "timestamp": "2026-07-30T12:27:06.531924"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos Sabor a Queso Doritos x 77 g.",
+    "marca": "Doritos",
+    "precio": 3900.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-sabor-a-queso-doritos-x-77-g/art_3043186/",
+    "timestamp": "2026-07-30T12:27:06.531927"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Tubo de Maíz Dinamita Extra Flamin Hot Doritos x 82 g.",
+    "marca": "Doritos",
+    "precio": 3000.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/tubo-de-maiz-dinamita-extra-flamin-hot-doritos-x-82-g/art_3418017/",
+    "timestamp": "2026-07-30T12:27:06.531931"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos sabor Pizza Doritos x 74 g.",
+    "marca": "Doritos",
+    "precio": 3850.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-sabor-pizza-doritos-x-74-g/art_3478865/",
+    "timestamp": "2026-07-30T12:27:06.531934"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas sabor Barbacoa Lays x 77 g.",
+    "marca": "Lays",
+    "precio": 3900.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-barbacoa-lays-x-77-g/art_3367680/",
+    "timestamp": "2026-07-30T12:27:06.531938"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos Sabor Quedo Krachitos x 110 g.",
+    "marca": "Krachitos",
+    "precio": 4450.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-sabor-quedo-krachitos-x-110-g/art_3506149/",
+    "timestamp": "2026-07-30T12:27:06.531941"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Konos Sabor Queso Krachitos x 90g.",
+    "marca": "Krachitos",
+    "precio": 3700.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/konos-sabor-queso-krachitos-x-90g/art_3506125/",
+    "timestamp": "2026-07-30T12:27:06.531945"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas La Anónima x 250 g.",
+    "marca": "La Anonima",
+    "precio": 6550.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-la-anonima-x-250-g/art_2978763/",
+    "timestamp": "2026-07-30T12:27:06.531948"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Snacks Horneados Cebolla Y Crema Molinos Ala x 80 g.",
+    "marca": "Molinos Ala",
+    "precio": 2100.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/snacks-horneados-cebolla-y-crema-molinos-ala-x-80-g/art_3450211/",
+    "timestamp": "2026-07-30T12:27:06.531952"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Tradicionales Krach-Itos x 275 g.",
+    "marca": "Krach-Itos",
+    "precio": 6350.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-tradicionales-krach-itos-x-275-g/art_3273854/",
+    "timestamp": "2026-07-30T12:27:06.531956"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Batatas Fritas Mostaza y Miel Quento  x 70 g.",
+    "marca": "Quento",
+    "precio": 2700.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/batatas-fritas-mostaza-y-miel-quento-x-70-g/art_3472796/",
+    "timestamp": "2026-07-30T12:27:06.531959"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Snacks Horneados Queso Molinos Ala x 80 g.",
+    "marca": "Molinos Ala",
+    "precio": 2100.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/snacks-horneados-queso-molinos-ala-x-80-g/art_3450200/",
+    "timestamp": "2026-07-30T12:27:06.531963"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Tradicionales Krach-Itos x 105 g.",
+    "marca": "Krach-Itos",
+    "precio": 2850.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-tradicionales-krach-itos-x-105-g/art_3273880/",
+    "timestamp": "2026-07-30T12:27:06.531967"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Corte Americano Krach-Itos x 105 g.",
+    "marca": "Krach-Itos",
+    "precio": 2850.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-corte-americano-krach-itos-x-105-g/art_3273921/",
+    "timestamp": "2026-07-30T12:27:06.531970"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Corte Americano Krach-Itos x 275 g.",
+    "marca": "Krach-Itos",
+    "precio": 6350.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-corte-americano-krach-itos-x-275-g/art_3273908/",
+    "timestamp": "2026-07-30T12:27:06.531973"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Batatas Fritas Quento x 130 g.",
+    "marca": "Quento",
+    "precio": 4200.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/batatas-fritas-quento-x-130-g/art_3349949/",
+    "timestamp": "2026-07-30T12:27:06.531977"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papa Corte Tradicional Krach-Itos x 165 g.",
+    "marca": "Krach-Itos",
+    "precio": 4050.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papa-corte-tradicional-krach-itos-x-165-g/art_3273866/",
+    "timestamp": "2026-07-30T12:27:06.531980"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Corte Americano Krach-Itos x 165 g.",
+    "marca": "Krach-Itos",
+    "precio": 4050.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-corte-americano-krach-itos-x-165-g/art_3273910/",
+    "timestamp": "2026-07-30T12:27:06.531984"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Jamón Serrano Krach-Itos x 90 g.",
+    "marca": "Krach-Itos",
+    "precio": 3100.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-jamon-serrano-krach-itos-x-90-g/art_2971770/",
+    "timestamp": "2026-07-30T12:27:06.531992"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas sabor Crema y Cebolla Krachitos x 90 g.",
+    "marca": "Krachitos",
+    "precio": 3100.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-crema-y-cebolla-krachitos-x-90-g/art_3362632/",
+    "timestamp": "2026-07-30T12:27:06.531998"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor Cheddar Krach-Itos x 90 g.",
+    "marca": "Krach-Itos",
+    "precio": 3100.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-cheddar-krach-itos-x-90-g/art_2971884/",
+    "timestamp": "2026-07-30T12:27:06.532002"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Pay Krach-Itos x 150 g.",
+    "marca": "Krach-Itos",
+    "precio": 3950.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-pay-krach-itos-x-150-g/art_2987569/",
+    "timestamp": "2026-07-30T12:27:06.532005"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Rueditas sabor Pizza Pep x 74 g.",
+    "marca": "Pep",
+    "precio": 2150.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/rueditas-sabor-pizza-pep-x-74-g/art_3489747/",
+    "timestamp": "2026-07-30T12:27:06.532008"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Rueditas sabor Pizza Pep x 120 g.",
+    "marca": "Pep",
+    "precio": 3400.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/rueditas-sabor-pizza-pep-x-120-g/art_2617195/",
+    "timestamp": "2026-07-30T12:27:06.532011"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Frito Salado sin Piel Croppers x 350 g.",
+    "marca": "Croppers",
+    "precio": 4050.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-frito-salado-sin-piel-croppers-x-350-g/art_3102634/",
+    "timestamp": "2026-07-30T12:27:06.532015"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor Ketchup Krach-Itos x 90 g.",
+    "marca": "Krach-Itos",
+    "precio": 3100.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-ketchup-krach-itos-x-90-g/art_2987510/",
+    "timestamp": "2026-07-30T12:27:06.532094"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Tubo sabor Jalapeño Best x 140g.",
+    "marca": "Best",
+    "precio": 5650.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-tubo-sabor-jalapeno-best-x-140g/art_3498657/",
+    "timestamp": "2026-07-30T12:27:06.532097"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Rueditas Flamin Hot Pep x 71 g.",
+    "marca": "Pep",
+    "precio": 2150.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/rueditas-flamin-hot-pep-x-71-g/art_3417979/",
+    "timestamp": "2026-07-30T12:27:06.532101"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Tubo sabor Barbacoa Best x 140g.",
+    "marca": "Best",
+    "precio": 5650.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-tubo-sabor-barbacoa-best-x-140g/art_3498669/",
+    "timestamp": "2026-07-30T12:27:06.532105"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Clásicas Quento x 160 g.",
+    "marca": "Quento",
+    "precio": 4200.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-clasicas-quento-x-160-g/art_3446736/",
+    "timestamp": "2026-07-30T12:27:06.532108"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Ketchup Quento  x 82 g.",
+    "marca": "Quento",
+    "precio": 2750.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-ketchup-quento-x-82-g/art_3349925/",
+    "timestamp": "2026-07-30T12:27:06.532112"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Clásicas Quento x 92 g.",
+    "marca": "Quento",
+    "precio": 2750.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-clasicas-quento-x-92-g/art_3349913/",
+    "timestamp": "2026-07-30T12:27:06.532115"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Tostado Salado sin Piel La Anónima x 105 g.",
+    "marca": "La Anonima",
+    "precio": 1350.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-tostado-salado-sin-piel-la-anonima-x-105-g/art_3145463/",
+    "timestamp": "2026-07-30T12:27:06.532119"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Corte Americano La Anónima x 150 g.",
+    "marca": "La Anonima",
+    "precio": 4250.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-corte-americano-la-anonima-x-150-g/art_2978775/",
+    "timestamp": "2026-07-30T12:27:06.532122"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Corte Americano La Anónima x 113 g.",
+    "marca": "La Anonima",
+    "precio": 3150.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-corte-americano-la-anonima-x-113-g/art_3375250/",
+    "timestamp": "2026-07-30T12:27:06.532125"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Rústicas La Anónima x 93 g.",
+    "marca": "La Anonima",
+    "precio": 3300.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-rusticas-la-anonima-x-93-g/art_3375286/",
+    "timestamp": "2026-07-30T12:27:06.532129"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Sabor Jamón La Anónima x 93 g.",
+    "marca": "La Anonima",
+    "precio": 3300.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-sabor-jamon-la-anonima-x-93-g/art_3375274/",
+    "timestamp": "2026-07-30T12:27:06.532132"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Tubo sabor Cebolla y Queso La Anónima x 150 g.",
+    "marca": "La Anonima",
+    "precio": 6650.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-tubo-sabor-cebolla-y-queso-la-anonima-x-150-g/art_3196446/",
+    "timestamp": "2026-07-30T12:27:06.532136"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Sabor Cheddar La Anónima x 93 g.",
+    "marca": "La Anonima",
+    "precio": 3300.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-sabor-cheddar-la-anonima-x-93-g/art_3375262/",
+    "timestamp": "2026-07-30T12:27:06.532142"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Tubo sabor Cheddar La Anonima x 150 g.",
+    "marca": "La Anonima",
+    "precio": 6650.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-tubo-sabor-cheddar-la-anonima-x-150-g/art_3196434/",
+    "timestamp": "2026-07-30T12:27:06.532145"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos sabor Original La Anonima x 90 g.",
+    "marca": "La Anonima",
+    "precio": 2700.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-sabor-original-la-anonima-x-90-g/art_3371268/",
+    "timestamp": "2026-07-30T12:27:06.532148"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Tubo sabor Original La Anónima x 150 g.",
+    "marca": "La Anonima",
+    "precio": 6650.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-tubo-sabor-original-la-anonima-x-150-g/art_3196410/",
+    "timestamp": "2026-07-30T12:27:06.532152"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos sabor Chile Picante La Anonima x 90 g.",
+    "marca": "La Anonima",
+    "precio": 2950.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-sabor-chile-picante-la-anonima-x-90-g/art_3371281/",
+    "timestamp": "2026-07-30T12:27:06.532157"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos sabor Queso La Anonima x 90 g.",
+    "marca": "La Anonima",
+    "precio": 2950.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-sabor-queso-la-anonima-x-90-g/art_3371270/",
+    "timestamp": "2026-07-30T12:27:06.532161"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Pochoclos Dulces Gallo Snacks x 50 g.",
+    "marca": "Gallo Snacks",
+    "precio": 2850.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/pochoclos-dulces-gallo-snacks-x-50-g/art_3127515/",
+    "timestamp": "2026-07-30T12:27:06.532164"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos Rounded Tostitos x 260 g.",
+    "marca": "Tostitos",
+    "precio": 6850.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-rounded-tostitos-x-260-g/art_3440187/",
+    "timestamp": "2026-07-30T12:27:06.532168"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chizitos de maíz sabor a queso Cheetos Original x 229 g",
+    "marca": "Cheetos",
+    "precio": 8300.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/chizitos-de-maiz-sabor-a-queso-cheetos-original-x-229-g/art_3103742/",
+    "timestamp": "2026-07-30T12:27:06.532171"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Tostado sin sal Maní King x 350 g.",
+    "marca": "Mani King",
+    "precio": 4590.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-tostado-sin-sal-mani-king-x-350-g/art_3122396/",
+    "timestamp": "2026-07-30T12:27:06.532174"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados Sabor a Queso Pehuamar x 165 g.",
+    "marca": "Pehuamar",
+    "precio": 3650.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/palitos-salados-sabor-a-queso-pehuamar-x-165-g/art_3043319/",
+    "timestamp": "2026-07-30T12:27:06.532178"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Mani Pelado Salado Pehuamar x 75 g.",
+    "marca": "Pehuamar",
+    "precio": 2350.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-pelado-salado-pehuamar-x-75-g/art_3244982/",
+    "timestamp": "2026-07-30T12:27:06.532181"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Aritos de Arroz sabor Crema c/Cebolla Dos Hermanos x 80 g.",
+    "marca": "Dos Hermanos",
+    "precio": 2200.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/aritos-de-arroz-sabor-crema-c-cebolla-dos-hermanos-x-80-g/art_2067225/",
+    "timestamp": "2026-07-30T12:27:06.532187"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Mini Tostadas de Jamón Ibérico Twistos x 155 g.",
+    "marca": "Twistos",
+    "precio": 5600.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mini-tostadas-de-jamon-iberico-twistos-x-155-g/art_2643364/",
+    "timestamp": "2026-07-30T12:27:06.532191"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados Krach-Itos x 70 g.",
+    "marca": "Krach-Itos",
+    "precio": 1250.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/palitos-salados-krach-itos-x-70-g/art_2987533/",
+    "timestamp": "2026-07-30T12:27:06.532194"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos Rounded Tostitos x 160 g.",
+    "marca": "Tostitos",
+    "precio": 5000.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-rounded-tostitos-x-160-g/art_3440175/",
+    "timestamp": "2026-07-30T12:27:06.532197"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Acanaladas Pehuamar x 230 g.",
+    "marca": "Pehuamar",
+    "precio": 6550.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-acanaladas-pehuamar-x-230-g/art_2581899/",
+    "timestamp": "2026-07-30T12:27:06.532200"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Acanaladas Pehuamar x 135 g.",
+    "marca": "Pehuamar",
+    "precio": 4050.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-acanaladas-pehuamar-x-135-g/art_3043307/",
+    "timestamp": "2026-07-30T12:27:06.532203"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados Pehuamar x 165 g.",
+    "marca": "Pehuamar",
+    "precio": 3650.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/palitos-salados-pehuamar-x-165-g/art_3043320/",
+    "timestamp": "2026-07-30T12:27:06.532207"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Frito  Salado Maní King x350gr",
+    "marca": "Mani King",
+    "precio": 4590.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-frito-salado-mani-king-x350gr/art_3122384/",
+    "timestamp": "2026-07-30T12:27:06.532210"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Pochoclos Salados Gallo Snacks x 60 g.",
+    "marca": "Gallo Snacks",
+    "precio": 3400.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/pochoclos-salados-gallo-snacks-x-60-g/art_3127527/",
+    "timestamp": "2026-07-30T12:27:06.532217"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados Krach-Itos x 110 g.",
+    "marca": "Krach-Itos",
+    "precio": 1750.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/palitos-salados-krach-itos-x-110-g/art_2971835/",
+    "timestamp": "2026-07-30T12:27:06.532221"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados sabor Panceta Pep x 84 g.",
+    "marca": "Pep",
+    "precio": 2250.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/palitos-salados-sabor-panceta-pep-x-84-g/art_2945800/",
+    "timestamp": "2026-07-30T12:27:06.532224"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Discos de Arroz Dos Hermanos Jamón Serrano x 80 g.",
+    "marca": "Dos Hermanos",
+    "precio": 2200.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/discos-de-arroz-dos-hermanos-jamon-serrano-x-80-g/art_1994906/",
+    "timestamp": "2026-07-30T12:27:06.532227"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Discos de Arroz sabor Asado Dos Hermanos x 80 g.",
+    "marca": "Dos Hermanos",
+    "precio": 2200.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/discos-de-arroz-sabor-asado-dos-hermanos-x-80-g/art_2116388/",
+    "timestamp": "2026-07-30T12:27:06.532230"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas sabor Queso Pringles x 109 g.",
+    "marca": "Pringles",
+    "precio": 5800.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-queso-pringles-x-109-g/art_3117236/",
+    "timestamp": "2026-07-30T12:27:06.532233"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Bastoncitos Extra Queso Krach-Itos x 60 g.",
+    "marca": "Krach-Itos",
+    "precio": 1650.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/bastoncitos-extra-queso-krach-itos-x-60-g/art_2971823/",
+    "timestamp": "2026-07-30T12:27:06.532237"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos Rounded Tostitos x 100 g.",
+    "marca": "Tostitos",
+    "precio": 3650.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-rounded-tostitos-x-100-g/art_3440163/",
+    "timestamp": "2026-07-30T12:27:06.532240"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chizitos de maíz Cheetos Ondulados Sabor a Queso Crema 43 g",
+    "marca": "Cheetos",
+    "precio": 2400.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/chizitos-de-maiz-cheetos-ondulados-sabor-a-queso-crema-43-g/art_3178304/",
+    "timestamp": "2026-07-30T12:27:06.532243"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas sabor Cheddar Nikitos x 65g.",
+    "marca": "Nikitos",
+    "precio": 1500.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-cheddar-nikitos-x-65g/art_3499984/",
+    "timestamp": "2026-07-30T12:27:06.532246"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Mini Tostadas de Queso Twistos x 155 g.",
+    "marca": "Twistos",
+    "precio": 5600.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mini-tostadas-de-queso-twistos-x-155-g/art_2643388/",
+    "timestamp": "2026-07-30T12:27:06.532249"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas fritas Pehuamar x 230 g",
+    "marca": "Pehuamar",
+    "precio": 6550.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-pehuamar-x-230-g/art_3043344/",
+    "timestamp": "2026-07-30T12:27:06.532252"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chizitos de maíz sabor a queso Cheetos Original x 140 g",
+    "marca": "Cheetos",
+    "precio": 5600.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/chizitos-de-maiz-sabor-a-queso-cheetos-original-x-140-g/art_3103730/",
+    "timestamp": "2026-07-30T12:27:06.532256"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Tubitos de harina de maíz sabor queso 3D Mega Queso x 143 g",
+    "marca": "3D",
+    "precio": 5600.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/tubitos-de-harina-de-maiz-sabor-queso-3d-mega-queso-x-143-g/art_2920803/",
+    "timestamp": "2026-07-30T12:27:06.532259"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos Originales Macritas x 250 g.",
+    "marca": "Macritas",
+    "precio": 5350.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-originales-macritas-x-250-g/art_3015944/",
+    "timestamp": "2026-07-30T12:27:06.532262"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chizitos de maíz Cheetos Ondulados Sabor a Queso Crema 85 g",
+    "marca": "Cheetos",
+    "precio": 4000.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/chizitos-de-maiz-cheetos-ondulados-sabor-a-queso-crema-85-g/art_3178316/",
+    "timestamp": "2026-07-30T12:27:06.532266"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas fritas Pehuamar x 135 g",
+    "marca": "Pehuamar",
+    "precio": 4050.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-pehuamar-x-135-g/art_3043290/",
+    "timestamp": "2026-07-30T12:27:06.532269"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Pelado Salado Krach-Itos x 110 g.",
+    "marca": "Krach-Itos",
+    "precio": 2000.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-pelado-salado-krach-itos-x-110-g/art_2971781/",
+    "timestamp": "2026-07-30T12:27:06.532272"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chizitos de maíz sabor a queso Cheetos Original x 43 g",
+    "marca": "Cheetos",
+    "precio": 2400.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/chizitos-de-maiz-sabor-a-queso-cheetos-original-x-43-g/art_3026115/",
+    "timestamp": "2026-07-30T12:27:06.532276"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Palitos de Maíz Sabor Queso Krachitos x 125g.",
+    "marca": "Krachitos",
+    "precio": 3300.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/palitos-de-maiz-sabor-queso-krachitos-x-125g/art_3496557/",
+    "timestamp": "2026-07-30T12:27:06.532281"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Bastonitos de Queso Krachitos x 125 g.",
+    "marca": "Krachitos",
+    "precio": 3300.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/bastonitos-de-queso-krachitos-x-125-g/art_3496569/",
+    "timestamp": "2026-07-30T12:27:06.532285"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Palitos de Maiz Sabor Queso Krachitos x 240 g.",
+    "marca": "Krachitos",
+    "precio": 5000.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/palitos-de-maiz-sabor-queso-krachitos-x-240-g/art_3496570/",
+    "timestamp": "2026-07-30T12:27:06.532288"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Tubos de Maiz Sabor Queso Pehuamar x 265 g.",
+    "marca": "Pehuamar",
+    "precio": 6100.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/tubos-de-maiz-sabor-queso-pehuamar-x-265-g/art_3238428/",
+    "timestamp": "2026-07-30T12:27:06.532291"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chips de Pan Pita  Original Almadre x 115 g.",
+    "marca": "Almadre",
+    "precio": 2400.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/chips-de-pan-pita-original-almadre-x-115-g/art_3327693/",
+    "timestamp": "2026-07-30T12:27:06.532294"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Galletitas Saladas Kesitas Sabor Queso x 75 g.",
+    "marca": "Kesitas",
+    "precio": 2100.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/galletitas-saladas-kesitas-sabor-queso-x-75-g/art_0242950/",
+    "timestamp": "2026-07-30T12:27:06.532299"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chizitos de maíz Pehuamar Maicitos x 125 g",
+    "marca": "Pehuamar",
+    "precio": 3750.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/chizitos-de-maiz-pehuamar-maicitos-x-125-g/art_2617183/",
+    "timestamp": "2026-07-30T12:27:06.532302"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados sabor a Queso Pehuamar x 90 g.",
+    "marca": "Pehuamar",
+    "precio": 2500.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/palitos-salados-sabor-a-queso-pehuamar-x-90-g/art_2617110/",
+    "timestamp": "2026-07-30T12:27:06.532305"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Mini Tostaditas sabor Queso Twistos x 95 g.",
+    "marca": "Twistos",
+    "precio": 3950.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mini-tostaditas-sabor-queso-twistos-x-95-g/art_2577604/",
+    "timestamp": "2026-07-30T12:27:06.532308"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Tubos de Maiz sabor Queso 3D x 85 g.",
+    "marca": "3D",
+    "precio": 4000.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/tubos-de-maiz-sabor-queso-3d-x-85-g/art_3103766/",
+    "timestamp": "2026-07-30T12:27:06.532311"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos de Maiz con Chia Alwa x 80 g.",
+    "marca": "Alwa",
+    "precio": 2750.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-de-maiz-con-chia-alwa-x-80-g/art_3159255/",
+    "timestamp": "2026-07-30T12:27:06.532314"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Japonés Salado Maniax x 95 g",
+    "marca": "Pehuamar",
+    "precio": 2750.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-japones-salado-maniax-x-95-g/art_3127692/",
+    "timestamp": "2026-07-30T12:27:06.532318"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Nachos Originales Macritas x 110 g.",
+    "marca": "Macritas",
+    "precio": 2700.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/nachos-originales-macritas-x-110-g/art_3026036/",
+    "timestamp": "2026-07-30T12:27:06.532321"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Snack Ondulado sabor Ketchup Cheetos x 80 g.",
+    "marca": "Cheetos",
+    "precio": 4000.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/snack-ondulado-sabor-ketchup-cheetos-x-80-g/art_3470258/",
+    "timestamp": "2026-07-30T12:27:06.532324"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Acanaladas Pehuamar x 90 g.",
+    "marca": "Pehuamar",
+    "precio": 2850.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-acanaladas-pehuamar-x-90-g/art_3416847/",
+    "timestamp": "2026-07-30T12:27:06.532328"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Pochoclo Super Dulce para Microondas Marlom´S x 120 g.",
+    "marca": "Marlom´S",
+    "precio": 2900.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/pochoclo-super-dulce-para-microondas-marlom-s-x-120-g/art_3283598/",
+    "timestamp": "2026-07-30T12:27:06.532331"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Palitos de Arroz sabor Queso Dos Hermanos x 80 g.",
+    "marca": "Dos Hermanos",
+    "precio": 2200.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/palitos-de-arroz-sabor-queso-dos-hermanos-x-80-g/art_1994890/",
+    "timestamp": "2026-07-30T12:27:06.532334"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Pochoclo Dulce para Microondas Marlom S x 87 g.",
+    "marca": "Marlom S",
+    "precio": 2550.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/pochoclo-dulce-para-microondas-marlom-s-x-87-g/art_3111994/",
+    "timestamp": "2026-07-30T12:27:06.532339"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Frito con Piel Maní King x 350 g.",
+    "marca": "Mani King",
+    "precio": 4590.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-frito-con-piel-mani-king-x-350-g/art_3208795/",
+    "timestamp": "2026-07-30T12:27:06.532342"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor Crema Y Cebolla Saladix x 72 g.",
+    "marca": "Saladix",
+    "precio": 1900.0,
+    "precio_lista": 4150.0,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-crema-y-cebolla-saladix-x-72-g/art_3493969/",
+    "timestamp": "2026-07-30T12:27:06.532346"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Lisas Pehuamar x 90 g.",
+    "marca": "Pehuamar",
+    "precio": 2850.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-lisas-pehuamar-x-90-g/art_3416860/",
+    "timestamp": "2026-07-30T12:27:06.532351"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Tostado Salado Croppers x 105 g.",
+    "marca": "Croppers",
+    "precio": 1400.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-tostado-salado-croppers-x-105-g/art_3176502/",
+    "timestamp": "2026-07-30T12:27:06.532354"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chips Pizza Maretti x 140 g.",
+    "marca": "Maretti",
+    "precio": 4750.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/chips-pizza-maretti-x-140-g/art_3505492/",
+    "timestamp": "2026-07-30T12:27:06.532357"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chips de Pan Pita Curcuma Almadre x 115 g.",
+    "marca": "Almadre",
+    "precio": 2400.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/chips-de-pan-pita-curcuma-almadre-x-115-g/art_3534583/",
+    "timestamp": "2026-07-30T12:27:06.532361"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Crocante Tomate y Oliva Croppers x 85 g.",
+    "marca": "Croppers",
+    "precio": 1800.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-crocante-tomate-y-oliva-croppers-x-85-g/art_3297743/",
+    "timestamp": "2026-07-30T12:27:06.532364"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chips de Pan Pita Tomate y Romero Almadre x 115 g.",
+    "marca": "Almadre",
+    "precio": 2400.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/chips-de-pan-pita-tomate-y-romero-almadre-x-115-g/art_3327723/",
+    "timestamp": "2026-07-30T12:27:06.532367"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Frito Pelado Salado Krachitos x 65 g.",
+    "marca": "Krachitos",
+    "precio": 1500.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-frito-pelado-salado-krachitos-x-65-g/art_0539703/",
+    "timestamp": "2026-07-30T12:27:06.532370"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Clásicas Nikitos x 120 g.",
+    "marca": "Nikitos",
+    "precio": 2250.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-clasicas-nikitos-x-120-g/art_2590750/",
+    "timestamp": "2026-07-30T12:27:06.532373"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Pochoclo Salado Manteca para Microonda Marlom S x 100 g.",
+    "marca": "Marlom S",
+    "precio": 2550.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/pochoclo-salado-manteca-para-microonda-marlom-s-x-100-g/art_3076118/",
+    "timestamp": "2026-07-30T12:27:06.532377"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Galletitas Snacks Queso Gallo Snacks x 100 g.",
+    "marca": "Gallo Snacks",
+    "precio": 4050.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/galletitas-snacks-queso-gallo-snacks-x-100-g/art_3096415/",
+    "timestamp": "2026-07-30T12:27:06.532382"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Galletitas Snacks Pizza Gallo Snacks x 100 g.",
+    "marca": "Gallo Snacks",
+    "precio": 4050.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/galletitas-snacks-pizza-gallo-snacks-x-100-g/art_3096427/",
+    "timestamp": "2026-07-30T12:27:06.532385"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Honey Roasted Spicy Dec Alimentos x 220 g.",
+    "marca": "Dec Alimentos",
+    "precio": 4900.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-honey-roasted-spicy-dec-alimentos-x-220-g/art_3004302/",
+    "timestamp": "2026-07-30T12:27:06.532388"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Tubitos de harina de maíz sabor queso 3D Mega Queso x 43 g",
+    "marca": "3D",
+    "precio": 2400.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/tubitos-de-harina-de-maiz-sabor-queso-3d-mega-queso-x-43-g/art_2920785/",
+    "timestamp": "2026-07-30T12:27:06.532392"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Galletitas Saladas sabor Original Rex x 75 g.",
+    "marca": "Rex",
+    "precio": 1950.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/galletitas-saladas-sabor-original-rex-x-75-g/art_1045258/",
+    "timestamp": "2026-07-30T12:27:06.532394"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor Original Saladix x 130g.",
+    "marca": "Saladix",
+    "precio": 6250.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-original-saladix-x-130g/art_3493908/",
+    "timestamp": "2026-07-30T12:27:06.532398"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Sabor Original Saladix x 80 g.",
+    "marca": "Saladix",
+    "precio": 3800.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-sabor-original-saladix-x-80-g/art_3493933/",
+    "timestamp": "2026-07-30T12:27:06.532401"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Corte Americano sabor Picante Limón Nikitos x 65 g.",
+    "marca": "Nikitos",
+    "precio": 1600.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-corte-americano-sabor-picante-limon-nikitos-x-65-g/art_3429192/",
+    "timestamp": "2026-07-30T12:27:06.532404"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Snack Cebolla Caramelizada Dos Hermanos x 80 g.",
+    "marca": "Dos Hermanos",
+    "precio": 2500.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/snack-cebolla-caramelizada-dos-hermanos-x-80-g/art_3534730/",
+    "timestamp": "2026-07-30T12:27:06.532407"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Palitos Salados sabor Panceta Krachitos x 110 g.",
+    "marca": "Krachitos",
+    "precio": 1850.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/palitos-salados-sabor-panceta-krachitos-x-110-g/art_3176940/",
+    "timestamp": "2026-07-30T12:27:06.532410"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chips Crema y Cebolla Maretti x 140 g.",
+    "marca": "Maretti",
+    "precio": 4750.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/chips-crema-y-cebolla-maretti-x-140-g/art_3505480/",
+    "timestamp": "2026-07-30T12:27:06.532426"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Chips Queso Maretti x 140 g.",
+    "marca": "Maretti",
+    "precio": 4750.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/chips-queso-maretti-x-140-g/art_3505510/",
+    "timestamp": "2026-07-30T12:27:06.532429"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Takis Xplosion 85g",
+    "marca": "Takis",
+    "precio": 3500.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/takis-xplosion-85g/art_3281966/",
+    "timestamp": "2026-07-30T12:27:06.532432"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Maní Crocante Jamón Serrano Croppers x 85 g.",
+    "marca": "Croppers",
+    "precio": 1800.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/mani-crocante-jamon-serrano-croppers-x-85-g/art_3297688/",
+    "timestamp": "2026-07-30T12:27:06.532435"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Pochoclos Dulces Acaramelados Biggys x 100 g.",
+    "marca": "Biggys",
+    "precio": 2650.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/pochoclos-dulces-acaramelados-biggys-x-100-g/art_3263058/",
+    "timestamp": "2026-07-30T12:27:06.532438"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Jamón Serrano Quento x 82 g.",
+    "marca": "Quento",
+    "precio": 2800.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-jamon-serrano-quento-x-82-g/art_3349937/",
+    "timestamp": "2026-07-30T12:27:06.532441"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Pochoclos Dulces Sudestada Pop  x 120 g.",
+    "marca": "Sudestada Pop",
+    "precio": 5550.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/pochoclos-dulces-sudestada-pop-x-120-g/art_3302982/",
+    "timestamp": "2026-07-30T12:27:06.532444"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Pochoclos Dulces Sudestada Pop x 280 g.",
+    "marca": "Sudestada Pop",
+    "precio": 7350.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/pochoclos-dulces-sudestada-pop-x-280-g/art_3302994/",
+    "timestamp": "2026-07-30T12:27:06.532447"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Tubo sabor Crema y Cebolla Best x 140 g.",
+    "marca": "Best",
+    "precio": 4520.0,
+    "precio_lista": 5650.0,
+    "url": "https://www.laanonima.com.ar/papas-tubo-sabor-crema-y-cebolla-best-x-140-g/art_3307396/",
+    "timestamp": "2026-07-30T12:27:06.532450"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Tubo sabor Original Best x 140 g.",
+    "marca": "Best",
+    "precio": 4520.0,
+    "precio_lista": 5650.0,
+    "url": "https://www.laanonima.com.ar/papas-tubo-sabor-original-best-x-140-g/art_3307384/",
+    "timestamp": "2026-07-30T12:27:06.532454"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Tubo sabor Queso Cheddar Best x 140 g.",
+    "marca": "Best",
+    "precio": 4520.0,
+    "precio_lista": 5650.0,
+    "url": "https://www.laanonima.com.ar/papas-tubo-sabor-queso-cheddar-best-x-140-g/art_3307402/",
+    "timestamp": "2026-07-30T12:27:06.532457"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Tubos de Maíz X-Treme Hot Krachitos x 45 g.",
+    "marca": "Krachitos",
+    "precio": 1850.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/tubos-de-maiz-x-treme-hot-krachitos-x-45-g/art_3349718/",
+    "timestamp": "2026-07-30T12:27:06.532460"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Jamón Serrano Nikitos x 65 g.",
+    "marca": "Nikitos",
+    "precio": 1600.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-jamon-serrano-nikitos-x-65-g/art_2702162/",
+    "timestamp": "2026-07-30T12:27:06.532463"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Kétchup Barbacoa Nikitos x 65 g.",
+    "marca": "Nikitos",
+    "precio": 1600.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-ketchup-barbacoa-nikitos-x-65-g/art_2702174/",
+    "timestamp": "2026-07-30T12:27:06.532466"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Snacks Pizzitos sabor Jamón y Queso Nikitos x 100 g.",
+    "marca": "Nikitos",
+    "precio": 1300.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/snacks-pizzitos-sabor-jamon-y-queso-nikitos-x-100-g/art_2702204/",
+    "timestamp": "2026-07-30T12:27:06.532469"
+  },
+  {
+    "supermercado": "La Anónima",
+    "categoria": "snacks",
+    "nombre": "Papas Fritas Clásicas Nikitos x 70 g.",
+    "marca": "Nikitos",
+    "precio": 1400.0,
+    "precio_lista": null,
+    "url": "https://www.laanonima.com.ar/papas-fritas-clasicas-nikitos-x-70-g/art_2590748/",
+    "timestamp": "2026-07-30T12:27:06.532472"
+  }
+]
