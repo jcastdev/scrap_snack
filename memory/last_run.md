@@ -1,5 +1,13 @@
 # Último run
 
+## 20260812 11:42
+
+| Supermercado | Productos |
+|---|---|
+
+
+**Total: 0 productos** -- `resultados/todos_20260812.json`
+
 ## 20260811 11:41
 
 | Supermercado | Productos |
