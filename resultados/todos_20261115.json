@@ -1,0 +1,502 @@
+[
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack de arroz Molinos Ala sabor cebolla y crema 80 grs",
+    "marca": "Molinos Ala",
+    "precio": 2199,
+    "precio_lista": 2199,
+    "url": "https://www.carrefour.com.ar/snack-de-arroz-molinos-ala-sabor-cebolla-y-crema-80-grs-770851/p",
+    "timestamp": "2026-11-15T17:32:11.367187"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack sabor a pizza Pep Rueditas 120 g.",
+    "marca": "Pep",
+    "precio": 3649,
+    "precio_lista": 3649,
+    "url": "https://www.carrefour.com.ar/snack-sabor-a-pizza-pep-rueditas-120-g-676529/p",
+    "timestamp": "2026-11-15T17:32:11.367199"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack para perros Pedigree Dentastix 7 u. razas medianas",
+    "marca": "Pedigree",
+    "precio": 5300,
+    "precio_lista": 5300,
+    "url": "https://www.carrefour.com.ar/snack-para-perros-pedigree-dentastix-7-u-razas-medianas/p",
+    "timestamp": "2026-11-15T17:32:11.367202"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snacks de arroz Dos Hermanos jamón 80 g.",
+    "marca": "Dos Hermanos",
+    "precio": 1800,
+    "precio_lista": 1800,
+    "url": "https://www.carrefour.com.ar/snacks-de-arroz-dos-hermanos-jamon-80-g/p",
+    "timestamp": "2026-11-15T17:32:11.367204"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack de arroz Molinos Ala sabor queso 80 grs",
+    "marca": "Molinos Ala",
+    "precio": 2400,
+    "precio_lista": 2400,
+    "url": "https://www.carrefour.com.ar/snack-de-arroz-molinos-ala-sabor-queso-80-grs-770850/p",
+    "timestamp": "2026-11-15T17:32:11.367206"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack Doritos Dinamita Flamin' Hot 82 grs",
+    "marca": "Doritos",
+    "precio": 3249,
+    "precio_lista": 3249,
+    "url": "https://www.carrefour.com.ar/snack-doritos-dinamita-flamin-hot-82-grs-757966/p",
+    "timestamp": "2026-11-15T17:32:11.367210"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Mix saladito 500 g.",
+    "marca": "The Happy Snack",
+    "precio": 8715,
+    "precio_lista": 8715,
+    "url": "https://www.carrefour.com.ar/mix-saladito-500-g/p",
+    "timestamp": "2026-11-15T17:32:11.367212"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack para perros Pedigree Rodeo 4 u. carne",
+    "marca": "Pedigree",
+    "precio": 2789,
+    "precio_lista": 2789,
+    "url": "https://www.carrefour.com.ar/snack-para-perros-pedigree-rodeo-4-u-carne/p",
+    "timestamp": "2026-11-15T17:32:11.367214"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Pochoclos Gallo snacks con caramelo 50 g.",
+    "marca": "Gallo Snacks",
+    "precio": 2600,
+    "precio_lista": 2600,
+    "url": "https://www.carrefour.com.ar/pochoclos-gallo-snacks-con-caramelo-50-g-720571/p",
+    "timestamp": "2026-11-15T17:32:11.367215"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Mix desayuno 500 g.",
+    "marca": "The Happy Snack",
+    "precio": 12599,
+    "precio_lista": 12599,
+    "url": "https://www.carrefour.com.ar/mix-desayuno-500-g/p",
+    "timestamp": "2026-11-15T17:32:11.367217"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack para perros Pedigree Dentastix 7 u. razas pequeñas",
+    "marca": "Pedigree",
+    "precio": 4689,
+    "precio_lista": 4689,
+    "url": "https://www.carrefour.com.ar/snack-para-perros-pedigree-dentastix-7-u-razas-pequenas/p",
+    "timestamp": "2026-11-15T17:32:11.367218"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack para perros Pedigree Biscrok 500 g.",
+    "marca": "Pedigree",
+    "precio": 8369,
+    "precio_lista": 8369,
+    "url": "https://www.carrefour.com.ar/snack-para-perros-pedigree-biscrok-500-g/p",
+    "timestamp": "2026-11-15T17:32:11.367220"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack para perros Pedigree Dentastix 3 u. razas medianas",
+    "marca": "Pedigree",
+    "precio": 2789,
+    "precio_lista": 2789,
+    "url": "https://www.carrefour.com.ar/snack-para-perros-pedigree-dentastix-3-u-razas-medianas/p",
+    "timestamp": "2026-11-15T17:32:11.367222"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack para gato Whiskas salmón 40 grs",
+    "marca": "Whiskas",
+    "precio": 2090,
+    "precio_lista": 2090,
+    "url": "https://www.carrefour.com.ar/snack-para-gato-whiskas-salmon-40-grs-736363/p",
+    "timestamp": "2026-11-15T17:32:11.367223"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack sabor a pizza Pep rueditas 74 g.",
+    "marca": "Pep",
+    "precio": 2350,
+    "precio_lista": 2350,
+    "url": "https://www.carrefour.com.ar/snack-sabor-a-pizza-pep-rueditas-74-g-676530/p",
+    "timestamp": "2026-11-15T17:32:11.367225"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack perros Golocan bocaditos carne-choco 100 g.",
+    "marca": "GoloCan",
+    "precio": 3000,
+    "precio_lista": 3000,
+    "url": "https://www.carrefour.com.ar/snack-perros-golocan-bocaditos-carne-choco-100grs/p",
+    "timestamp": "2026-11-15T17:32:11.367226"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Galletitas de arroz Gallo snacks de pizza 100 g.",
+    "marca": "Gallo Snacks",
+    "precio": 4055,
+    "precio_lista": 4055,
+    "url": "https://www.carrefour.com.ar/galletitas-de-arroz-gallo-snacks-de-pizza-100-g-724637/p",
+    "timestamp": "2026-11-15T17:32:11.367228"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack para perros Pedigree Rodeo 4 u. pollo",
+    "marca": "Pedigree",
+    "precio": 2789,
+    "precio_lista": 2789,
+    "url": "https://www.carrefour.com.ar/snack-para-perros-pedigree-rodeo-4-u-pollo/p",
+    "timestamp": "2026-11-15T17:32:11.367229"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack para gato Whiskas salmón 80 grs",
+    "marca": "Whiskas",
+    "precio": 3500,
+    "precio_lista": 3500,
+    "url": "https://www.carrefour.com.ar/snack-para-gato-whiskas-salmon-80-grs-736369/p",
+    "timestamp": "2026-11-15T17:32:11.367231"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Barra de arroz Gallo snacks con dulce de leche x6 20 g.",
+    "marca": "Gallo Snacks",
+    "precio": 9970,
+    "precio_lista": 9970,
+    "url": "https://www.carrefour.com.ar/barra-de-arroz-gallo-snacks-con-dulce-de-leche-x6-20-g-736232/p",
+    "timestamp": "2026-11-15T17:32:11.367232"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snacks Buckin Takis Blue Heat 49 grs",
+    "marca": "Takis",
+    "precio": 1299,
+    "precio_lista": 1299,
+    "url": "https://www.carrefour.com.ar/snacks-buckin-takis-blue-heat-49-grs-787144/p",
+    "timestamp": "2026-11-15T17:32:11.367234"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Chips de arroz sabor queso Gallo Snacks 60 grs",
+    "marca": "Gallo Snacks",
+    "precio": 2110,
+    "precio_lista": 2110,
+    "url": "https://www.carrefour.com.ar/chips-de-arroz-sabor-queso-gallo-snacks-60-grs-783196/p",
+    "timestamp": "2026-11-15T17:32:11.367236"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack para gato Whiskas pollo 80 grs",
+    "marca": "Whiskas",
+    "precio": 3500,
+    "precio_lista": 3500,
+    "url": "https://www.carrefour.com.ar/snack-para-gato-whiskas-pollo-80-grs-736365/p",
+    "timestamp": "2026-11-15T17:32:11.367237"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Mix Vital 500 g.",
+    "marca": "The Happy Snack",
+    "precio": 13129,
+    "precio_lista": 13129,
+    "url": "https://www.carrefour.com.ar/mix-vital-500-g-652673/p",
+    "timestamp": "2026-11-15T17:32:11.367239"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Chips de arroz sabor pizza Gallo Snacks 60 grs",
+    "marca": "Gallo Snacks",
+    "precio": 2110,
+    "precio_lista": 2110,
+    "url": "https://www.carrefour.com.ar/chips-de-arroz-sabor-pizza-gallo-snacks-60-grs-783195/p",
+    "timestamp": "2026-11-15T17:32:11.367242"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack Doritos Dinamita Flamin' Hot 45 grs",
+    "marca": "Doritos",
+    "precio": 1827.5,
+    "precio_lista": 2150,
+    "url": "https://www.carrefour.com.ar/snack-doritos-dinamita-flamin-hot-45-grs-757965/p",
+    "timestamp": "2026-11-15T17:32:11.367244"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack para gato Whiskas pollo 40 grs",
+    "marca": "Whiskas",
+    "precio": 2090,
+    "precio_lista": 2090,
+    "url": "https://www.carrefour.com.ar/snack-para-gato-whiskas-pollo-40-grs-736359/p",
+    "timestamp": "2026-11-15T17:32:11.367245"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snacks de arroz Dos Hermanos sabor pizza 80 g.",
+    "marca": "Dos Hermanos",
+    "precio": 2105,
+    "precio_lista": 2105,
+    "url": "https://www.carrefour.com.ar/snacks-de-arroz-dos-hermanos-sabor-pizza-80-g-703575/p",
+    "timestamp": "2026-11-15T17:32:11.367247"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack para perros Pedigree Dentastix 1 u. razas pequeñas",
+    "marca": "Pedigree",
+    "precio": 900,
+    "precio_lista": 900,
+    "url": "https://www.carrefour.com.ar/snack-para-perros-pedigree-dentastix-1-u-razas-pequenas/p",
+    "timestamp": "2026-11-15T17:32:11.367248"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Bizcochos de arroz salados Gallo Snacks 150 grs",
+    "marca": "Gallo Snacks",
+    "precio": 4790,
+    "precio_lista": 4790,
+    "url": "https://www.carrefour.com.ar/bizcochos-de-arroz-salados-gallo-snacks-150-grs-783194/p",
+    "timestamp": "2026-11-15T17:32:11.367250"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Galletitas de arroz Gallo snacks de pizza 150 g.",
+    "marca": "Gallo Snacks",
+    "precio": 5435,
+    "precio_lista": 5435,
+    "url": "https://www.carrefour.com.ar/galletitas-de-arroz-gallo-snacks-de-pizza-150-g-724638/p",
+    "timestamp": "2026-11-15T17:32:11.367251"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack para gato Whiskas carne 80 grs",
+    "marca": "Whiskas",
+    "precio": 3500,
+    "precio_lista": 3500,
+    "url": "https://www.carrefour.com.ar/snack-para-gato-whiskas-carne-80-grs-736367/p",
+    "timestamp": "2026-11-15T17:32:11.367253"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack tostis Shiva de jalapeño y limón 100 grs",
+    "marca": "Shiva",
+    "precio": 3480,
+    "precio_lista": 3480,
+    "url": "https://www.carrefour.com.ar/snack-tostis-shiva-de-jalapeno-y-limon-100-grs-767075/p",
+    "timestamp": "2026-11-15T17:32:11.367254"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack para gato Whiskas carne 40 grs",
+    "marca": "Whiskas",
+    "precio": 2090,
+    "precio_lista": 2090,
+    "url": "https://www.carrefour.com.ar/snack-para-gato-whiskas-carne-40-grs-736361/p",
+    "timestamp": "2026-11-15T17:32:11.367256"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack para perros Carrefour hueso medium",
+    "marca": "Carrefour",
+    "precio": 3990,
+    "precio_lista": 3990,
+    "url": "https://www.carrefour.com.ar/snack-para-perros-carrefour-hueso-medium/p",
+    "timestamp": "2026-11-15T17:32:11.367257"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack para perros dentastix Pedigree adulto x 7 uni",
+    "marca": "Pedigree",
+    "precio": 7969,
+    "precio_lista": 7969,
+    "url": "https://www.carrefour.com.ar/snack-para-perros-dentastix-pedigree-adulto-x-7-uni-721992/p",
+    "timestamp": "2026-11-15T17:32:11.367259"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack de arroz Lennys Pitachips con sal marina 150 grs",
+    "marca": "Lennys",
+    "precio": 3680,
+    "precio_lista": 3680,
+    "url": "https://www.carrefour.com.ar/snack-de-arroz-lennys-pitachips-con-sal-marina-150-grs-769374/p",
+    "timestamp": "2026-11-15T17:32:11.367260"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack de arroz Lennys Pita Chips de queso y cebolla 150 grs",
+    "marca": "Lennys",
+    "precio": 3419,
+    "precio_lista": 3419,
+    "url": "https://www.carrefour.com.ar/snack-de-arroz-lennys-pita-chips-de-queso-y-cebolla-150-grs-769376/p",
+    "timestamp": "2026-11-15T17:32:11.367262"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack para perros Pedigree Dentastix 1 u. razas medianas",
+    "marca": "Pedigree",
+    "precio": 1100,
+    "precio_lista": 1100,
+    "url": "https://www.carrefour.com.ar/snack-para-perros-pedigree-dentastix-1-u-razas-medianas/p",
+    "timestamp": "2026-11-15T17:32:11.367263"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack perros Golocan bocaditos jamon-queso 100 g.",
+    "marca": "GoloCan",
+    "precio": 3000,
+    "precio_lista": 3000,
+    "url": "https://www.carrefour.com.ar/snack-perros-golocan-bocaditos-jamon-queso-100grs/p",
+    "timestamp": "2026-11-15T17:32:11.367265"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack para perros Pedigree Dentastix 3 u. razas pequeñas",
+    "marca": "Pedigree",
+    "precio": 2409,
+    "precio_lista": 2409,
+    "url": "https://www.carrefour.com.ar/snack-para-perros-pedigree-dentastix-3-u-razas-pequenas/p",
+    "timestamp": "2026-11-15T17:32:11.367266"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snacks horneados Granix Veggie snacks cebolla 90 g.",
+    "marca": "Granix",
+    "precio": 2239,
+    "precio_lista": 2239,
+    "url": "https://www.carrefour.com.ar/snacks-horneados-granix-veggie-snacks-cebolla-90-g-15025/p",
+    "timestamp": "2026-11-15T17:32:11.367268"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack tostaditas Shiva de serraceno germinado 100 grs",
+    "marca": "Shiva",
+    "precio": 4320,
+    "precio_lista": 4320,
+    "url": "https://www.carrefour.com.ar/snack-tostaditas-shiva-de-serraceno-germinado-100-grs-767076/p",
+    "timestamp": "2026-11-15T17:32:11.367269"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snacks Doritos Dinamita extra Flamin Hot 45 grs",
+    "marca": "Doritos",
+    "precio": 1720,
+    "precio_lista": 2150,
+    "url": "https://www.carrefour.com.ar/snacks-doritos-dinamita-extra-flamin-hot-45-grs-767819/p",
+    "timestamp": "2026-11-15T17:32:11.367271"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Bizcochos de arroz salados Gallo Snacks bolsa 60 grs",
+    "marca": "Gallo Snacks",
+    "precio": 2110,
+    "precio_lista": 2110,
+    "url": "https://www.carrefour.com.ar/bizcochitos-de-arroz-salados-gallo-snacks-bolsa-60-grs-783192/p",
+    "timestamp": "2026-11-15T17:32:11.367274"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snacks horneados Granix Veggie snacks pizza 90 g.",
+    "marca": "Granix",
+    "precio": 2239,
+    "precio_lista": 2239,
+    "url": "https://www.carrefour.com.ar/snacks-horneados-granix-veggie-snacks-pizza-90-g-15241/p",
+    "timestamp": "2026-11-15T17:32:11.367276"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack para perro Pedigree Tasty Bites de carne 80 grs",
+    "marca": "Pedigree",
+    "precio": 3100,
+    "precio_lista": 3100,
+    "url": "https://www.carrefour.com.ar/snack-para-perro-pedigree-tasty-bites-de-carne-80-grs-778088/p",
+    "timestamp": "2026-11-15T17:32:11.367279"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack de arroz Lennys Pita Chips sabor zapallo 150 grs",
+    "marca": "Lennys",
+    "precio": 3419,
+    "precio_lista": 3419,
+    "url": "https://www.carrefour.com.ar/snack-de-arroz-lennys-pita-chips-sabor-zapallo-150-grs-769375/p",
+    "timestamp": "2026-11-15T17:32:11.367281"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack para perro Pedigree Tasty Bites de carne 40 grs",
+    "marca": "Pedigree",
+    "precio": 1800,
+    "precio_lista": 1800,
+    "url": "https://www.carrefour.com.ar/snack-para-perro-pedigree-tasty-bites-de-carne-40-grs-778091/p",
+    "timestamp": "2026-11-15T17:32:11.367282"
+  },
+  {
+    "supermercado": "Carrefour Argentina",
+    "categoria": "snacks",
+    "nombre": "Snack tostaditas Shiva de quinoa 100 grs",
+    "marca": "Shiva",
+    "precio": 4160,
+    "precio_lista": 4160,
+    "url": "https://www.carrefour.com.ar/snack-tostaditas-shiva-de-quinoa-100-grs-767074/p",
+    "timestamp": "2026-11-15T17:32:11.367284"
+  }
+]
