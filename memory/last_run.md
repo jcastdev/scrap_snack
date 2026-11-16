@@ -1,5 +1,13 @@
 # Último run
 
+## 20261116 20:47
+
+| Supermercado | Productos |
+|---|---|
+| Carrefour Argentina | 50 |
+
+**Total: 50 productos** -- `resultados/todos_20261116.json`
+
 ## 20261115 17:32
 
 | Supermercado | Productos |
