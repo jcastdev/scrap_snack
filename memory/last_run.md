@@ -1,5 +1,15 @@
 # Último run
 
+## 20261121 17:52
+
+| Supermercado | Productos |
+|---|---|
+| Carrefour Argentina | 50 |
+| Coto Digital | 239 |
+| La Anónima | 160 |
+
+**Total: 449 productos** -- `resultados/todos_20261121.json`
+
 ## 20261120 18:57
 
 | Supermercado | Productos |
